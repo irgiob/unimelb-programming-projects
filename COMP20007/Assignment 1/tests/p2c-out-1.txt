@@ -1,0 +1,5 @@
+read critical value k = 3
+read 5 elements into the deque
+original deque: [1, 4, 3, 2, 5]
+split deque: [4, 3, 5, 1, 2]
+successfully freed the deque

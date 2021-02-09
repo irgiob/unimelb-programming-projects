@@ -1,0 +1,67 @@
+                             
+                     Stage 3 Attempt
+
+    --------------------------------------------------
+    1 Heading One
+
+    This is random text that has no message and no
+    real meaning. It's sole purpose is to test
+    comp10002 assignment 1 programs.
+
+    And nothing else...
+
+    1.1 Heading Two
+
+    It has some second level headings
+    some ".b" commands and some .p commands.
+
+    1.2 Heading Three
+
+    It also has more second level headings.
+
+    And more paragraph breaks, even though there was
+    no real reason to put one there, well, whatever.
+
+          And it has a section of text
+          that is in much narrower
+          margins, created using the
+          ".l" and ".w" commands.
+
+    And then back to the indent that was default from
+    the beginning, and back also to the original text
+    width.
+
+    --------------------------------------------------
+    2 Heading Four
+
+    2.1 Heading Five
+
+    Wow, whatever, totally exciting, not! But if your
+    program can process this input file then there is
+    a reasonable chance it can process the other
+    secret test files that will get used during the
+    submission testing after submissions have closed.
+
+    Don't forget to include the Authorship Declaration
+    in your submission (see
+    https://people.eng.unimelb.edu.au/ammoffat/teaching/10002/ass1/ass1-skel.c
+    to get a copy of it), and don't forget to sign it.
+
+    2.2 Heading Six
+
+    2.2.1 Heading Seven
+
+    2.3 Heading Eight
+
+    2.3.1 Heading Nine
+
+    2.3.2 Heading Ten
+
+    Plus some text that goes into that subsubsection.
+
+    --------------------------------------------------
+    3 Finally
+
+    Ok, whatever.
+
+                       End of Input

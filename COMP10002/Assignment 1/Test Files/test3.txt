@@ -1,0 +1,240 @@
+.l 2
+.w 65
+.c 
+.c Programming, Problem Solving, and Abstraction
+.c With C
+.p
+.c by
+.p
+.c Alistair Moffat
+.c ammoffat@unimelb.edu.au
+.p
+.c (c) Pearson Education, 2012
+
+.h 1 Computers and Programs
+
+Physicists study energy -- how it is created, how it is stored, how
+it is measured, and how it is transformed from one representation to
+another.
+Chemists study matter in the same way.
+In Computer Science we study information.
+We are interested in understanding how it is created, how it is
+stored, how it is measured, how it is used, and what limits there are
+on our ability to exploit it.
+
+.p
+Like physicists and chemists, in computing we make use of special
+notations and tools.
+In terms of tools, physicists use laser interferometers, radio
+telescopes, and high-energy synchrotrons; chemists use mass
+spectrometers, gas chromatographs, and wet labs; and in Computer
+Science our tool is the computer.
+This conflict between the name of the discipline and the tool used in
+the discipline is somewhat confusing, and in this sense the title
+"Computer Science" is a little unfortunate.
+
+.p
+[blah blah blah]
+
+.h 2 Computers and computation
+
+Everyone knows what a computer is -- a
+screen, or monitor; a keyboard or touch-screen; and often other
+peripherals like mouse, camera, microphone, and speakers.
+Most computers also have some form of on-board permanent storage such
+as disk or semiconductor memory; ports for mounting external memory
+devices such as DVD drives and flash memory; and a network
+connection, often via a wireless network.
+Your smart phone certainly meets this definition of a computer, as
+does your digital camera; your flat screen tv set is probably a
+computer; and there are also likely to be several computers inside
+your car.
+Computers really are everywhere.
+
+.p
+Inside every computer is a set of complex and quite remarkable
+electronic devices.
+The main logical components are the processor unit, and the memory.
+The memory stores information while it is being directly
+manipulated.
+When you are typing an email to a friend, for example, each of the
+keys you strike on the keyboard sends an electrical signal through to
+the mailer program you are using, and a character is stored in the
+memory.
+
+.p
+[blah blah blah]
+
+.h 2 Programs and programming
+
+The previous section discussed
+the hardware of a computer system.
+To be useful, a computer also requires software, or
+apps as they are increasingly known as.
+Word- and image-processing tools, spreadsheet tools, web browsing
+tools, and email systems all came with our computers and smart
+devices when we purchased them, and for many people that is all that
+they need.
+These tools are how we, as computer users, manipulate the information
+we have stored on our computer.
+There is a myriad of
+other software that we are only vaguely conscious of, that controls
+the hardware, and helps us use it -- this is called system
+software, or the operating system.
+
+.p
+There are several important
+operating systems in use in the world.
+Microsoft's Windows system is one, the Unix system is another, and
+the Macintosh MacOS (a Unix derivative) is a third.
+To be an effective user of a computer, you must be familiar with the
+operating system on that machine.
+It provides facilities for managing collections of files, for
+executing programs, and for both sharing the resources and
+simultaneously ensuring that users cannot access other users' files.
+
+.p
+[blah blah blah]
+
+.h 2 A first C program
+
+.p
+Having convinced you that C is a useful tool in your future career,
+it is time to look at a C program:
+
+.p
+.c Now start writing your assignment code!!
+
+.p
+There are a number of points to note.
+First, the text between the /* and
+*/ pair is discarded by the C system, and is purely for the
+benefit of any human readers -- it is a comment.
+Comments can be placed at almost any point of a program, and once the
+/* is read, all further text is discarded until a */
+combination is encountered.
+Unfortunately, comments cannot appear within other comments -- there
+is no sense of nesting.
+Later C standards also allow a form of
+comment where any text that follows a // pair in a line is
+disregarded, but this is not legal in ANSI (C90) C programs.
+
+.p
+Programs typically commence with a comment that records the author of
+the program, a history of any modifications to the program and a set
+of associated dates, and a summary of the operation of the program.
+For brevity the programs shown in this book contain relatively terse
+commenting, and you should be more expansive in the software that you
+write.
+
+.p
+[blah blah blah]
+
+.h 2 The task of programming
+
+.p
+How do we go about the task of
+writing programs?
+An analogy that might help is that learning programming is
+like learning how to ride a bike.
+One can study physics and know of angular momentum, but the ability
+to balance is quite independent of that knowledge, and only comes
+after (for most people) scraped knees and tears of frustration.
+Similarly, it is possible to study the properties of a programming
+language in the abstract, but successfully conceiving and
+implementing a working program requires more than purely abstract
+skills.
+The moment of truth as they learn to "balance" is a watershed
+point for most students learning programming.
+
+.p
+The single most important thing is to practice -- exactly the same
+requirement as when learning to ride a bike.
+You can't develop the necessary skills if you never get around to
+writing small programs, on your own, or working with a friend.
+And you can memorize this entire book, but unless you have spent time
+in front of a computer making mistakes, you won't have the practical
+skills necessary to complement your academic knowledge.
+
+.p
+[blah blah blah]
+
+.h 2 Be careful
+
+.p
+We end this first chapter with a stern warning
+about computers, and their propensity to fail.
+Yes, they are enormously reliable and accurate, often running for
+months or years without hardware failure.
+But they do eventually fail, and if the user has been naive, that
+failure can be heart-breaking.
+For a home computer, the value of the hardware may be ten times the
+value of the software and data.
+You spent perhaps $1000 on the computer, and have purchased a few
+hundred dollars worth of games.
+In this case, the actual hardware of the
+computer is easily replaceable when it reaches the end of its life,
+and there is relatively little to worry about.
+
+
+.p
+But if you have used that computer as an authoring or storage device
+-- for example, because you are working on a programming assignment,
+or writing a book, or managing the accounts for a small business, or
+storing your holiday photos -- what is stored quickly becomes more
+valuable than the hardware it is stored on.
+It would not be unusual for a home computer used in this way to
+contain data that is worth ten times the cost of the hardware.
+If this is the case, you need to be careful -- losing $10,000 worth
+of data is very upsetting.
+For a business computer, in a small or medium-sized enterprise, the
+value of the data could be ten times the value of the programs that
+manipulate it, and one hundred times the value of the hardware.
+That $1,000 computer may well be storing $100,000 worth of work
+orders, invoices, and overdue accounts.
+
+.h 1 Numbers In, Numbers Out
+
+This chapter introduces the three elemental components of any C
+program: reading numbers from the input; doing some calculation on
+them; and then printing numbers back to the output.
+But first you need to know about the rules for forming identifiers,
+and about constants and variables.
+
+.h 2 Identifiers
+
+.p
+[blah blah blah]
+
+.h 2 Constants and variables
+
+.p
+[blah blah blah]
+
+.h 3 A level-three subsection
+
+.h 3 A second level-three subsection
+
+.h 2 Another level-two subsection
+
+.h 3 Another level-three subsection
+
+.h 3 Another second level-three subsection
+
+.h 1 A Level-One Subsection With a Very Very Very Very Very Long Title
+
+.h 3 A level-three subsection that isn't within a level-two subsection
+
+.h 3 Another stranded level-three subsection
+
+.h 2 This is the first level two subsection
+
+.h 3 And so this one now has a middle number :-)
+
+.h 1 And So On...
+
+.c And it continues from here
+.c More lines,
+.c More more lines,
+and
+.c More more and much MORE FUN!!

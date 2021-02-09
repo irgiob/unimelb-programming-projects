@@ -1,0 +1,4 @@
+read 7 elements into the deque
+original deque: [13, 7, 29, 10, 21, 16, 23]
+reversed deque: [23, 16, 21, 10, 29, 7, 13]
+successfully freed the deque

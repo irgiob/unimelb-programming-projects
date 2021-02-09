@@ -1,0 +1,14 @@
+==STAGE 0=======================================
+The grid has 3 rows and 3 columns.
+The grid has 1 block(s).
+The initial cell in the grid is [0,0].
+The goal cell in the grid is [2,2].
+The proposed route in the grid is:
+[0,0]->[2,0]->[2,1]->[2,2].
+There is an illegal move in this route!
+==STAGE 1=======================================
+ 012
+0I  
+1 # 
+2**G
+================================================

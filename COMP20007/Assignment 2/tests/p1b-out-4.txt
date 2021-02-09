@@ -1,0 +1,16 @@
+0:
+1:
+2: strings
+3: short
+4: the
+5: some
+6: forgoodmeasure
+7: now
+8: thisisaverylongstringandIhopethelovelystudentwhohasimplementedthishashingalgorithmdoesntencounteranyintegeroverfloworanyothernastysideeffectsthatmayresultfromsuchastringbeinginsertedanywaythisstringwillendin321woah
+9: mod
+10: GOODLUCK
+11:
+12:
+13: AndnowbacktoThebigONESwithinconsIst3ntCapitilisation
+14: 619
+15: islargerthannormalandmaytripyouuptoo

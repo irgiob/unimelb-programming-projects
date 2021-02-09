@@ -1,0 +1,16 @@
+Tree,640,384
+Pool,576,384
+SignUp,576,256
+SignDown,576,512
+Fence,576,0
+Fence,576,704
+Stockpile,832,384
+Tree,576,192
+Tree,576,576
+Fence,832,192
+Fence,832,576
+Stockpile,0,192
+Stockpile,0,576
+Gatherer,768,384
+Gatherer,512,192
+Gatherer,512,576

@@ -1,0 +1,82 @@
+Hello, what are you
+      doing?
+
+Haha, I'm writing my comp10002 programming assignment.
+Its REALLY REALLY fun, because we are doing
+			text processing.
+.p
+What that means is that whatever I write
+in
+this input file is going to get reformatted and presented 
+neatly                 as the text output of the program (written to stdout, but can easily be captured into a file using ">" as a shell operator), 
+regardless		of how
+
+it appears in the input,
+with embedded formatting commands controlling the layout.
+.p
+Cool, isn't it!
+.p
+Now, here is some more text with some other commands in it:
+.b
+new line one;
+.b
+new line two; and
+.b
+new line three.
+.p
+And a new paragraph as well, taa-dahhh!
+.w 30
+And now the width has been shrunk down to thirty,
+whereas previously
+it was at the initial default value
+(see the handout for details).
+Changing either the left margin or the width
+always starts a new paragraph.
+That means you need to be a bit careful, because...
+.w 55
+.l 10
+ ...if both margins get changed at the same time with consecutive
+commands, we don't want two blank inter-paragraph lines introduced,
+we just want one.
+(Note also that if you do want to have a line or paragraph that
+starts with a ".", you need to remember to put an extra  space
+in front of it
+so that the "." does not get interpreted as a command.)
+.p
+.p
+And note also that consecutive ".p" commands only cause a
+single paragraph break to be generated.
+.b
+.b
+.b
+And the same with multiple ".b" commands in a row, they shouldn't add
+additional lines. And also, be sure that, for example,
+ .p combinations *not* in column one don't get accidentally processed
+ 				as commands!
+.p
+Finally, you need to correctly handle extended strings like URLs
+such as
+http://people.eng.unimelb.edu.au/ammoffat/teaching/10002/ass1/
+(which is 62 characters) that are
+longer than the current width supposedly allows...
+
+.c !!ALGORITHMS#ARE#FUN
+.c !ALGORITHMS#ARE#FUN!
+.c #ARE#FUN!!ALGORITHMS
+.c #FUN!!ALGORITHMS#ARE
+.c ALGORITHMS#ARE#FUN!!
+.c ARE#FUN!!ALGORITHMS#
+.c E#FUN!!ALGORITHMS#AR
+.c FUN!!ALGORITHMS#ARE#
+.c GORITHMS#ARE#FUN!!AL
+.c HMS#ARE#FUN!!ALGORIT
+.c ITHMS#ARE#FUN!!ALGOR
+.c LGORITHMS#ARE#FUN!!A
+.c MS#ARE#FUN!!ALGORITH
+.c N!!ALGORITHMS#ARE#FU
+.c ORITHMS#ARE#FUN!!ALG
+.c RE#FUN!!ALGORITHMS#A
+.c RITHMS#ARE#FUN!!ALGO
+.c S#ARE#FUN!!ALGORITHM
+.c THMS#ARE#FUN!!ALGORI
+.c UN!!ALGORITHMS#ARE#F

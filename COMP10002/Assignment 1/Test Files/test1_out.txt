@@ -1,0 +1,54 @@
+    Hello, what are you doing? Haha, I'm writing my
+    comp10002 programming assignment. Its REALLY
+    REALLY fun, because we are doing text processing.
+
+    What that means is that whatever I write in this
+    input file is going to get reformatted and
+    presented neatly as the text output of the program
+    (written to stdout, but can easily be captured
+    into a file using ">" as a shell operator),
+    regardless of how it appears in the input, with
+    embedded formatting commands controlling the
+    layout.
+
+    Cool, isn't it!
+
+    Now, here is some more text with some other
+    commands in it:
+    new line one;
+    new line two; and
+    new line three.
+
+    And a new paragraph as well, taa-dahhh!
+
+    And now the width has been
+    shrunk down to thirty, whereas
+    previously it was at the
+    initial default value (see the
+    handout for details). Changing
+    either the left margin or the
+    width always starts a new
+    paragraph. That means you need
+    to be a bit careful,
+    because...
+
+          ...if both margins get changed at the same time with
+          consecutive commands, we don't want two blank
+          inter-paragraph lines introduced, we just want one.
+          (Note also that if you do want to have a line or
+          paragraph that starts with a ".", you need to remember
+          to put an extra space in front of it so that the "."
+          does not get interpreted as a command.)
+
+          And note also that consecutive ".p" commands only cause
+          a single paragraph break to be generated.
+          And the same with multiple ".b" commands in a row, they
+          shouldn't add additional lines. And also, be sure that,
+          for example, .p combinations *not* in column one don't
+          get accidentally processed as commands!
+
+          Finally, you need to correctly handle extended strings
+          like URLs such as
+          http://people.eng.unimelb.edu.au/ammoffat/teaching/10002/ass1/
+          (which is 62 characters) that are longer than the
+          current width supposedly allows...

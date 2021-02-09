@@ -1,0 +1,5 @@
+aga 1
+alb 2
+alg 9
+alr 1
+art 2

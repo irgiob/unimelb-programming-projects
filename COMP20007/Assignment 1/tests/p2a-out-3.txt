@@ -1,0 +1,4 @@
+read 1 elements into the deque
+original deque: [3054]
+reversed deque: [3054]
+successfully freed the deque
