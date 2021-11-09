@@ -7,5 +7,9 @@ A compilation of all the programming assignments and tasks I did across my Compu
 - COMP20007 (Design of Algorithms)
 - COMP20008 (Elements of Data Processing)
 - SWEN20003 (Object-Oriented Software Development)
+- COMP30023 (Computer Systems)
+- COMP30024 (Artificial Intelligence)
+- SWEN30006 (Software Modelling & Design)
+- INFO30005 (Web Information Technologies)
 
 note: only specification, mark-schemes, test/input files, and programming components are included in this repository. Non-programming parts of the assignments have not been included.

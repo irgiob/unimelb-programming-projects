@@ -1,0 +1,12 @@
+0,RUNNING,pid=4,remaining_time=30,cpu=0
+5,RUNNING,pid=1,remaining_time=20,cpu=0
+25,FINISHED,pid=1,proc_remaining=3
+25,RUNNING,pid=4,remaining_time=25,cpu=0
+50,FINISHED,pid=4,proc_remaining=2
+50,RUNNING,pid=3,remaining_time=30,cpu=0
+80,FINISHED,pid=3,proc_remaining=1
+80,RUNNING,pid=2,remaining_time=40,cpu=0
+120,FINISHED,pid=2,proc_remaining=0
+Turnaround time 62
+Time overhead 2.93 1.9
+Makespan 120

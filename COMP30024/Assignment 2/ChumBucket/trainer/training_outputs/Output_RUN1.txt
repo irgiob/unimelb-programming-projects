@@ -1,0 +1,3200 @@
+##############  GENERATION 0 ###############
+['Gio', 'Wilbert'] ['41', '7', '2', '* winner: lower']
+fitness value of chromosome 0 : -5459
+['Wilbert', 'Gio'] ['42', '7', '0', '* winner: upper']
+fitness value of chromosome 1 : -5658
+['Wilbert', 'Gio'] ['69', '7', '1', '* winner: upper']
+fitness value of chromosome 2 : -5531
+['Wilbert', 'Gio'] ['43', '7', '1', '* winner: upper']
+fitness value of chromosome 3 : -5557
+['Gio', 'Wilbert'] ['35', '4', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 4 : -765
+['Wilbert', 'Gio'] ['34', '7', '2', '* winner: upper']
+fitness value of chromosome 5 : -5466
+['Gio', 'Wilbert'] ['42', '7', '2', '* winner: lower']
+fitness value of chromosome 6 : -5458
+['Wilbert', 'Gio'] ['40', '7', '2', '* winner: upper']
+fitness value of chromosome 7 : -5460
+['Gio', 'Wilbert'] ['38', '7', '4', '* winner: lower']
+fitness value of chromosome 8 : -5262
+['Wilbert', 'Gio'] ['44', '7', '1', '* winner: upper']
+fitness value of chromosome 9 : -5556
+['Wilbert', 'Gio'] ['37', '7', '1', '* winner: upper']
+fitness value of chromosome 10 : -5563
+['Gio', 'Wilbert'] ['52', '7', '1', '* winner: lower']
+fitness value of chromosome 11 : -5548
+['Gio', 'Wilbert'] ['36', '7', '2', '* winner: lower']
+fitness value of chromosome 12 : -5464
+['Gio', 'Wilbert'] ['48', '7', '2', '* winner: lower']
+fitness value of chromosome 13 : -5452
+['Gio', 'Wilbert'] ['33', '7', '1', '* winner: lower']
+fitness value of chromosome 14 : -5567
+['Gio', 'Wilbert'] ['42', '7', '1', '* winner: lower']
+fitness value of chromosome 15 : -5558
+['Gio', 'Wilbert'] ['39', '7', '1', '* winner: lower']
+fitness value of chromosome 16 : -5561
+['Gio', 'Wilbert'] ['33', '7', '0', '* winner: lower']
+fitness value of chromosome 17 : -5667
+['Wilbert', 'Gio'] ['37', '7', '1', '* winner: upper']
+fitness value of chromosome 18 : -5563
+['Gio', 'Wilbert'] ['41', '7', '1', '* winner: lower']
+fitness value of chromosome 19 : -5559
+['Wilbert', 'Gio'] ['38', '7', '1', '* winner: upper']
+fitness value of chromosome 20 : -5562
+['Gio', 'Wilbert'] ['39', '7', '0', '* winner: lower']
+fitness value of chromosome 21 : -5661
+['Wilbert', 'Gio'] ['42', '7', '4', '* winner: upper']
+fitness value of chromosome 22 : -5258
+['Gio', 'Wilbert'] ['41', '7', '3', '* winner: lower']
+fitness value of chromosome 23 : -5359
+['Wilbert', 'Gio'] ['32', '7', '0', '* winner: upper']
+fitness value of chromosome 24 : -5668
+####### fittest chromosome in generation 0 is having fitness value: -765
+[ 0.93 -0.35 0.16 0.21 -0.25 0.76 -0.86 0.1 -0.43 0.47 -0.77 0.48
+ -0.8 -0.76 0.72 0.57 -0.65 0.79]
+[ 0.11 0.6 0.71 -0.97 -0.54 0.75 0.87 0.73 -0.68 0.51 -0.89 -0.91
+ -0.64 0.14 -0.41 -0.06 -0.34 -0.99]
+[-0.82 -0.08 -0.45 -0.91 0.3 -0.97 -0.3 -0.35 -0.61 0.78 0.96 0.87
+ -0.17 0.07 0.4 -0.15 -0.49 -0.97]
+[ 0.15 -0.79 -0.65 0.45 0.65 -0.18 -0.72 0.89 0.62 -0.04 0.05 -0.35
+ 0.14 -0.49 0.29 0.49 -0.61 0.7 ]
+[ 0.46 0.11 0.55 0.32 -0.55 0.04 0.2 -0.37 -0.03 0.73 0.56 0.86
+ -0.47 -0.72 -0.01 0.32 0.06 -0.35]
+[ 0.31 0.33 -0.51 0.73 0.22 0.8 0.5 0.56 -0.15 0.2 0.44 -0.04
+ 0.81 -0.37 -0.69 -0.34 0.34 -0.38]
+##############  GENERATION 1 ###############
+['Gio', 'Wilbert'] ['31', '7', '1', '* winner: lower']
+fitness value of chromosome 0 : -5569
+['Gio', 'Wilbert'] ['39', '7', '2', '* winner: lower']
+fitness value of chromosome 1 : -5461
+['Gio', 'Wilbert'] ['38', '7', '4', '* winner: lower']
+fitness value of chromosome 2 : -5262
+['Gio', 'Wilbert'] ['45', '7', '6', '* winner: lower']
+fitness value of chromosome 3 : -5055
+['Gio', 'Wilbert'] ['33', '7', '1', '* winner: lower']
+fitness value of chromosome 4 : -5567
+['Gio', 'Wilbert'] ['41', '7', '0', '* winner: lower']
+fitness value of chromosome 5 : -5659
+['Wilbert', 'Gio'] ['38', '7', '2', '* winner: upper']
+fitness value of chromosome 6 : -5462
+['Wilbert', 'Gio'] ['37', '7', '3', '* winner: upper']
+fitness value of chromosome 7 : -5363
+['Wilbert', 'Gio'] ['31', '7', '3', '* winner: upper']
+fitness value of chromosome 8 : -5369
+['Gio', 'Wilbert'] ['41', '7', '3', '* winner: lower']
+fitness value of chromosome 9 : -5359
+['Gio', 'Wilbert'] ['45', '7', '3', '* winner: lower']
+fitness value of chromosome 10 : -5355
+['Gio', 'Wilbert'] ['34', '7', '0', '* winner: lower']
+fitness value of chromosome 11 : -5666
+['Wilbert', 'Gio'] ['34', '7', '1', '* winner: upper']
+fitness value of chromosome 12 : -5566
+['Gio', 'Wilbert'] ['38', '7', '0', '* winner: lower']
+fitness value of chromosome 13 : -5662
+['Wilbert', 'Gio'] ['37', '7', '2', '* winner: upper']
+fitness value of chromosome 14 : -5463
+['Wilbert', 'Gio'] ['33', '7', '3', '* winner: upper']
+fitness value of chromosome 15 : -5367
+['Gio', 'Wilbert'] ['31', '7', '3', '* winner: lower']
+fitness value of chromosome 16 : -5369
+['Wilbert', 'Gio'] ['46', '7', '0', '* winner: upper']
+fitness value of chromosome 17 : -5654
+['Wilbert', 'Gio'] ['37', '7', '4', '* winner: upper']
+fitness value of chromosome 18 : -5263
+['Gio', 'Wilbert'] ['40', '7', '1', '* winner: lower']
+fitness value of chromosome 19 : -5560
+['Gio', 'Wilbert'] ['44', '7', '1', '* winner: lower']
+fitness value of chromosome 20 : -5556
+['Wilbert', 'Gio'] ['40', '7', '4', '* winner: upper']
+fitness value of chromosome 21 : -5260
+['Gio', 'Wilbert'] ['31', '7', '1', '* winner: lower']
+fitness value of chromosome 22 : -5569
+['Gio', 'Wilbert'] ['40', '7', '1', '* winner: lower']
+fitness value of chromosome 23 : -5560
+['Wilbert', 'Gio'] ['35', '7', '2', '* winner: upper']
+fitness value of chromosome 24 : -5465
+####### fittest chromosome in generation 1 is having fitness value: -5055
+[ 0.15 -0.79 -0.65 0.45 0.65 -0.18 -0.72 0.89 0.62 -0.04 0.05 -0.35
+ 0.14 -0.49 0.29 0.49 -0.61 0.7 ]
+[ 0.93 -0.79 0.16 0.45 0.65 0.76 -0.466 0.89 -0.43 -0.04
+ 0.05 -0.35 0.14 -0.76 0.29 0.57 -0.65 0.7 ]
+[-0.82 -0.08 -0.45 -0.91 0.3 -0.97 -0.3 -0.35 -0.61 0.78 0.96 0.87
+ -0.17 0.07 0.4 -0.15 -0.49 -0.97]
+[-0.82 -0.08 -0.65 -0.91 0.65 -0.97 -0.72 0.711 0.62 -0.04
+ 0.96 0.87 -0.17 0.07 0.29 -0.15 -0.61 0.7 ]
+[-0.82 -0.08 0.16 -0.91 0.3 -0.97 -0.3 0.1 -0.43 0.47 0.96 0.48
+ -0.8 -0.76 0.72 -0.15 -0.65 -1.46]
+[ 0.15 -0.08 -0.45 -0.012 0.3 -0.97 -0.72 -0.35 -0.61 0.78
+ 0.96 0.87 0.14 -0.49 0.29 0.49 -0.49 0.7 ]
+##############  GENERATION 2 ###############
+['Wilbert', 'Gio'] ['39', '7', '4', '* winner: upper']
+fitness value of chromosome 0 : -5261
+['Gio', 'Wilbert'] ['38', '7', '3', '* winner: lower']
+fitness value of chromosome 1 : -5362
+['Gio', 'Wilbert'] ['27', '7', '2', '* winner: lower']
+fitness value of chromosome 2 : -5473
+['Gio', 'Wilbert'] ['43', '7', '5', '* winner: lower']
+fitness value of chromosome 3 : -5157
+['Wilbert', 'Gio'] ['36', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 4 : -764
+['Wilbert', 'Gio'] ['34', '7', '1', '* winner: upper']
+fitness value of chromosome 5 : -5566
+['Wilbert', 'Gio'] ['44', '7', '4', '* winner: upper']
+fitness value of chromosome 6 : -5256
+['Gio', 'Wilbert'] ['44', '7', '2', '* winner: lower']
+fitness value of chromosome 7 : -5456
+['Gio', 'Wilbert'] ['37', '7', '3', '* winner: lower']
+fitness value of chromosome 8 : -5363
+['Gio', 'Wilbert'] ['45', '7', '3', '* winner: lower']
+fitness value of chromosome 9 : -5355
+['Gio', 'Wilbert'] ['42', '7', '3', '* winner: lower']
+fitness value of chromosome 10 : -5358
+['Gio', 'Wilbert'] ['58', '7', '4', '* winner: lower']
+fitness value of chromosome 11 : -5242
+['Gio', 'Wilbert'] ['39', '7', '0', '* winner: lower']
+fitness value of chromosome 12 : -5661
+['Wilbert', 'Gio'] ['30', '7', '3', '* winner: upper']
+fitness value of chromosome 13 : -5370
+['Gio', 'Wilbert'] ['37', '7', '2', '* winner: lower']
+fitness value of chromosome 14 : -5463
+['Wilbert', 'Gio'] ['35', '7', '2', '* winner: upper']
+fitness value of chromosome 15 : -5465
+['Wilbert', 'Gio'] ['50', '7', '2', '* winner: upper']
+fitness value of chromosome 16 : -5450
+['Wilbert', 'Gio'] ['43', '7', '3', '* winner: upper']
+fitness value of chromosome 17 : -5357
+['Gio', 'Wilbert'] ['27', '7', '6', '* winner: lower']
+fitness value of chromosome 18 : -5073
+['Wilbert', 'Gio'] ['40', '7', '3', '* winner: upper']
+fitness value of chromosome 19 : -5360
+['Wilbert', 'Gio'] ['34', '7', '3', '* winner: upper']
+fitness value of chromosome 20 : -5366
+['Wilbert', 'Gio'] ['40', '7', '2', '* winner: upper']
+fitness value of chromosome 21 : -5460
+['Gio', 'Wilbert'] ['41', '7', '6', '* winner: lower']
+fitness value of chromosome 22 : -5059
+['Gio', 'Wilbert'] ['39', '7', '5', '* winner: lower']
+fitness value of chromosome 23 : -5161
+['Gio', 'Wilbert'] ['28', '7', '2', '* winner: lower']
+fitness value of chromosome 24 : -5472
+####### fittest chromosome in generation 2 is having fitness value: -764
+[-0.82 -0.08 0.16 -0.91 0.3 -0.97 -0.3 0.1 -0.43 0.47 0.96 0.48
+ -0.8 -0.76 0.72 -0.15 -0.65 -1.46]
+[-0.82 -0.08 -0.65 -0.91 0.65 -0.97 -0.72 0.89 -0.43 -0.04
+ -0.003 -0.35 0.14 0.07 0.29 -0.15 -0.61 0.7 ]
+[ 0.15 -0.08 0.16 -0.91 0.3 -0.18 -0.72 0.1 -0.43 -0.04
+ 0.05 -0.392 0.14 -0.49 0.29 -0.15 -0.61 -1.46 ]
+[-0.82 -0.08 -0.65 -0.91 0.65 -0.97 -0.72 0.711 0.62 -0.04
+ 0.96 0.87 -0.17 0.07 0.29 -0.15 -0.61 0.7 ]
+[ 0.15 -0.79 -0.65 -0.91 0.65 -0.18 -0.72 0.711 0.62 -0.04
+ 0.05 -0.35 0.14 0.07 0.29 -0.15 -1.366 0.7 ]
+[ 0.15 -0.08 -0.45 -0.91 0.3 -0.97 -0.72 -0.35 -0.61 0.78
+ 0.96 1.556 -0.17 0.07 0.4 -0.15 -0.49 0.7 ]
+##############  GENERATION 3 ###############
+['Gio', 'Wilbert'] ['31', '7', '0', '* winner: lower']
+fitness value of chromosome 0 : -5669
+['Gio', 'Wilbert'] ['29', '7', '3', '* winner: lower']
+fitness value of chromosome 1 : -5371
+['Gio', 'Wilbert'] ['39', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 2 : -861
+['Gio', 'Wilbert'] ['44', '7', '4', '* winner: lower']
+fitness value of chromosome 3 : -5256
+['Wilbert', 'Gio'] ['44', '7', '0', '* winner: upper']
+fitness value of chromosome 4 : -5656
+['Wilbert', 'Gio'] ['42', '7', '5', '* winner: upper']
+fitness value of chromosome 5 : -5158
+['Gio', 'Wilbert'] ['54', '7', '4', '* winner: lower']
+fitness value of chromosome 6 : -5246
+['Wilbert', 'Gio'] ['40', '7', '4', '* winner: upper']
+fitness value of chromosome 7 : -5260
+['Gio', 'Wilbert'] ['37', '7', '2', '* winner: lower']
+fitness value of chromosome 8 : -5463
+['Wilbert', 'Gio'] ['26', '2', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 9 : -574
+['Wilbert', 'Gio'] ['31', '7', '2', '* winner: upper']
+fitness value of chromosome 10 : -5469
+['Wilbert', 'Gio'] ['45', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 11 : -755
+['Wilbert', 'Gio'] ['37', '7', '2', '* winner: upper']
+fitness value of chromosome 12 : -5463
+['Gio', 'Wilbert'] ['40', '7', '4', '* winner: lower']
+fitness value of chromosome 13 : -5260
+['Gio', 'Wilbert'] ['50', '7', '6', '* winner: lower']
+fitness value of chromosome 14 : -5050
+['Wilbert', 'Gio'] ['28', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 15 : -572
+['Wilbert', 'Gio'] ['44', '7', '4', '* winner: upper']
+fitness value of chromosome 16 : -5256
+['Wilbert', 'Gio'] ['41', '7', '6', '* winner: upper']
+fitness value of chromosome 17 : -5059
+['Wilbert', 'Gio'] ['43', '7', '3', '* winner: upper']
+fitness value of chromosome 18 : -5357
+['Wilbert', 'Gio'] ['40', '7', '4', '* winner: upper']
+fitness value of chromosome 19 : -5260
+['Gio', 'Wilbert'] ['37', '7', '2', '* winner: lower']
+fitness value of chromosome 20 : -5463
+['Gio', 'Wilbert'] ['44', '7', '6', '* winner: lower']
+fitness value of chromosome 21 : -5056
+['Gio', 'Wilbert'] ['41', '7', '2', '* winner: lower']
+fitness value of chromosome 22 : -5459
+['Wilbert', 'Gio'] ['46', '6', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 23 : -954
+['Wilbert', 'Gio'] ['44', '7', '4', '* winner: upper']
+fitness value of chromosome 24 : -5256
+####### fittest chromosome in generation 3 is having fitness value: -572
+[ 0.15 -0.08 -0.65 -0.91 -0.14 -0.18 -0.72 0.89 -0.43 -0.04 0.05 -0.35
+ 0.14 -0.49 0.29 -0.15 -0.61 -1.46]
+[ 0.15 -0.08 0.16 -0.91 0.3 -0.18 -0.72 0.1 0.62 -0.04
+ 0.609 -0.35 0.14 0.07 0.29 -0.15 -0.61 -1.46 ]
+[-0.82 -0.08 -0.65 -0.91 0.65 -0.97 0.234 0.89 0.62 -0.04
+ 0.96 -0.35 -0.17 0.07 0.29 -0.15 -0.61 0.7 ]
+[ 0.15 -0.08 0.16 -0.91 0.3 -0.18 -0.72 0.1 -0.43 -0.04
+ 0.05 -0.392 0.14 -0.49 0.29 -0.15 -0.61 -1.46 ]
+[-0.82 -0.08 0.16 -0.91 0.3 -0.97 -0.3 0.1 -0.43 -0.04
+ 0.96 0.48 -0.8 -0.76 0.72 -0.15 -0.61 1.153]
+[-0.82 -0.08 -0.65 -0.91 0.65 -0.18 -0.72 0.711 0.62 -0.04
+ 0.05 -0.35 -0.17 0.07 0.29 -0.15 -0.61 1.086]
+##############  GENERATION 4 ###############
+['Wilbert', 'Gio'] ['27', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 0 : -873
+['Gio', 'Wilbert'] ['30', '5', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 1 : -870
+['Wilbert', 'Gio'] ['45', '7', '3', '* winner: upper']
+fitness value of chromosome 2 : -5355
+['Wilbert', 'Gio'] ['30', '7', '4', '* winner: upper']
+fitness value of chromosome 3 : -5270
+['Wilbert', 'Gio'] ['31', '7', '1', '* winner: upper']
+fitness value of chromosome 4 : -5569
+['Wilbert', 'Gio'] ['31', '7', '2', '* winner: upper']
+fitness value of chromosome 5 : -5469
+['Wilbert', 'Gio'] ['47', '7', '7', '* winner: upper']
+fitness value of chromosome 6 : -4953
+['Wilbert', 'Gio'] ['50', '7', '2', '* winner: upper']
+fitness value of chromosome 7 : -5450
+['Gio', 'Wilbert'] ['39', '7', '5', '* winner: lower']
+fitness value of chromosome 8 : -5161
+['Wilbert', 'Gio'] ['44', '7', '2', '* winner: upper']
+fitness value of chromosome 9 : -5456
+['Wilbert', 'Gio'] ['45', '7', '3', '* winner: upper']
+fitness value of chromosome 10 : -5355
+['Wilbert', 'Gio'] ['33', '7', '2', '* winner: upper']
+fitness value of chromosome 11 : -5467
+['Gio', 'Wilbert'] ['46', '7', '6', '* winner: lower']
+fitness value of chromosome 12 : -5054
+['Gio', 'Wilbert'] ['34', '7', '3', '* winner: lower']
+fitness value of chromosome 13 : -5366
+['Gio', 'Wilbert'] ['20', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 14 : -580
+['Gio', 'Wilbert'] ['45', '7', '1', '* winner: lower']
+fitness value of chromosome 15 : -5555
+['Gio', 'Wilbert'] ['48', '7', '3', '* winner: lower']
+fitness value of chromosome 16 : -5352
+['Gio', 'Wilbert'] ['27', '5', '7', '* winner: upper']
+fitness value of chromosome 17 : 5227
+['Wilbert', 'Gio'] ['23', '4', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 18 : -777
+['Wilbert', 'Gio'] ['37', '7', '4', '* winner: upper']
+fitness value of chromosome 19 : -5263
+['Gio', 'Wilbert'] ['38', '7', '3', '* winner: lower']
+fitness value of chromosome 20 : -5362
+['Gio', 'Wilbert'] ['51', '7', '4', '* winner: lower']
+fitness value of chromosome 21 : -5249
+['Gio', 'Wilbert'] ['35', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 22 : -665
+['Gio', 'Wilbert'] ['43', '7', '7', '* winner: lower']
+fitness value of chromosome 23 : -4957
+['Gio', 'Wilbert'] ['39', '7', '3', '* winner: lower']
+fitness value of chromosome 24 : -5361
+####### fittest chromosome in generation 4 is having fitness value: 5227
+[ 0.15 -0.08 -0.65 -0.91 0.3 -0.18 -0.72 0.1 -0.43 -0.04
+ 0.05 -0.392 0.14 -0.49 0.29 -1.131 -0.61 -1.46 ]
+[ 0.15 -0.08 0.16 -0.91 0.3 -0.18 -0.72 0.1 -0.43 -0.04
+ 0.05 0.042 0.14 0.07 0.29 -0.15 -0.61 -1.46 ]
+[-0.82 -0.08 0.16 -0.91 0.3 -0.18 -0.72 0.711 0.62 -0.04
+ 0.05 -0.35 -0.17 0.07 0.29 -0.15 -0.61 -2.05 ]
+[ 0.15 -0.08 0.16 -0.91 0.3 -0.18 0.195 0.89 -0.43 -0.04
+ 0.05 -0.392 0.14 -0.49 0.29 -0.15 -0.61 -1.46 ]
+[ 0.15 -0.08 0.16 -0.91 0.3 -0.18 -0.72 0.1 0.62 -0.04
+ 0.609 -0.35 0.14 0.07 0.29 -0.15 -0.61 -1.46 ]
+[ 0.15 -0.08 -0.65 -0.91 -0.14 -0.18 -0.72 0.89 -0.43 -0.04 0.05 -0.35
+ 0.14 -0.49 0.29 -0.15 -0.61 -1.46]
+##############  GENERATION 5 ###############
+['Wilbert', 'Gio'] ['34', '7', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 0 : -1066
+['Wilbert', 'Gio'] ['27', '2', '7', '* winner: lower']
+fitness value of chromosome 1 : 5527
+['Gio', 'Wilbert'] ['33', '7', '6', '* winner: lower']
+fitness value of chromosome 2 : -5067
+['Gio', 'Wilbert'] ['27', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 3 : -573
+['Gio', 'Wilbert'] ['37', '7', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 4 : -1063
+['Wilbert', 'Gio'] ['31', '7', '4', '* winner: upper']
+fitness value of chromosome 5 : -5269
+['Wilbert', 'Gio'] ['47', '7', '6', '* winner: upper']
+fitness value of chromosome 6 : -5053
+['Gio', 'Wilbert'] ['22', '1', '7', '* winner: upper']
+fitness value of chromosome 7 : 5622
+['Wilbert', 'Gio'] ['34', '5', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 8 : -866
+['Gio', 'Wilbert'] ['34', '7', '1', '* winner: lower']
+fitness value of chromosome 9 : -5566
+['Wilbert', 'Gio'] ['33', '7', '5', '* winner: upper']
+fitness value of chromosome 10 : -5167
+['Wilbert', 'Gio'] ['36', '7', '7', '* winner: upper']
+fitness value of chromosome 11 : -4964
+['Gio', 'Wilbert'] ['56', '7', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 12 : -944
+['Wilbert', 'Gio'] ['37', '7', '6', '* winner: upper']
+fitness value of chromosome 13 : -5063
+['Wilbert', 'Gio'] ['38', '7', '7', '* winner: upper']
+fitness value of chromosome 14 : -4962
+['Wilbert', 'Gio'] ['46', '7', '7', '* winner: upper']
+fitness value of chromosome 15 : -4954
+['Gio', 'Wilbert'] ['30', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 16 : -770
+['Gio', 'Wilbert'] ['38', '7', '2', '* winner: lower']
+fitness value of chromosome 17 : -5462
+['Wilbert', 'Gio'] ['23', '2', '7', '* winner: lower']
+fitness value of chromosome 18 : 5523
+['Wilbert', 'Gio'] ['41', '7', '4', '* winner: upper']
+fitness value of chromosome 19 : -5259
+['Gio', 'Wilbert'] ['43', '7', '2', '* winner: lower']
+fitness value of chromosome 20 : -5457
+['Wilbert', 'Gio'] ['44', '7', '5', '* winner: upper']
+fitness value of chromosome 21 : -5156
+['Gio', 'Wilbert'] ['56', '7', '7', '* winner: lower']
+fitness value of chromosome 22 : -4944
+['Wilbert', 'Gio'] ['37', '7', '5', '* winner: upper']
+fitness value of chromosome 23 : -5163
+['Wilbert', 'Gio'] ['31', '7', '7', '* winner: upper']
+fitness value of chromosome 24 : -4969
+####### fittest chromosome in generation 5 is having fitness value: 5622
+[-0.82 -0.08 0.16 -0.91 0.808 -0.18 -0.72 0.1 0.62 -0.04
+ 0.05 0.042 -0.17 0.07 0.29 -0.15 -0.61 -1.46 ]
+[ 0.15 -0.08 0.16 -0.91 0.3 -0.18 -0.72 0.1 -0.43 -0.04
+ 0.05 0.042 0.14 0.07 0.29 -0.15 -0.61 -1.46 ]
+[ 0.15 -0.08 -0.65 -0.91 0.3 -0.18 -0.72 0.1 -0.43 -0.04
+ 0.05 -0.462 0.14 -0.49 0.29 -0.15 -0.61 -1.46 ]
+[ 0.15 -0.08 0.16 -0.91 0.3 -0.18 0.195 0.89 -0.43 -0.04
+ 0.05 -0.392 0.14 -0.49 0.29 -0.15 -0.61 -1.46 ]
+[ 0.15 -0.08 0.16 -0.91 0.3 -0.18 -0.72 0.89 0.62 -0.04
+ 0.189 -0.35 -0.17 0.07 0.29 -0.15 -0.61 -2.05 ]
+[-0.82 -0.08 0.16 -0.91 0.3 -0.18 -0.72 0.1 -0.43 -0.04
+ 0.05 -0.392 0.14 0.07 0.29 -1.131 -0.61 -1.709]
+##############  GENERATION 6 ###############
+['Gio', 'Wilbert'] ['30', '4', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 0 : -770
+['Wilbert', 'Gio'] ['38', '7', '7', '* winner: upper']
+fitness value of chromosome 1 : -4962
+['Gio', 'Wilbert'] ['37', '7', '1', '* winner: lower']
+fitness value of chromosome 2 : -5563
+['Gio', 'Wilbert'] ['28', '7', '3', '* winner: lower']
+fitness value of chromosome 3 : -5372
+['Gio', 'Wilbert'] ['30', '7', '7', '* winner: lower']
+fitness value of chromosome 4 : -4970
+['Gio', 'Wilbert'] ['43', '7', '7', '* winner: lower']
+fitness value of chromosome 5 : -4957
+['Gio', 'Wilbert'] ['26', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 6 : -774
+['Wilbert', 'Gio'] ['35', '7', '6', '* winner: upper']
+fitness value of chromosome 7 : -5065
+['Wilbert', 'Gio'] ['47', '7', '5', '* winner: upper']
+fitness value of chromosome 8 : -5153
+['Wilbert', 'Gio'] ['49', '7', '6', '* winner: upper']
+fitness value of chromosome 9 : -5051
+['Gio', 'Wilbert'] ['31', '7', '2', '* winner: lower']
+fitness value of chromosome 10 : -5469
+['Wilbert', 'Gio'] ['30', '7', '3', '* winner: upper']
+fitness value of chromosome 11 : -5370
+['Wilbert', 'Gio'] ['24', '2', '7', '* winner: lower']
+fitness value of chromosome 12 : 5524
+['Gio', 'Wilbert'] ['30', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 13 : -570
+['Wilbert', 'Gio'] ['22', '4', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 14 : -778
+['Gio', 'Wilbert'] ['34', '7', '4', '* winner: lower']
+fitness value of chromosome 15 : -5266
+['Wilbert', 'Gio'] ['42', '7', '6', '* winner: upper']
+fitness value of chromosome 16 : -5058
+['Wilbert', 'Gio'] ['28', '2', '7', '* winner: lower']
+fitness value of chromosome 17 : 5528
+['Wilbert', 'Gio'] ['43', '7', '8', '* winner: upper']
+fitness value of chromosome 18 : -4857
+['Wilbert', 'Gio'] ['30', '4', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 19 : -770
+['Wilbert', 'Gio'] ['25', '4', '7', '* winner: lower']
+fitness value of chromosome 20 : 5325
+['Wilbert', 'Gio'] ['20', '2', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 21 : -580
+['Wilbert', 'Gio'] ['47', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 22 : -853
+['Wilbert', 'Gio'] ['26', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 23 : -674
+['Wilbert', 'Gio'] ['42', '6', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 24 : -958
+####### fittest chromosome in generation 6 is having fitness value: 5528
+[ 0.15 -0.08 0.16 -0.91 0.3 -0.18 0.195 0.89 0.62 -0.04
+ 0.189 -0.392 0.14 -0.111 0.29 -0.15 -0.61 -1.46 ]
+[ 0.15 -0.08 0.16 -0.91 0.3 -0.18 -0.72 0.1 -0.43 -0.04
+ 0.05 0.049 0.14 0.07 0.29 -0.15 -0.61 -1.709]
+[ 0.15 -0.08 0.16 -0.91 0.3 -0.18 -0.72 0.1 -0.43 -0.101
+ 0.05 0.042 0.14 0.07 0.29 -0.15 -0.61 -1.46 ]
+[ 0.15 -0.08 -0.65 -0.91 0.3 -0.18 -0.72 0.1 -0.43 -0.04
+ 0.05 -0.332 0.14 0.07 0.29 -0.15 -0.61 -1.46 ]
+[ 0.15 -0.08 0.16 -0.91 -0.099 -0.18 -0.72 0.1 -0.43 -0.04
+ 0.05 0.042 0.14 0.07 0.29 -0.15 -0.61 -1.46 ]
+[ 0.15 -0.08 0.16 -0.91 0.3 -0.18 -0.72 0.1 0.62 -0.04
+ 0.05 0.042 -0.17 0.07 -0.433 -0.15 -0.61 -1.46 ]
+##############  GENERATION 7 ###############
+['Gio', 'Wilbert'] ['47', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 0 : -853
+['Wilbert', 'Gio'] ['38', '7', '6', '* winner: upper']
+fitness value of chromosome 1 : -5062
+['Gio', 'Wilbert'] ['33', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 2 : -667
+['Wilbert', 'Gio'] ['30', '7', '5', '* winner: upper']
+fitness value of chromosome 3 : -5170
+['Wilbert', 'Gio'] ['31', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 4 : -869
+['Wilbert', 'Gio'] ['47', '7', '4', '* winner: upper']
+fitness value of chromosome 5 : -5253
+['Wilbert', 'Gio'] ['46', '7', '4', '* winner: upper']
+fitness value of chromosome 6 : -5254
+['Wilbert', 'Gio'] ['36', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 7 : -664
+['Wilbert', 'Gio'] ['27', '5', '7', '* winner: lower']
+fitness value of chromosome 8 : 5227
+['Gio', 'Wilbert'] ['41', '7', '5', '* winner: lower']
+fitness value of chromosome 9 : -5159
+['Wilbert', 'Gio'] ['26', '1', '7', '* winner: lower']
+fitness value of chromosome 10 : 5626
+['Wilbert', 'Gio'] ['43', '7', '6', '* winner: upper']
+fitness value of chromosome 11 : -5057
+['Gio', 'Wilbert'] ['18', '2', '7', '* winner: upper']
+fitness value of chromosome 12 : 5518
+['Gio', 'Wilbert'] ['30', '4', '7', '* winner: upper']
+fitness value of chromosome 13 : 5330
+['Gio', 'Wilbert'] ['40', '7', '7', '* winner: lower']
+fitness value of chromosome 14 : -4960
+['Wilbert', 'Gio'] ['39', '7', '7', '* winner: upper']
+fitness value of chromosome 15 : -4961
+['Gio', 'Wilbert'] ['51', '7', '7', '* winner: lower']
+fitness value of chromosome 16 : -4949
+['Gio', 'Wilbert'] ['43', '7', '3', '* winner: lower']
+fitness value of chromosome 17 : -5357
+['Wilbert', 'Gio'] ['38', '7', '6', '* winner: upper']
+fitness value of chromosome 18 : -5062
+['Wilbert', 'Gio'] ['44', '7', '6', '* winner: upper']
+fitness value of chromosome 19 : -5056
+['Gio', 'Wilbert'] ['18', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 20 : -682
+['Gio', 'Wilbert'] ['28', '7', '5', '* winner: lower']
+fitness value of chromosome 21 : -5172
+['Gio', 'Wilbert'] ['22', '2', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 22 : -478
+['Wilbert', 'Gio'] ['24', '2', '7', '* winner: lower']
+fitness value of chromosome 23 : 5524
+['Wilbert', 'Gio'] ['44', '7', '3', '* winner: upper']
+fitness value of chromosome 24 : -5356
+####### fittest chromosome in generation 7 is having fitness value: 5626
+[ 1.052 -0.08 0.16 -0.91 0.3 -0.18 -0.72 0.1 -0.43 -0.04
+ 0.05 0.042 0.14 0.07 0.29 -0.15 -0.61 -1.46 ]
+[ 0.15 -0.08 0.42 -0.91 0.3 -0.18 -0.72 0.1 -0.43 -0.04
+ 0.05 0.042 -0.17 0.07 0.29 -0.15 -0.61 -1.46 ]
+[ 0.15 -0.08 0.16 -0.91 -0.099 -0.18 -0.72 -0.878 -0.43 -0.04
+ 0.05 0.049 0.14 0.07 0.29 -0.15 -0.61 -1.709]
+[ 0.15 -0.08 0.16 -0.91 0.3 -0.18 0.195 0.1 0.62 -0.04
+ 0.119 0.042 0.14 -0.111 0.29 -0.15 -0.61 -1.46 ]
+[ 0.15 -0.08 0.16 -0.91 -0.099 -0.18 -0.72 0.1 -0.43 0.325
+ 0.05 0.042 0.14 0.07 0.29 -0.15 -0.61 -1.46 ]
+[ 0.15 -0.08 -0.65 -0.91 0.3 -0.18 -0.72 0.1 0.62 -0.04
+ -0.446 0.042 -0.17 0.07 0.29 -0.15 -0.61 -1.46 ]
+##############  GENERATION 8 ###############
+['Gio', 'Wilbert'] ['37', '7', '7', '* winner: lower']
+fitness value of chromosome 0 : -4963
+['Gio', 'Wilbert'] ['34', '7', '4', '* winner: lower']
+fitness value of chromosome 1 : -5266
+['Wilbert', 'Gio'] ['16', '2', '7', '* winner: lower']
+fitness value of chromosome 2 : 5516
+['Gio', 'Wilbert'] ['29', '5', '7', '* winner: upper']
+fitness value of chromosome 3 : 5229
+['Gio', 'Wilbert'] ['19', '4', '7', '* winner: upper']
+fitness value of chromosome 4 : 5319
+['Gio', 'Wilbert'] ['31', '3', '7', '* winner: upper']
+fitness value of chromosome 5 : 5431
+['Gio', 'Wilbert'] ['31', '7', '4', '* winner: lower']
+fitness value of chromosome 6 : -5269
+['Wilbert', 'Gio'] ['45', '7', '7', '* winner: upper']
+fitness value of chromosome 7 : -4955
+['Gio', 'Wilbert'] ['31', '7', '4', '* winner: lower']
+fitness value of chromosome 8 : -5269
+['Wilbert', 'Gio'] ['25', '7', '2', '* winner: upper']
+fitness value of chromosome 9 : -5475
+['Wilbert', 'Gio'] ['27', '5', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 10 : -873
+['Wilbert', 'Gio'] ['35', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 11 : -865
+['Gio', 'Wilbert'] ['35', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 12 : -765
+['Gio', 'Wilbert'] ['33', '7', '7', '* winner: lower']
+fitness value of chromosome 13 : -4967
+['Wilbert', 'Gio'] ['19', '1', '7', '* winner: lower']
+fitness value of chromosome 14 : 5619
+['Gio', 'Wilbert'] ['37', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 15 : -863
+['Wilbert', 'Gio'] ['32', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 16 : -868
+['Wilbert', 'Gio'] ['22', '2', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 17 : -578
+['Wilbert', 'Gio'] ['55', '7', '6', '* winner: upper']
+fitness value of chromosome 18 : -5045
+['Wilbert', 'Gio'] ['35', '7', '7', '* winner: upper']
+fitness value of chromosome 19 : -4965
+['Gio', 'Wilbert'] ['42', '7', '8', '* winner: lower']
+fitness value of chromosome 20 : -4858
+['Wilbert', 'Gio'] ['31', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 21 : -869
+['Wilbert', 'Gio'] ['24', '3', '7', '* winner: lower']
+fitness value of chromosome 22 : 5424
+['Gio', 'Wilbert'] ['23', '2', '7', '* winner: upper']
+fitness value of chromosome 23 : 5523
+['Gio', 'Wilbert'] ['44', '7', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 24 : -956
+####### fittest chromosome in generation 8 is having fitness value: 5619
+[ 0.15 -0.08 0.16 -0.91 -0.099 -0.18 -0.72 0.1 -0.43 -0.04
+ 0.05 0.049 -0.296 -0.111 0.29 -0.15 -0.61 -1.709]
+[ 1.052 -0.08 0.42 -0.91 0.3 -0.18 -0.72 0.1 -0.43 -0.04
+ 0.05 0.042 -0.17 0.07 0.29 -0.153 -0.61 -1.46 ]
+[ 0.15 -0.08 0.16 -0.91 -0.099 -0.18 -0.72 -0.878 -0.43 -0.04
+ 0.05 0.049 0.14 0.07 0.29 -0.15 -0.61 -1.709]
+[ 0.15 -0.08 -0.65 -0.91 0.3 -0.18 -0.72 0.1 0.62 -0.04
+ -0.446 0.042 -0.17 0.07 0.29 -0.15 -0.61 -1.46 ]
+[ 0.15 -0.08 0.16 -0.91 -0.099 -0.18 -0.72 -0.878 0.188 -0.04
+ 0.05 0.049 0.14 0.07 0.29 -0.15 -0.61 -1.46 ]
+[ 0.15 -0.08 0.16 -0.91 -0.099 -0.18 -0.72 0.1 -0.43 0.325
+ 0.05 0.042 0.14 0.07 0.29 -0.15 -0.61 -1.46 ]
+##############  GENERATION 9 ###############
+['Wilbert', 'Gio'] ['27', '5', '7', '* winner: lower']
+fitness value of chromosome 0 : 5227
+['Gio', 'Wilbert'] ['39', '7', '4', '* winner: lower']
+fitness value of chromosome 1 : -5261
+['Wilbert', 'Gio'] ['34', '7', '5', '* winner: upper']
+fitness value of chromosome 2 : -5166
+['Wilbert', 'Gio'] ['27', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 3 : -673
+['Gio', 'Wilbert'] ['20', '3', '7', '* winner: upper']
+fitness value of chromosome 4 : 5420
+['Gio', 'Wilbert'] ['16', '1', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 5 : -484
+['Wilbert', 'Gio'] ['35', '6', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 6 : -965
+['Gio', 'Wilbert'] ['40', '7', '5', '* winner: lower']
+fitness value of chromosome 7 : -5160
+['Gio', 'Wilbert'] ['43', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 8 : -857
+['Gio', 'Wilbert'] ['18', '0', '7', '* winner: upper']
+fitness value of chromosome 9 : 5718
+['Wilbert', 'Gio'] ['32', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 10 : -868
+['Wilbert', 'Gio'] ['44', '7', '3', '* winner: upper']
+fitness value of chromosome 11 : -5356
+['Gio', 'Wilbert'] ['27', '6', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 12 : -973
+['Gio', 'Wilbert'] ['23', '4', '7', '* winner: upper']
+fitness value of chromosome 13 : 5323
+['Gio', 'Wilbert'] ['31', '7', '5', '* winner: lower']
+fitness value of chromosome 14 : -5169
+['Wilbert', 'Gio'] ['22', '4', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 15 : -778
+['Gio', 'Wilbert'] ['38', '7', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 16 : -1062
+['Gio', 'Wilbert'] ['30', '7', '5', '* winner: lower']
+fitness value of chromosome 17 : -5170
+['Gio', 'Wilbert'] ['43', '7', '7', '* winner: lower']
+fitness value of chromosome 18 : -4957
+['Gio', 'Wilbert'] ['48', '7', '3', '* winner: lower']
+fitness value of chromosome 19 : -5352
+['Wilbert', 'Gio'] ['39', '7', '3', '* winner: upper']
+fitness value of chromosome 20 : -5361
+['Wilbert', 'Gio'] ['46', '7', '6', '* winner: upper']
+fitness value of chromosome 21 : -5054
+['Wilbert', 'Gio'] ['34', '5', '7', '* winner: lower']
+fitness value of chromosome 22 : 5234
+['Wilbert', 'Gio'] ['37', '7', '8', '* winner: upper']
+fitness value of chromosome 23 : -4863
+['Gio', 'Wilbert'] ['26', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 24 : -774
+####### fittest chromosome in generation 9 is having fitness value: 5718
+[ 1.052 -0.08 0.16 -0.91 -0.099 -0.18 -0.72 0.1 0.188 -0.04
+ 0.05 0.049 0.14 0.07 0.29 -0.15 -0.556 -1.46 ]
+[ 0.15 -0.08 0.16 -0.91 -0.099 -0.18 -0.72 -0.878 0.188 -0.04
+ 0.05 0.049 0.14 0.07 0.29 -0.15 -0.61 -1.46 ]
+[ 1.052 -0.08 0.42 -0.91 0.3 -0.18 -0.72 -0.878 -0.43 -0.04
+ 0.05 0.042 -0.17 0.008 0.29 -0.15 -0.61 -1.46 ]
+[ 1.052 -0.08 -0.65 -0.91 0.3 0.032 -0.72 0.1 -0.43 -0.04
+ 0.05 0.042 -0.17 0.07 0.29 -0.15 -0.61 -1.46 ]
+[ 0.15 -0.08 0.16 -0.91 -0.099 -0.18 -0.72 0.1 -0.43 -0.04
+ 0.05 0.049 -0.296 -0.111 0.29 -0.15 -0.61 -1.709]
+[ 0.15 -0.08 0.16 -0.91 -0.099 -0.18 -0.72 0.1 -0.43 0.325
+ 0.05 0.042 0.14 0.07 0.29 -0.15 -0.61 -1.46 ]
+##############  GENERATION 10 ###############
+['Gio', 'Wilbert'] ['39', '7', '6', '* winner: lower']
+fitness value of chromosome 0 : -5061
+['Gio', 'Wilbert'] ['36', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 1 : -864
+['Gio', 'Wilbert'] ['28', '7', '5', '* winner: lower']
+fitness value of chromosome 2 : -5172
+['Gio', 'Wilbert'] ['25', '2', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 3 : -575
+['Gio', 'Wilbert'] ['29', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 4 : -571
+['Wilbert', 'Gio'] ['38', '6', '7', '* winner: upper']
+fitness value of chromosome 5 : -4862
+['Gio', 'Wilbert'] ['21', '2', '7', '* winner: upper']
+fitness value of chromosome 6 : 5521
+['Wilbert', 'Gio'] ['43', '7', '7', '* winner: upper']
+fitness value of chromosome 7 : -4957
+['Gio', 'Wilbert'] ['26', '2', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 8 : -574
+['Wilbert', 'Gio'] ['24', '2', '7', '* winner: lower']
+fitness value of chromosome 9 : 5524
+['Wilbert', 'Gio'] ['24', '3', '7', '* winner: lower']
+fitness value of chromosome 10 : 5424
+['Wilbert', 'Gio'] ['60', '7', '7', '* winner: upper']
+fitness value of chromosome 11 : -4940
+['Gio', 'Wilbert'] ['21', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 12 : -779
+['Gio', 'Wilbert'] ['33', '7', '7', '* winner: lower']
+fitness value of chromosome 13 : -4967
+['Wilbert', 'Gio'] ['38', '7', '6', '* winner: upper']
+fitness value of chromosome 14 : -5062
+['Gio', 'Wilbert'] ['44', '7', '4', '* winner: lower']
+fitness value of chromosome 15 : -5256
+['Wilbert', 'Gio'] ['39', '7', '5', '* winner: upper']
+fitness value of chromosome 16 : -5161
+['Wilbert', 'Gio'] ['30', '7', '6', '* winner: upper']
+fitness value of chromosome 17 : -5070
+['Gio', 'Wilbert'] ['41', '7', '7', '* winner: lower']
+fitness value of chromosome 18 : -4959
+['Wilbert', 'Gio'] ['51', '7', '7', '* winner: upper']
+fitness value of chromosome 19 : -4949
+['Gio', 'Wilbert'] ['25', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 20 : -675
+['Wilbert', 'Gio'] ['36', '7', '7', '* winner: upper']
+fitness value of chromosome 21 : -4964
+['Gio', 'Wilbert'] ['32', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 22 : -768
+['Gio', 'Wilbert'] ['29', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 23 : -571
+['Gio', 'Wilbert'] ['6', '34', '5', '6']
+fitness value of chromosome 24 : -3894
+####### fittest chromosome in generation 10 is having fitness value: 5524
+[ 0.15 -0.08 0.16 -0.91 0.3 -0.18 -0.72 -0.878 0.188 -0.04
+ 0.05 0.042 0.14 0.008 0.29 -0.15 -0.453 -1.46 ]
+[ 1.052 -0.08 0.42 -0.91 0.3 -0.18 -0.72 -1.656 -0.43 -0.04
+ 0.05 0.042 -0.17 0.07 0.29 -0.15 -0.61 -1.46 ]
+[ 0.15 -0.08 0.16 -0.91 -0.099 -0.18 -0.72 0.1 -0.43 -0.04
+ 0.05 0.042 0.14 0.07 0.29 -0.15 -0.61 -1.186]
+[ 0.15 -0.08 0.16 -0.91 -0.099 -0.18 -0.72 0.1 -0.43 -0.04
+ 0.05 0.049 -0.296 -0.111 0.29 -0.15 -0.61 -1.709]
+[ 1.052 -0.08 0.16 -0.91 0.3 -0.18 -0.72 0.1 -0.43 -0.04
+ 0.05 0.049 0.14 0.008 0.29 -0.15 0.337 -1.46 ]
+[ 1.052 -0.08 0.42 -0.91 0.3 -0.18 -0.72 0.1 -0.43 -0.04
+ 0.05 0.042 -0.966 0.07 0.29 -0.15 -0.61 -1.46 ]
+##############  GENERATION 11 ###############
+['Gio', 'Wilbert'] ['36', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 0 : -764
+['Wilbert', 'Gio'] ['30', '7', '2', '* winner: upper']
+fitness value of chromosome 1 : -5470
+['Wilbert', 'Gio'] ['27', '7', '6', '* winner: upper']
+fitness value of chromosome 2 : -5073
+['Wilbert', 'Gio'] ['19', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 3 : -581
+['Wilbert', 'Gio'] ['39', '7', '5', '* winner: upper']
+fitness value of chromosome 4 : -5161
+['Gio', 'Wilbert'] ['39', '7', '5', '* winner: lower']
+fitness value of chromosome 5 : -5161
+['Wilbert', 'Gio'] ['43', '7', '4', '* winner: upper']
+fitness value of chromosome 6 : -5257
+['Gio', 'Wilbert'] ['24', '4', '7', '* winner: upper']
+fitness value of chromosome 7 : 5324
+['Gio', 'Wilbert'] ['41', '7', '5', '* winner: lower']
+fitness value of chromosome 8 : -5159
+['Wilbert', 'Gio'] ['22', '1', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 9 : -378
+['Gio', 'Wilbert'] ['28', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 10 : -772
+['Gio', 'Wilbert'] ['26', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 11 : -574
+['Gio', 'Wilbert'] ['33', '7', '4', '* winner: lower']
+fitness value of chromosome 12 : -5267
+['Wilbert', 'Gio'] ['30', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 13 : -670
+['Gio', 'Wilbert'] ['25', '1', '7', '* winner: upper']
+fitness value of chromosome 14 : 5625
+['Gio', 'Wilbert'] ['28', '4', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 15 : -772
+['Wilbert', 'Gio'] ['34', '6', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 16 : -966
+['Gio', 'Wilbert'] ['16', '1', '7', '* winner: upper']
+fitness value of chromosome 17 : 5616
+['Gio', 'Wilbert'] ['31', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 18 : -669
+['Wilbert', 'Gio'] ['45', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 19 : -755
+['Wilbert', 'Gio'] ['35', '7', '5', '* winner: upper']
+fitness value of chromosome 20 : -5165
+['Gio', 'Wilbert'] ['51', '7', '7', '* winner: lower']
+fitness value of chromosome 21 : -4949
+['Gio', 'Wilbert'] ['39', '7', '3', '* winner: lower']
+fitness value of chromosome 22 : -5361
+['Wilbert', 'Gio'] ['41', '7', '7', '* winner: upper']
+fitness value of chromosome 23 : -4959
+['Wilbert', 'Gio'] ['23', '2', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 24 : -577
+####### fittest chromosome in generation 11 is having fitness value: 5625
+[ 1.052 -0.08 0.16 -0.91 0.3 -1.022 -0.72 0.1 -0.43 -0.04
+ 0.05 0.049 0.14 0.008 0.29 -0.15 -0.61 -1.709]
+[ 0.15 -0.08 0.16 -0.91 0.3 -0.18 -0.72 -0.878 0.188 -0.04
+ 0.05 0.042 0.14 0.008 0.29 -0.15 -0.329 -1.46 ]
+[ 0.15 -0.08 0.16 -0.91 0.3 -0.18 -0.72 0.1 -0.43 -0.04
+ 0.05 0.042 -0.123 -0.111 0.29 -0.15 -0.61 -1.709]
+[ 0.15 -0.08 0.42 -0.91 0.002 -0.18 -0.72 -1.656 -0.43 -0.04
+ 0.05 0.042 -0.296 -0.111 0.29 -0.15 -0.61 -1.709]
+[ 0.333 -0.08 0.16 -0.91 0.3 -0.18 -0.72 0.1 -0.43 -0.04
+ 0.05 0.042 0.14 0.07 0.29 -0.15 -0.61 -1.186]
+[ 0.15 -0.08 0.16 -0.91 -0.099 -0.18 -0.72 0.881 -0.43 -0.04
+ 0.05 0.042 0.14 0.008 0.29 -0.15 -0.453 -1.46 ]
+##############        GENERATION 12  ###############
+['Gio', 'Wilbert'] ['29', '4', '7', '* winner: upper']
+fitness value of chromosome 0 :   5329
+['Gio', 'Wilbert'] ['31', '7', '4', '* winner: lower']
+fitness value of chromosome 1 :   -5269
+['Gio', 'Wilbert'] ['36', '7', '5', '* winner: lower']
+fitness value of chromosome 2 :   -5164
+['Gio', 'Wilbert'] ['21', '1', '7', '* winner: upper']
+fitness value of chromosome 3 :   5621
+['Gio', 'Wilbert'] ['26', '4', '7', '* winner: upper']
+fitness value of chromosome 4 :   5326
+['Gio', 'Wilbert'] ['31', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 5 :   -869
+['Wilbert', 'Gio'] ['23', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 6 :   -677
+['Wilbert', 'Gio'] ['29', '5', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 7 :   -871
+['Wilbert', 'Gio'] ['28', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 8 :   -772
+['Wilbert', 'Gio'] ['34', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 9 :   -666
+['Gio', 'Wilbert'] ['26', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 10 :   -674
+['Gio', 'Wilbert'] ['36', '6', '3', '* winner: lower']
+fitness value of chromosome 11 :   -5264
+['Wilbert', 'Gio'] ['31', '7', '6', '* winner: upper']
+fitness value of chromosome 12 :   -5069
+['Gio', 'Wilbert'] ['27', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 13 :   -673
+['Wilbert', 'Gio'] ['33', '7', '5', '* winner: upper']
+fitness value of chromosome 14 :   -5167
+['Wilbert', 'Gio'] ['42', '7', '8', '* winner: upper']
+fitness value of chromosome 15 :   -4858
+['Wilbert', 'Gio'] ['25', '1', '7', '* winner: lower']
+fitness value of chromosome 16 :   5625
+['Gio', 'Wilbert'] ['40', '7', '6', '* winner: lower']
+fitness value of chromosome 17 :   -5060
+['Gio', 'Wilbert'] ['24', '5', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 18 :   -876
+['Wilbert', 'Gio'] ['26', '5', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 19 :   -874
+['Wilbert', 'Gio'] ['24', '3', '7', '* winner: lower']
+fitness value of chromosome 20 :   5424
+['Gio', 'Wilbert'] ['22', '4', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 21 :   -778
+['Gio', 'Wilbert'] ['38', '7', '7', '* winner: lower']
+fitness value of chromosome 22 :   -4962
+['Wilbert', 'Gio'] ['47', '7', '7', '* winner: upper']
+fitness value of chromosome 23 :   -4953
+['Gio', 'Wilbert'] ['32', '2', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 24 :   -468
+#######  fittest chromosome in generation 12 is having fitness value:   5625
+[ 0.333 -0.08   0.42  -0.91   0.3    0.202 -0.72   0.1   -0.43  -0.04
+  0.05   0.042  0.14   0.07   0.29  -0.15  -0.61  -1.709]
+[ 0.15  -0.08   0.42  -0.91   0.002 -0.18  -0.72  -1.656 -0.43  -0.04
+  0.05   0.042 -0.296 -0.111  0.29  -0.15  -0.61  -1.709]
+[ 0.15  -0.08   0.16  -0.91   0.3   -0.18  -0.72   0.598 -0.43  -0.04
+  0.05   0.042 -0.123 -0.111  0.29  -0.15  -0.61  -1.709]
+[ 1.052 -0.08   0.16  -0.91   0.3   -1.022 -0.72   0.1   -0.43  -0.04
+  0.05   0.049  0.14   0.008  0.29  -0.15  -0.61  -1.709]
+[ 0.333 -0.08   0.16  -0.91   0.3   -0.18  -0.72   0.1   -0.43  -0.04
+  0.05   0.042  0.14   0.07   0.29  -0.15  -0.61  -1.186]
+[ 0.15  -0.08   0.16  -0.91   0.3   -0.18  -0.72   0.1   -0.43  -0.04
+  0.05   0.042 -0.414 -0.111  0.29  -0.15  -0.61  -1.709]
+##############        GENERATION 13  ###############
+['Wilbert', 'Gio'] ['23', '2', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 0 :   -477
+['Gio', 'Wilbert'] ['36', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 1 :   -864
+['Wilbert', 'Gio'] ['31', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 2 :   -669
+['Wilbert', 'Gio'] ['37', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 3 :   -863
+['Gio', 'Wilbert'] ['20', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 4 :   -680
+['Gio', 'Wilbert'] ['23', '2', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 5 :   -577
+['Gio', 'Wilbert'] ['23', '4', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 6 :   -777
+['Wilbert', 'Gio'] ['19', '1', '7', '* winner: lower']
+fitness value of chromosome 7 :   5619
+['Wilbert', 'Gio'] ['41', '2', '7', '* winner: lower']
+fitness value of chromosome 8 :   5541
+['Gio', 'Wilbert'] ['18', '2', '7', '* winner: upper']
+fitness value of chromosome 9 :   5518
+['Gio', 'Wilbert'] ['32', '3', '7', '* winner: upper']
+fitness value of chromosome 10 :   5432
+['Gio', 'Wilbert'] ['41', '7', '6', '* winner: lower']
+fitness value of chromosome 11 :   -5059
+['Wilbert', 'Gio'] ['43', '7', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 12 :   -957
+['Wilbert', 'Gio'] ['45', '7', '6', '* winner: upper']
+fitness value of chromosome 13 :   -5055
+['Gio', 'Wilbert'] ['27', '7', '6', '* winner: lower']
+fitness value of chromosome 14 :   -5073
+['Wilbert', 'Gio'] ['36', '6', '7', '* winner: lower']
+fitness value of chromosome 15 :   5136
+['Gio', 'Wilbert'] ['22', '3', '7', '* winner: upper']
+fitness value of chromosome 16 :   5422
+['Wilbert', 'Gio'] ['21', '4', '7', '* winner: lower']
+fitness value of chromosome 17 :   5321
+['Gio', 'Wilbert'] ['40', '7', '6', '* winner: lower']
+fitness value of chromosome 18 :   -5060
+['Gio', 'Wilbert'] ['30', '7', '2', '* winner: lower']
+fitness value of chromosome 19 :   -5470
+['Gio', 'Wilbert'] ['29', '6', '7', '* winner: upper']
+fitness value of chromosome 20 :   5129
+['Wilbert', 'Gio'] ['38', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 21 :   -762
+['Wilbert', 'Gio'] ['25', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 22 :   -575
+['Wilbert', 'Gio'] ['44', '7', '7', '* winner: upper']
+fitness value of chromosome 23 :   -4956
+['Wilbert', 'Gio'] ['29', '5', '7', '* winner: lower']
+fitness value of chromosome 24 :   5229
+#######  fittest chromosome in generation 13 is having fitness value:   5619
+[ 0.333 -0.08   0.16  -0.91   0.3   -0.18  -0.72   0.1   -0.43  -0.04
+  0.05   0.042 -0.123 -0.111 -0.47  -0.15  -0.61  -1.709]
+[ 1.052 -0.08   0.16  -0.91   0.3   -1.022 -0.72   0.1   -0.43  -0.04
+  0.05   0.049  0.14  -0.111  0.29  -0.15  -0.858 -1.709]
+[ 0.15  -0.08   0.16  -0.91   0.3   -0.977 -0.72   0.598 -0.43  -0.04
+  0.05   0.042 -0.123 -0.111  0.29  -0.15  -0.61  -1.709]
+[ 0.15  -0.08   0.16  -0.91   1.291 -0.18  -0.72   0.1   -0.43  -0.04
+  0.05   0.042  0.14  -0.111  0.29  -0.15  -0.61  -1.186]
+[ 0.333 -0.08   0.16  -0.91   0.3   -0.18  -0.72   0.1   -0.43  -0.04
+  0.05  -0.532  0.14   0.008  0.29  -0.15  -0.61  -1.186]
+[ 0.328 -0.08   0.16  -0.91   0.3   -0.18  -0.72   0.1   -0.43  -0.04
+  0.05   0.042 -0.123 -0.111  0.29  -0.15  -0.61  -1.709]
+##############        GENERATION 14  ###############
+['Wilbert', 'Gio'] ['46', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 0 :   -654
+['Wilbert', 'Gio'] ['31', '4', '7', '* winner: lower']
+fitness value of chromosome 1 :   5331
+['Wilbert', 'Gio'] ['26', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 2 :   -574
+['Wilbert', 'Gio'] ['33', '2', '7', '* winner: lower']
+fitness value of chromosome 3 :   5533
+['Wilbert', 'Gio'] ['40', '7', '7', '* winner: upper']
+fitness value of chromosome 4 :   -4960
+['Wilbert', 'Gio'] ['46', '7', '6', '* winner: upper']
+fitness value of chromosome 5 :   -5054
+['Gio', 'Wilbert'] ['27', '1', '7', '* winner: upper']
+fitness value of chromosome 6 :   5627
+['Gio', 'Wilbert'] ['48', '7', '6', '* winner: lower']
+fitness value of chromosome 7 :   -5052
+['Wilbert', 'Gio'] ['37', '7', '6', '* winner: upper']
+fitness value of chromosome 8 :   -5063
+['Gio', 'Wilbert'] ['31', '7', '7', '* winner: lower']
+fitness value of chromosome 9 :   -4969
+['Gio', 'Wilbert'] ['35', '7', '5', '* winner: lower']
+fitness value of chromosome 10 :   -5165
+['Gio', 'Wilbert'] ['35', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 11 :   -865
+['Wilbert', 'Gio'] ['40', '7', '7', '* winner: upper']
+fitness value of chromosome 12 :   -4960
+['Gio', 'Wilbert'] ['17', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 13 :   -683
+['Gio', 'Wilbert'] ['44', '7', '5', '* winner: lower']
+fitness value of chromosome 14 :   -5156
+['Wilbert', 'Gio'] ['23', '2', '7', '* winner: lower']
+fitness value of chromosome 15 :   5523
+['Wilbert', 'Gio'] ['29', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 16 :   -571
+['Wilbert', 'Gio'] ['20', '2', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 17 :   -580
+['Gio', 'Wilbert'] ['47', '7', '5', '* winner: lower']
+fitness value of chromosome 18 :   -5153
+['Gio', 'Wilbert'] ['42', '7', '7', '* winner: lower']
+fitness value of chromosome 19 :   -4958
+['Wilbert', 'Gio'] ['27', '7', '2', '* winner: upper']
+fitness value of chromosome 20 :   -5473
+['Gio', 'Wilbert'] ['33', '6', '7', '* winner: upper']
+fitness value of chromosome 21 :   5133
+['Wilbert', 'Gio'] ['27', '4', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 22 :   -773
+['Gio', 'Wilbert'] ['38', '7', '7', '* winner: lower']
+fitness value of chromosome 23 :   -4962
+['Wilbert', 'Gio'] ['32', '7', '6', '* winner: upper']
+fitness value of chromosome 24 :   -5068
+#######  fittest chromosome in generation 14 is having fitness value:   5627
+[ 0.15  -0.08   0.16  -0.91   0.3   -0.18  -0.72   0.1   -0.369 -0.04
+  0.05   0.042  0.14   0.008  0.29  -0.15  -0.61  -1.186]
+[ 0.15  -0.08   0.16  -0.91   1.291 -0.18  -0.72   0.1   -0.43  -0.04
+  0.05   0.042  0.14  -0.111  0.29  -0.15  -0.61  -1.186]
+[ 0.328 -0.08   0.16  -0.91   0.3   -0.977 -0.72   0.598 -0.43  -0.04
+  0.05   0.042 -0.123 -0.111  0.386 -0.15  -0.61  -1.709]
+[ 1.052 -0.08   0.16  -0.91   0.3   -1.022 -0.72   0.1   -0.43  -0.04
+  0.05   0.049  0.14  -0.111  0.29  -0.15  -0.858 -1.709]
+[ 1.052 -0.08   0.16  -0.91   0.3   -1.022 -0.72   0.42  -0.43  -0.04
+  0.05  -0.532  0.14  -0.111  0.29  -0.15  -0.61  -1.186]
+[ 0.328 -0.08   0.16  -0.91   1.291 -0.18  -0.72   0.1   -0.43  -0.04
+  0.05   0.042 -0.123 -0.111  0.29  -0.15  -0.61  -1.719]
+##############        GENERATION 15  ###############
+['Gio', 'Wilbert'] ['35', '4', '7', '* winner: upper']
+fitness value of chromosome 0 :   5335
+['Gio', 'Wilbert'] ['47', '7', '6', '* winner: lower']
+fitness value of chromosome 1 :   -5053
+['Gio', 'Wilbert'] ['37', '7', '5', '* winner: lower']
+fitness value of chromosome 2 :   -5163
+['Gio', 'Wilbert'] ['33', '7', '7', '* winner: lower']
+fitness value of chromosome 3 :   -4967
+['Wilbert', 'Gio'] ['26', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 4 :   -774
+['Gio', 'Wilbert'] ['21', '0', '7', '* winner: upper']
+fitness value of chromosome 5 :   5721
+['Gio', 'Wilbert'] ['25', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 6 :   -675
+['Wilbert', 'Gio'] ['17', '0', '7', '* winner: lower']
+fitness value of chromosome 7 :   5717
+['Wilbert', 'Gio'] ['25', '4', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 8 :   -775
+['Gio', 'Wilbert'] ['37', '7', '5', '* winner: lower']
+fitness value of chromosome 9 :   -5163
+['Gio', 'Wilbert'] ['35', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 10 :   -765
+['Gio', 'Wilbert'] ['37', '7', '3', '* winner: lower']
+fitness value of chromosome 11 :   -5363
+['Wilbert', 'Gio'] ['37', '7', '3', '* winner: upper']
+fitness value of chromosome 12 :   -5363
+['Gio', 'Wilbert'] ['34', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 13 :   -666
+['Wilbert', 'Gio'] ['26', '7', '6', '* winner: upper']
+fitness value of chromosome 14 :   -5074
+['Gio', 'Wilbert'] ['24', '3', '7', '* winner: upper']
+fitness value of chromosome 15 :   5424
+['Wilbert', 'Gio'] ['29', '7', '3', '* winner: upper']
+fitness value of chromosome 16 :   -5371
+['Gio', 'Wilbert'] ['30', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 17 :   -770
+['Wilbert', 'Gio'] ['40', '7', '7', '* winner: upper']
+fitness value of chromosome 18 :   -4960
+['Wilbert', 'Gio'] ['40', '7', '6', '* winner: upper']
+fitness value of chromosome 19 :   -5060
+['Gio', 'Wilbert'] ['36', '7', '4', '* winner: lower']
+fitness value of chromosome 20 :   -5264
+['Gio', 'Wilbert'] ['18', '4', '7', '* winner: upper']
+fitness value of chromosome 21 :   5318
+['Wilbert', 'Gio'] ['36', '7', '2', '* winner: upper']
+fitness value of chromosome 22 :   -5464
+['Gio', 'Wilbert'] ['24', '2', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 23 :   -476
+['Gio', 'Wilbert'] ['19', '1', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 24 :   -481
+#######  fittest chromosome in generation 15 is having fitness value:   5721
+[ 0.328 -0.08   0.16  -0.91   1.291 -0.18  -0.72   0.1   -0.43  -0.04
+  0.05   0.042 -0.123 -0.111  0.29  -0.15  -0.61  -1.719]
+[ 1.052 -0.08   0.16  -0.91   0.3   -1.022 -0.72   0.1   -0.43  -0.04
+  0.05  -0.532  0.14  -0.111 -0.261 -0.15  -0.61  -1.719]
+[ 0.328 -0.08   0.16  -0.91   0.3   -1.423 -0.72   0.42  -0.43  -0.04
+  0.05   0.042  0.14  -0.111  0.386 -0.15  -0.61  -1.709]
+[ 0.15  -0.08   0.16  -0.91   0.3   -0.18  -0.72   0.1   -0.369 -0.04
+  0.05   0.042  0.14   0.008  0.29  -0.15  -0.61  -1.186]
+[ 0.328 -0.08   0.16  -0.91   0.3   -1.022 -0.72   0.1   -0.43  -0.04
+  0.05   0.042 -0.123 -0.111  0.386 -0.15  -0.61  -2.208]
+[ 0.328 -0.08   0.16  -0.91   0.373 -0.977 -0.72   0.598 -0.43  -0.04
+  0.05   0.042 -0.123 -0.111  0.29  -0.15  -0.61  -1.186]
+##############        GENERATION 16  ###############
+['Wilbert', 'Gio'] ['30', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 0 :   -570
+['Wilbert', 'Gio'] ['39', '7', '8', '* winner: upper']
+fitness value of chromosome 1 :   -4861
+['Wilbert', 'Gio'] ['22', '3', '7', '* winner: lower']
+fitness value of chromosome 2 :   5422
+['Wilbert', 'Gio'] ['33', '7', '6', '* winner: upper']
+fitness value of chromosome 3 :   -5067
+['Wilbert', 'Gio'] ['19', '2', '7', '* winner: lower']
+fitness value of chromosome 4 :   5519
+['Wilbert', 'Gio'] ['34', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 5 :   -666
+['Wilbert', 'Gio'] ['26', '2', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 6 :   -474
+['Wilbert', 'Gio'] ['31', '5', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 7 :   -869
+['Wilbert', 'Gio'] ['19', '3', '7', '* winner: lower']
+fitness value of chromosome 8 :   5419
+['Gio', 'Wilbert'] ['22', '2', '7', '* winner: upper']
+fitness value of chromosome 9 :   5522
+['Gio', 'Wilbert'] ['32', '7', '7', '* winner: lower']
+fitness value of chromosome 10 :   -4968
+['Gio', 'Wilbert'] ['32', '7', '3', '* winner: lower']
+fitness value of chromosome 11 :   -5368
+['Wilbert', 'Gio'] ['43', '7', '7', '* winner: upper']
+fitness value of chromosome 12 :   -4957
+['Gio', 'Wilbert'] ['30', '7', '4', '* winner: lower']
+fitness value of chromosome 13 :   -5270
+['Wilbert', 'Gio'] ['29', '5', '7', '* winner: lower']
+fitness value of chromosome 14 :   5229
+['Gio', 'Wilbert'] ['29', '7', '1', '* winner: lower']
+fitness value of chromosome 15 :   -5571
+['Gio', 'Wilbert'] ['25', '7', '6', '* winner: lower']
+fitness value of chromosome 16 :   -5075
+['Gio', 'Wilbert'] ['35', '7', '4', '* winner: lower']
+fitness value of chromosome 17 :   -5265
+['Wilbert', 'Gio'] ['27', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 18 :   -573
+['Gio', 'Wilbert'] ['25', '0', '7', '* winner: upper']
+fitness value of chromosome 19 :   5725
+['Wilbert', 'Gio'] ['13', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 20 :   -687
+['Wilbert', 'Gio'] ['27', '2', '7', '* winner: lower']
+fitness value of chromosome 21 :   5527
+['Gio', 'Wilbert'] ['22', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 22 :   -578
+['Wilbert', 'Gio'] ['35', '5', '7', '* winner: lower']
+fitness value of chromosome 23 :   5235
+['Wilbert', 'Gio'] ['24', '2', '7', '* winner: lower']
+fitness value of chromosome 24 :   5524
+#######  fittest chromosome in generation 16 is having fitness value:   5725
+[ 1.052 -0.08   0.16  -0.91   1.291 -0.18  -0.72   0.1   -0.43  -0.04
+  0.05   0.761 -0.123 -0.111  0.29  -0.15  -0.61  -1.719]
+[ 0.328 -0.08   0.16  -0.91   1.291 -0.18  -0.72   0.598 -0.43  -0.04
+  0.05   0.042 -0.123 -0.028  0.29  -0.15  -0.61  -1.186]
+[ 0.328 -0.08   0.16  -0.91   1.291 -0.18  -0.72   0.1   -0.43  -0.04
+  0.05   0.042 -0.123 -0.111  0.29  -0.15  -0.61  -1.533]
+[ 0.328 -0.08   0.16  -0.91   0.373 -1.022 -0.72   0.1   -0.43  -0.04
+  0.05   0.042 -0.123 -0.111  0.29  -0.15  -0.61  -1.454]
+[ 0.328 -0.08   0.16  -0.91   0.3   -1.022 -0.72   0.1   -0.43  -0.04
+  0.05   0.042 -0.123 -0.111  0.386 -0.15  -0.61  -2.208]
+[ 0.328 -0.08   0.16  -0.91   0.3   -1.423 -0.72   0.42  -0.43  -0.04
+  0.05   0.042  0.14  -0.111  0.386 -0.15  -0.61  -1.709]
+##############        GENERATION 17  ###############
+['Wilbert', 'Gio'] ['19', '2', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 0 :   -481
+['Gio', 'Wilbert'] ['54', '7', '2', '* winner: lower']
+fitness value of chromosome 1 :   -5446
+['Gio', 'Wilbert'] ['39', '7', '6', '* winner: lower']
+fitness value of chromosome 2 :   -5061
+['Wilbert', 'Gio'] ['47', '7', '7', '* winner: upper']
+fitness value of chromosome 3 :   -4953
+['Wilbert', 'Gio'] ['18', '1', '7', '* winner: lower']
+fitness value of chromosome 4 :   5618
+['Gio', 'Wilbert'] ['18', '2', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 5 :   -482
+['Wilbert', 'Gio'] ['61', '7', '1', '* winner: upper']
+fitness value of chromosome 6 :   -5539
+['Gio', 'Wilbert'] ['15', '0', '7', '* winner: upper']
+fitness value of chromosome 7 :   5715
+['Gio', 'Wilbert'] ['27', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 8 :   -573
+['Gio', 'Wilbert'] ['47', '7', '6', '* winner: lower']
+fitness value of chromosome 9 :   -5053
+['Wilbert', 'Gio'] ['28', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 10 :   -672
+['Gio', 'Wilbert'] ['34', '7', '5', '* winner: lower']
+fitness value of chromosome 11 :   -5166
+['Wilbert', 'Gio'] ['29', '5', '7', '* winner: lower']
+fitness value of chromosome 12 :   5229
+['Gio', 'Wilbert'] ['18', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 13 :   -682
+['Wilbert', 'Gio'] ['25', '4', '7', '* winner: lower']
+fitness value of chromosome 14 :   5325
+['Wilbert', 'Gio'] ['27', '2', '7', '* winner: lower']
+fitness value of chromosome 15 :   5527
+['Wilbert', 'Gio'] ['27', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 16 :   -573
+['Gio', 'Wilbert'] ['34', '7', '7', '* winner: lower']
+fitness value of chromosome 17 :   -4966
+['Gio', 'Wilbert'] ['42', '7', '6', '* winner: lower']
+fitness value of chromosome 18 :   -5058
+['Gio', 'Wilbert'] ['40', '7', '6', '* winner: lower']
+fitness value of chromosome 19 :   -5060
+['Gio', 'Wilbert'] ['19', '3', '7', '* winner: upper']
+fitness value of chromosome 20 :   5419
+['Gio', 'Wilbert'] ['34', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 21 :   -666
+['Wilbert', 'Gio'] ['31', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 22 :   -569
+['Gio', 'Wilbert'] ['47', '7', '7', '* winner: lower']
+fitness value of chromosome 23 :   -4953
+['Wilbert', 'Gio'] ['36', '7', '3', '* winner: upper']
+fitness value of chromosome 24 :   -5364
+#######  fittest chromosome in generation 17 is having fitness value:   5715
+[ 0.328  0.165  0.16  -0.91   1.291 -0.18  -0.72   0.1   -0.43  -0.04
+  0.05   0.042 -0.123 -0.111  0.29  -0.15  -0.61  -1.533]
+[ 0.328 -0.08   0.16  -0.91   0.3   -1.022 -0.72   0.1   -0.43  -0.04
+  0.05   0.042 -0.123 -0.111  0.386 -0.15  -0.61  -2.208]
+[ 1.052 -0.08  -0.265 -0.91   0.373 -0.18  -0.72   0.1   -0.43  -0.04
+  0.05   0.042 -0.123 -0.111  0.29  -0.15  -0.61  -1.719]
+[ 0.328 -0.08   0.16  -0.91   1.291 -0.18  -0.72   0.598 -0.43  -0.04
+  0.05  -0.341 -0.123 -0.111  0.29  -0.15  -0.61  -1.533]
+[ 0.328 -0.08   0.16  -0.91   0.3   -1.423 -0.72   0.1   -0.43  -0.04
+  0.05   0.042 -0.123  0.073  0.386 -0.15  -0.61  -1.533]
+[ 0.328 -0.08   0.16  -0.91   0.041 -1.423 -0.72   0.598 -0.43  -0.04
+  0.05   0.042 -0.123 -0.028  0.29  -0.15  -0.61  -1.709]
+##############        GENERATION 18  ###############
+['Wilbert', 'Gio'] ['26', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 0 :   -574
+['Wilbert', 'Gio'] ['40', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 1 :   -860
+['Wilbert', 'Gio'] ['39', '7', '6', '* winner: upper']
+fitness value of chromosome 2 :   -5061
+['Wilbert', 'Gio'] ['33', '7', '2', '* winner: upper']
+fitness value of chromosome 3 :   -5467
+['Gio', 'Wilbert'] ['27', '7', '6', '* winner: lower']
+fitness value of chromosome 4 :   -5073
+['Wilbert', 'Gio'] ['23', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 5 :   -677
+['Wilbert', 'Gio'] ['33', '7', '3', '* winner: upper']
+fitness value of chromosome 6 :   -5367
+['Gio', 'Wilbert'] ['35', '7', '4', '* winner: lower']
+fitness value of chromosome 7 :   -5265
+['Gio', 'Wilbert'] ['49', '7', '5', '* winner: lower']
+fitness value of chromosome 8 :   -5151
+['Gio', 'Wilbert'] ['40', '7', '3', '* winner: lower']
+fitness value of chromosome 9 :   -5360
+['Wilbert', 'Gio'] ['19', '1', '7', '* winner: lower']
+fitness value of chromosome 10 :   5619
+['Wilbert', 'Gio'] ['24', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 11 :   -776
+['Wilbert', 'Gio'] ['18', '3', '7', '* winner: lower']
+fitness value of chromosome 12 :   5418
+['Wilbert', 'Gio'] ['42', '7', '5', '* winner: upper']
+fitness value of chromosome 13 :   -5158
+['Gio', 'Wilbert'] ['36', '7', '6', '* winner: lower']
+fitness value of chromosome 14 :   -5064
+['Gio', 'Wilbert'] ['20', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 15 :   -580
+['Wilbert', 'Gio'] ['47', '7', '4', '* winner: upper']
+fitness value of chromosome 16 :   -5253
+['Wilbert', 'Gio'] ['31', '7', '7', '* winner: upper']
+fitness value of chromosome 17 :   -4969
+['Gio', 'Wilbert'] ['39', '6', '7', '* winner: upper']
+fitness value of chromosome 18 :   5139
+['Wilbert', 'Gio'] ['33', '7', '7', '* winner: upper']
+fitness value of chromosome 19 :   -4967
+['Gio', 'Wilbert'] ['25', '6', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 20 :   -975
+['Gio', 'Wilbert'] ['35', '7', '4', '* winner: lower']
+fitness value of chromosome 21 :   -5265
+['Gio', 'Wilbert'] ['34', '6', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 22 :   -966
+['Gio', 'Wilbert'] ['18', '1', '7', '* winner: upper']
+fitness value of chromosome 23 :   5618
+['Wilbert', 'Gio'] ['22', '3', '7', '* winner: lower']
+fitness value of chromosome 24 :   5422
+#######  fittest chromosome in generation 18 is having fitness value:   5619
+[ 0.328 -0.08  -0.183 -0.91   0.373 -1.423 -0.72   0.1   -0.43  -0.04
+  0.05   0.042 -0.123 -0.111  0.29  -0.15  -0.61  -1.719]
+[ 0.328 -0.08   0.16  -0.91   0.041 -1.423 -0.72   0.1   -0.296 -0.04
+  0.05   0.042 -0.123 -0.028  0.386 -0.15  -0.61  -1.709]
+[ 1.052 -0.08  -0.265 -0.91   0.3   -1.423 -0.72   0.1   -0.43  -0.04
+  0.145  0.042 -0.123 -0.111  0.29  -0.15  -0.61  -1.533]
+[ 0.328 -0.08   0.16  -0.91   1.291 -0.18  -0.72   0.598 -0.43  -0.04
+  0.05   0.042 -0.123 -0.111  0.29  -0.15  -0.527 -1.533]
+[ 0.328 -0.08   0.16  -0.91   0.041 -1.423  0.105  0.1   -0.43  -0.04
+  0.05   0.042 -0.123  0.073  0.386 -0.15  -0.61  -1.533]
+[ 0.328  0.165  0.16  -0.91   1.291 -0.18  -0.72   0.1   -0.43  -0.04
+  0.05   0.042 -0.123 -0.111  0.29  -0.15  -0.61  -1.533]
+##############        GENERATION 19  ###############
+['Wilbert', 'Gio'] ['43', '7', '5', '* winner: upper']
+fitness value of chromosome 0 :   -5157
+['Gio', 'Wilbert'] ['25', '3', '7', '* winner: upper']
+fitness value of chromosome 1 :   5425
+['Wilbert', 'Gio'] ['38', '7', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 2 :   -962
+['Gio', 'Wilbert'] ['20', '2', '7', '* winner: upper']
+fitness value of chromosome 3 :   5520
+['Wilbert', 'Gio'] ['24', '4', '7', '* winner: lower']
+fitness value of chromosome 4 :   5324
+['Wilbert', 'Gio'] ['35', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 5 :   -865
+['Wilbert', 'Gio'] ['19', '0', '7', '* winner: lower']
+fitness value of chromosome 6 :   5719
+['Wilbert', 'Gio'] ['25', '4', '7', '* winner: lower']
+fitness value of chromosome 7 :   5325
+['Gio', 'Wilbert'] ['23', '2', '7', '* winner: upper']
+fitness value of chromosome 8 :   5523
+['Gio', 'Wilbert'] ['21', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 9 :   -779
+['Gio', 'Wilbert'] ['27', '3', '7', '* winner: upper']
+fitness value of chromosome 10 :   5427
+['Wilbert', 'Gio'] ['19', '0', '7', '* winner: lower']
+fitness value of chromosome 11 :   5719
+['Wilbert', 'Gio'] ['28', '7', '2', '* winner: upper']
+fitness value of chromosome 12 :   -5472
+['Gio', 'Wilbert'] ['31', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 13 :   -869
+['Gio', 'Wilbert'] ['53', '7', '7', '* winner: lower']
+fitness value of chromosome 14 :   -4947
+['Wilbert', 'Gio'] ['34', '7', '7', '* winner: upper']
+fitness value of chromosome 15 :   -4966
+['Wilbert', 'Gio'] ['32', '7', '7', '* winner: lower']
+fitness value of chromosome 16 :   5032
+['Wilbert', 'Gio'] ['28', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 17 :   -572
+['Gio', 'Wilbert'] ['23', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 18 :   -577
+['Wilbert', 'Gio'] ['27', '2', '7', '* winner: lower']
+fitness value of chromosome 19 :   5527
+['Wilbert', 'Gio'] ['25', '2', '7', '* winner: lower']
+fitness value of chromosome 20 :   5525
+['Wilbert', 'Gio'] ['34', '7', '6', '* winner: upper']
+fitness value of chromosome 21 :   -5066
+['Wilbert', 'Gio'] ['20', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 22 :   -680
+['Gio', 'Wilbert'] ['22', '2', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 23 :   -478
+['Wilbert', 'Gio'] ['42', '6', '7', '* winner: upper']
+fitness value of chromosome 24 :   -4858
+#######  fittest chromosome in generation 19 is having fitness value:   5719
+[ 0.328 -0.08   0.16  -0.91   0.041 -1.004  0.105  0.1   -0.43  -0.04
+  0.05   0.042 -0.123  0.073  0.386 -0.15  -0.61  -1.533]
+[ 0.328 -0.08   0.16  -0.91   1.291 -1.423 -0.72   0.1   -0.43   0.807
+  0.05   0.042 -0.123 -0.028  0.386 -0.15  -0.61  -1.709]
+[ 0.328 -0.08   0.16  -1.667  0.041 -0.18  -0.72   0.1   -0.43  -0.04
+  0.05   0.042 -0.123  0.073  0.386 -0.15  -0.61  -1.533]
+[ 0.328 -0.08   0.16  -0.91   0.373 -1.423  0.105  0.403 -0.43  -0.04
+  0.05   0.042 -0.123  0.073  0.29  -0.15  -0.61  -1.719]
+[ 0.328 -0.08  -0.183 -0.91   0.041 -1.423  0.105  0.1   -0.43  -0.04
+  0.05   0.042 -0.123  0.073  0.29  -0.861 -0.61  -1.533]
+[ 0.328 -0.08   0.16  -0.91   1.291 -0.18  -0.72   0.598 -0.43  -0.04
+  0.05   0.042 -0.123 -0.111  0.29  -0.15  -0.527 -1.533]
+##############        GENERATION 20  ###############
+['Wilbert', 'Gio'] ['18', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 0 :   -682
+['Wilbert', 'Gio'] ['29', '7', '1', '* winner: upper']
+fitness value of chromosome 1 :   -5571
+['Gio', 'Wilbert'] ['27', '6', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 2 :   -973
+['Gio', 'Wilbert'] ['20', '2', '7', '* winner: upper']
+fitness value of chromosome 3 :   5520
+['Wilbert', 'Gio'] ['28', '3', '7', '* winner: lower']
+fitness value of chromosome 4 :   5428
+['Gio', 'Wilbert'] ['29', '6', '5', '* winner: lower']
+fitness value of chromosome 5 :   -5071
+['Gio', 'Wilbert'] ['23', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 6 :   -677
+['Gio', 'Wilbert'] ['26', '2', '7', '* winner: upper']
+fitness value of chromosome 7 :   5526
+['Wilbert', 'Gio'] ['30', '4', '7', '* winner: lower']
+fitness value of chromosome 8 :   5330
+['Wilbert', 'Gio'] ['42', '7', '2', '* winner: upper']
+fitness value of chromosome 9 :   -5458
+['Wilbert', 'Gio'] ['42', '7', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 10 :   -958
+['Wilbert', 'Gio'] ['47', '7', '7', '* winner: upper']
+fitness value of chromosome 11 :   -4953
+['Gio', 'Wilbert'] ['32', '7', '6', '* winner: lower']
+fitness value of chromosome 12 :   -5068
+['Gio', 'Wilbert'] ['20', '2', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 13 :   -480
+['Gio', 'Wilbert'] ['49', '7', '4', '* winner: lower']
+fitness value of chromosome 14 :   -5251
+['Wilbert', 'Gio'] ['17', '1', '7', '* winner: lower']
+fitness value of chromosome 15 :   5617
+['Wilbert', 'Gio'] ['32', '7', '5', '* winner: upper']
+fitness value of chromosome 16 :   -5168
+['Wilbert', 'Gio'] ['27', '4', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 17 :   -773
+['Gio', 'Wilbert'] ['24', '3', '7', '* winner: upper']
+fitness value of chromosome 18 :   5424
+['Gio', 'Wilbert'] ['17', '2', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 19 :   -583
+['Gio', 'Wilbert'] ['40', '7', '5', '* winner: lower']
+fitness value of chromosome 20 :   -5160
+['Wilbert', 'Gio'] ['15', '0', '7', '* winner: lower']
+fitness value of chromosome 21 :   5715
+['Gio', 'Wilbert'] ['32', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 22 :   -868
+['Gio', 'Wilbert'] ['24', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 23 :   -776
+['Wilbert', 'Gio'] ['36', '7', '3', '* winner: upper']
+fitness value of chromosome 24 :   -5364
+#######  fittest chromosome in generation 20 is having fitness value:   5715
+[ 0.328 -0.08  -0.183 -0.91   0.373 -1.423  0.105  0.403 -0.43  -0.04
+  0.05   0.042 -0.575  0.073  0.29  -0.15  -0.61  -1.719]
+[ 0.328 -0.08   0.16  -0.91   0.041 -0.18  -0.72   0.598 -0.43  -0.04
+  0.05   0.042 -0.123  0.284  0.386 -0.15  -0.61  -1.533]
+[ 0.328 -0.08  -0.183 -0.91   0.041 -0.18   0.105  0.1   -0.43  -0.04
+  0.05   0.042 -0.473  0.073  0.386 -0.861 -0.61  -1.533]
+[ 0.328 -0.08   0.16  -0.91   0.373 -1.423  0.105  0.403 -0.43  -0.04
+  0.05   0.042 -0.123  0.073  0.29  -0.15  -0.61  -1.719]
+[ 0.328 -0.08  -0.183 -0.91   0.041 -1.423  0.105  0.1   -0.43  -0.04
+  0.05   0.042 -0.123  0.073  0.29  -0.861 -0.61  -1.533]
+[ 0.328 -0.08   0.16  -1.667  0.041 -0.18   0.105  0.1   -0.43  -0.04
+  0.05   0.042 -0.123  0.073  0.391 -0.15  -0.61  -1.533]
+##############        GENERATION 21  ###############
+['Gio', 'Wilbert'] ['18', '1', '7', '* winner: upper']
+fitness value of chromosome 0 :   5618
+['Gio', 'Wilbert'] ['22', '2', '7', '* winner: upper']
+fitness value of chromosome 1 :   5522
+['Gio', 'Wilbert'] ['32', '7', '6', '* winner: lower']
+fitness value of chromosome 2 :   -5068
+['Gio', 'Wilbert'] ['22', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 3 :   -678
+['Wilbert', 'Gio'] ['35', '7', '7', '* winner: upper']
+fitness value of chromosome 4 :   -4965
+['Gio', 'Wilbert'] ['34', '7', '7', '* winner: lower']
+fitness value of chromosome 5 :   -4966
+['Wilbert', 'Gio'] ['29', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 6 :   -671
+['Wilbert', 'Gio'] ['44', '7', '6', '* winner: upper']
+fitness value of chromosome 7 :   -5056
+['Wilbert', 'Gio'] ['17', '2', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 8 :   -583
+['Gio', 'Wilbert'] ['15', '0', '7', '* winner: upper']
+fitness value of chromosome 9 :   5715
+['Wilbert', 'Gio'] ['36', '7', '4', '* winner: upper']
+fitness value of chromosome 10 :   -5264
+['Wilbert', 'Gio'] ['39', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 11 :   -761
+['Wilbert', 'Gio'] ['23', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 12 :   -577
+['Wilbert', 'Gio'] ['22', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 13 :   -678
+['Wilbert', 'Gio'] ['23', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 14 :   -677
+['Gio', 'Wilbert'] ['44', '7', '6', '* winner: lower']
+fitness value of chromosome 15 :   -5056
+['Gio', 'Wilbert'] ['32', '6', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 16 :   -968
+['Gio', 'Wilbert'] ['21', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 17 :   -679
+['Gio', 'Wilbert'] ['26', '7', '7', '* winner: lower']
+fitness value of chromosome 18 :   -4974
+['Gio', 'Wilbert'] ['23', '2', '7', '* winner: upper']
+fitness value of chromosome 19 :   5523
+['Wilbert', 'Gio'] ['44', '7', '5', '* winner: upper']
+fitness value of chromosome 20 :   -5156
+['Gio', 'Wilbert'] ['25', '2', '7', '* winner: upper']
+fitness value of chromosome 21 :   5525
+['Gio', 'Wilbert'] ['17', '1', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 22 :   -483
+['Wilbert', 'Gio'] ['33', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 23 :   -767
+['Gio', 'Wilbert'] ['35', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 24 :   -865
+#######  fittest chromosome in generation 21 is having fitness value:   5715
+[ 0.328 -0.08  -0.183 -0.91   0.373 -1.423 -0.796  0.403 -0.43  -0.04
+  0.05   0.042 -0.123  0.073  0.29  -0.15  -0.61  -1.719]
+[ 0.328 -0.08  -0.183 -0.91   0.373 -1.423  0.105  0.403 -0.43  -0.04
+  0.05   0.042 -0.575  0.073  0.29  -0.15  -0.61  -1.719]
+[ 0.328 -0.08   0.16  -1.667  0.373 -0.18   0.105  0.403 -0.43  -0.756
+  0.05   0.042 -0.123  0.073  0.391 -0.15  -0.61  -1.719]
+[ 0.328 -0.08   0.16  -0.91   0.373 -0.18  -0.72   0.598 -0.43  -0.264
+  0.05   0.042 -0.123  0.073  0.29  -0.15  -0.61  -1.533]
+[ 0.328 -0.08   0.16  -0.91   0.041 -0.18  -0.72   0.598 -0.43  -0.04
+  0.05   0.042 -0.123  0.284  0.386 -0.15  -0.61  -1.533]
+[ 0.328 -0.08  -0.183 -0.91   0.373 -1.423  0.105  0.1   -0.43  -0.04
+  0.05  -0.893 -0.123  0.073  0.391 -0.15  -0.61  -1.719]
+##############        GENERATION 22  ###############
+['Gio', 'Wilbert'] ['17', '2', '7', '* winner: upper']
+fitness value of chromosome 0 :   5517
+['Gio', 'Wilbert'] ['21', '2', '7', '* winner: upper']
+fitness value of chromosome 1 :   5521
+['Wilbert', 'Gio'] ['21', '1', '7', '* winner: lower']
+fitness value of chromosome 2 :   5621
+['Wilbert', 'Gio'] ['24', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 3 :   -676
+['Wilbert', 'Gio'] ['21', '3', '7', '* winner: lower']
+fitness value of chromosome 4 :   5421
+['Wilbert', 'Gio'] ['32', '7', '6', '* winner: upper']
+fitness value of chromosome 5 :   -5068
+['Wilbert', 'Gio'] ['26', '6', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 6 :   -974
+['Wilbert', 'Gio'] ['27', '4', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 7 :   -773
+['Wilbert', 'Gio'] ['27', '6', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 8 :   -973
+['Wilbert', 'Gio'] ['22', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 9 :   -678
+['Wilbert', 'Gio'] ['33', '7', '2', '* winner: upper']
+fitness value of chromosome 10 :   -5467
+['Wilbert', 'Gio'] ['26', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 11 :   -774
+['Gio', 'Wilbert'] ['36', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 12 :   -864
+['Gio', 'Wilbert'] ['31', '4', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 13 :   -769
+['Wilbert', 'Gio'] ['36', '7', '6', '* winner: upper']
+fitness value of chromosome 14 :   -5064
+['Gio', 'Wilbert'] ['43', '7', '6', '* winner: lower']
+fitness value of chromosome 15 :   -5057
+['Gio', 'Wilbert'] ['46', '7', '7', '* winner: lower']
+fitness value of chromosome 16 :   -4954
+['Gio', 'Wilbert'] ['27', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 17 :   -673
+['Gio', 'Wilbert'] ['25', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 18 :   -575
+['Wilbert', 'Gio'] ['22', '4', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 19 :   -778
+['Wilbert', 'Gio'] ['14', '2', '7', '* winner: lower']
+fitness value of chromosome 20 :   5514
+['Gio', 'Wilbert'] ['46', '7', '6', '* winner: lower']
+fitness value of chromosome 21 :   -5054
+['Wilbert', 'Gio'] ['36', '7', '4', '* winner: upper']
+fitness value of chromosome 22 :   -5264
+['Gio', 'Wilbert'] ['36', '7', '7', '* winner: lower']
+fitness value of chromosome 23 :   -4964
+['Gio', 'Wilbert'] ['32', '7', '6', '* winner: lower']
+fitness value of chromosome 24 :   -5068
+#######  fittest chromosome in generation 22 is having fitness value:   5621
+[ 0.328 -0.08   0.16  -1.667  0.373 -0.18   0.105  0.403 -0.43  -0.756
+  0.05   0.042 -0.123  0.073  0.391 -0.15  -0.61  -1.719]
+[ 0.328 -0.08  -0.183 -0.91   0.373 -1.423  0.105  0.403 -0.43  -0.04
+  0.05   0.042 -0.575  0.073  0.29  -0.15  -0.61  -1.719]
+[ 0.328 -0.08  -0.183 -0.91   0.373 -1.423 -0.796  0.403 -0.43  -0.04
+  0.05   0.042 -0.123  0.073  0.29  -0.15  -0.61  -1.719]
+[ 0.328 -0.08   0.16  -1.667  0.373 -2.411 -0.796  0.403 -0.43  -0.756
+  0.05   0.042 -0.123  0.073  0.391 -0.15  -0.61  -1.719]
+[ 0.328 -0.08   0.16  -0.91   0.041 -0.18  -0.72   0.598 -0.43  -0.04
+  0.05   0.042 -0.123  0.284  0.386 -0.15  -0.61  -1.533]
+[ 0.328 -0.08   0.16  -0.91   0.373 -0.18   0.105  0.598 -0.43  -0.332
+  0.05  -0.893 -0.123  0.073  0.391 -0.15  -0.61  -1.719]
+##############        GENERATION 23  ###############
+['Wilbert', 'Gio'] ['17', '2', '7', '* winner: lower']
+fitness value of chromosome 0 :   5517
+['Wilbert', 'Gio'] ['39', '7', '2', '* winner: upper']
+fitness value of chromosome 1 :   -5461
+['Gio', 'Wilbert'] ['38', '7', '7', '* winner: lower']
+fitness value of chromosome 2 :   -4962
+['Wilbert', 'Gio'] ['30', '7', '5', '* winner: upper']
+fitness value of chromosome 3 :   -5170
+['Gio', 'Wilbert'] ['22', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 4 :   -578
+['Gio', 'Wilbert'] ['22', '2', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 5 :   -478
+['Gio', 'Wilbert'] ['38', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 6 :   -862
+['Gio', 'Wilbert'] ['34', '7', '2', '* winner: lower']
+fitness value of chromosome 7 :   -5466
+['Gio', 'Wilbert'] ['34', '7', '1', '* winner: lower']
+fitness value of chromosome 8 :   -5566
+['Gio', 'Wilbert'] ['28', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 9 :   -772
+['Wilbert', 'Gio'] ['28', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 10 :   -772
+['Wilbert', 'Gio'] ['48', '7', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 11 :   -952
+['Wilbert', 'Gio'] ['31', '7', '7', '* winner: upper']
+fitness value of chromosome 12 :   -4969
+['Wilbert', 'Gio'] ['34', '7', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 13 :   -966
+['Gio', 'Wilbert'] ['28', '7', '1', '* winner: lower']
+fitness value of chromosome 14 :   -5572
+['Gio', 'Wilbert'] ['24', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 15 :   -676
+['Wilbert', 'Gio'] ['26', '5', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 16 :   -874
+['Gio', 'Wilbert'] ['37', '7', '6', '* winner: lower']
+fitness value of chromosome 17 :   -5063
+['Wilbert', 'Gio'] ['33', '7', '7', '* winner: upper']
+fitness value of chromosome 18 :   -4967
+['Wilbert', 'Gio'] ['21', '1', '7', '* winner: lower']
+fitness value of chromosome 19 :   5621
+['Wilbert', 'Gio'] ['22', '2', '7', '* winner: lower']
+fitness value of chromosome 20 :   5522
+['Wilbert', 'Gio'] ['26', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 21 :   -674
+['Gio', 'Wilbert'] ['39', '7', '7', '* winner: lower']
+fitness value of chromosome 22 :   -4961
+['Wilbert', 'Gio'] ['22', '1', '7', '* winner: lower']
+fitness value of chromosome 23 :   5622
+['Wilbert', 'Gio'] ['36', '7', '6', '* winner: upper']
+fitness value of chromosome 24 :   -5064
+#######  fittest chromosome in generation 23 is having fitness value:   5622
+[ 0.328 -0.08   0.16  -0.91   0.373 -0.04   0.105  0.403 -0.43  -0.04
+  0.05  -0.893 -0.123  0.073  0.29  -0.15  -0.61  -1.719]
+[ 0.328 -0.08   0.16  -0.91   0.041 -1.423  0.105  0.598 -0.43  -0.04
+  0.05  -0.058 -0.575  0.073  0.29  -0.15  -0.61  -1.533]
+[ 0.328 -0.08   0.16  -1.667  0.373 -2.411 -0.313  0.403 -0.43  -0.332
+  0.05  -0.893 -0.123  0.073  0.391 -0.15  -0.61  -1.719]
+[ 0.328 -0.08   0.16  -1.667  0.373 -0.18   0.105  0.403 -0.43  -0.756
+  0.05   0.042 -0.123  0.073  0.391 -0.15  -0.61  -1.719]
+[ 0.328 -0.08   0.16  -0.91   0.373 -0.18   0.105  0.598 -0.43  -0.332
+  0.05  -0.893 -0.123  0.073  0.391 -0.15  -0.61  -1.719]
+[ 0.328 -0.08   0.16  -0.91   0.041 -0.18  -0.72   0.598 -0.43  -0.04
+  0.05   0.042 -0.123  0.284  0.386 -0.15  -0.61  -1.533]
+##############        GENERATION 24  ###############
+['Gio', 'Wilbert'] ['44', '7', '6', '* winner: lower']
+fitness value of chromosome 0 :   -5056
+['Wilbert', 'Gio'] ['30', '5', '7', '* winner: lower']
+fitness value of chromosome 1 :   5230
+['Wilbert', 'Gio'] ['41', '7', '2', '* winner: upper']
+fitness value of chromosome 2 :   -5459
+['Wilbert', 'Gio'] ['32', '7', '5', '* winner: upper']
+fitness value of chromosome 3 :   -5168
+['Gio', 'Wilbert'] ['20', '1', '7', '* winner: upper']
+fitness value of chromosome 4 :   5620
+['Wilbert', 'Gio'] ['36', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 5 :   -664
+['Gio', 'Wilbert'] ['28', '5', '7', '* winner: upper']
+fitness value of chromosome 6 :   5228
+['Gio', 'Wilbert'] ['24', '7', '7', '* winner: lower']
+fitness value of chromosome 7 :   -4976
+['Wilbert', 'Gio'] ['39', '7', '3', '* winner: upper']
+fitness value of chromosome 8 :   -5361
+['Wilbert', 'Gio'] ['15', '1', '7', '* winner: lower']
+fitness value of chromosome 9 :   5615
+['Wilbert', 'Gio'] ['33', '7', '3', '* winner: upper']
+fitness value of chromosome 10 :   -5367
+['Gio', 'Wilbert'] ['46', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 11 :   -854
+['Gio', 'Wilbert'] ['36', '7', '7', '* winner: lower']
+fitness value of chromosome 12 :   -4964
+['Gio', 'Wilbert'] ['33', '6', '7', '* winner: upper']
+fitness value of chromosome 13 :   5133
+['Gio', 'Wilbert'] ['21', '3', '7', '* winner: upper']
+fitness value of chromosome 14 :   5421
+['Wilbert', 'Gio'] ['34', '7', '2', '* winner: upper']
+fitness value of chromosome 15 :   -5466
+['Wilbert', 'Gio'] ['46', '7', '6', '* winner: upper']
+fitness value of chromosome 16 :   -5054
+['Gio', 'Wilbert'] ['16', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 17 :   -684
+['Gio', 'Wilbert'] ['34', '4', '7', '* winner: upper']
+fitness value of chromosome 18 :   5334
+['Wilbert', 'Gio'] ['45', '7', '4', '* winner: upper']
+fitness value of chromosome 19 :   -5255
+['Wilbert', 'Gio'] ['26', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 20 :   -674
+['Wilbert', 'Gio'] ['26', '3', '7', '* winner: lower']
+fitness value of chromosome 21 :   5426
+['Wilbert', 'Gio'] ['33', '7', '5', '* winner: upper']
+fitness value of chromosome 22 :   -5167
+['Gio', 'Wilbert'] ['33', '7', '7', '* winner: lower']
+fitness value of chromosome 23 :   -4967
+['Gio', 'Wilbert'] ['41', '7', '7', '* winner: upper']
+fitness value of chromosome 24 :   5041
+#######  fittest chromosome in generation 24 is having fitness value:   5620
+[ 0.328 -0.08   0.16  -0.91   0.373 -0.18   0.105  0.598 -0.43  -0.332
+  0.05  -0.893 -0.123  0.073  0.391 -0.15  -0.61  -1.719]
+[ 0.328 -0.08   0.16  -0.91   0.373 -0.18   0.105  0.403 -0.43  -0.04
+  0.05   0.042 -0.123  0.073  0.386 -0.15  -0.61  -2.614]
+[ 0.328 -0.08   0.16  -0.91   0.373 -0.04   0.105  0.403 -0.43  -0.04
+  0.05  -0.893 -0.123  0.284  0.29  -0.71  -0.61  -1.533]
+[ 0.328 -0.08   0.16  -0.91   0.041 -0.18   0.105  0.598 -0.43  -0.04
+  0.05  -0.188 -0.123  0.073  0.29  -0.15  -0.61  -1.533]
+[ 0.328 -0.08   0.16  -0.91   0.041 -0.04   0.105  0.598 -0.43  -0.04
+  0.05  -0.893 -0.123  0.073 -0.304 -0.15  -0.61  -1.719]
+[ 0.328 -0.08   0.16  -0.91   0.041 -1.423  0.105  0.598 -0.43  -0.04
+  0.05  -0.058 -0.575  0.073  0.29  -0.15  -0.61  -1.533]
+##############        GENERATION 25  ###############
+['Wilbert', 'Gio'] ['43', '7', '6', '* winner: upper']
+fitness value of chromosome 0 :   -5057
+['Wilbert', 'Gio'] ['20', '2', '7', '* winner: lower']
+fitness value of chromosome 1 :   5520
+['Gio', 'Wilbert'] ['41', '7', '5', '* winner: lower']
+fitness value of chromosome 2 :   -5159
+['Wilbert', 'Gio'] ['35', '7', '5', '* winner: upper']
+fitness value of chromosome 3 :   -5165
+['Gio', 'Wilbert'] ['19', '1', '7', '* winner: upper']
+fitness value of chromosome 4 :   5619
+['Wilbert', 'Gio'] ['37', '7', '6', '* winner: upper']
+fitness value of chromosome 5 :   -5063
+['Gio', 'Wilbert'] ['23', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 6 :   -777
+['Wilbert', 'Gio'] ['26', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 7 :   -774
+['Gio', 'Wilbert'] ['26', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 8 :   -874
+['Gio', 'Wilbert'] ['19', '3', '7', '* winner: upper']
+fitness value of chromosome 9 :   5419
+['Gio', 'Wilbert'] ['23', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 10 :   -577
+['Wilbert', 'Gio'] ['36', '7', '7', '* winner: upper']
+fitness value of chromosome 11 :   -4964
+['Wilbert', 'Gio'] ['21', '2', '7', '* winner: lower']
+fitness value of chromosome 12 :   5521
+['Gio', 'Wilbert'] ['25', '6', '7', '* winner: upper']
+fitness value of chromosome 13 :   5125
+['Wilbert', 'Gio'] ['25', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 14 :   -775
+['Wilbert', 'Gio'] ['18', '1', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 15 :   -482
+['Wilbert', 'Gio'] ['23', '3', '7', '* winner: lower']
+fitness value of chromosome 16 :   5423
+['Wilbert', 'Gio'] ['34', '7', '4', '* winner: upper']
+fitness value of chromosome 17 :   -5266
+['Wilbert', 'Gio'] ['37', '7', '7', '* winner: upper']
+fitness value of chromosome 18 :   -4963
+['Wilbert', 'Gio'] ['30', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 19 :   -670
+['Wilbert', 'Gio'] ['28', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 20 :   -572
+['Wilbert', 'Gio'] ['29', '2', '7', '* winner: lower']
+fitness value of chromosome 21 :   5529
+['Gio', 'Wilbert'] ['33', '7', '6', '* winner: lower']
+fitness value of chromosome 22 :   -5067
+['Gio', 'Wilbert'] ['19', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 23 :   -581
+['Wilbert', 'Gio'] ['39', '6', '7', '* winner: lower']
+fitness value of chromosome 24 :   5139
+#######  fittest chromosome in generation 25 is having fitness value:   5619
+[ 0.328 -0.08   0.16  -0.91   0.041 -0.04   0.105  0.598 -0.43  -0.04
+  0.05  -0.893 -0.123  0.073 -0.304 -0.15  -0.61  -1.719]
+[ 1.248 -0.08   0.16  -0.91   0.041 -0.18   0.105  0.598 -0.43  -0.04
+  0.05   0.042 -0.123  0.073  0.386 -0.15  -0.61  -1.533]
+[ 0.328 -0.08   0.16   0.036  0.373 -0.18   0.105  0.598 -0.43  -0.04
+  0.05   0.042 -0.123  0.073  0.29  -0.15  -0.61  -2.614]
+[ 0.328 -0.08   0.16  -0.91   0.373 -0.18   0.105  0.403 -0.43  -0.04
+  0.05   0.042 -0.123  0.073  0.386 -0.15  -0.61  -2.614]
+[ 0.328 -0.08   0.16  -0.91   0.373 -0.18   0.105  0.598 -0.43  -0.04
+ -0.404  0.042 -0.123  0.073  0.29  -0.15  -0.61  -1.533]
+[ 0.328 -0.08   0.16  -0.91   0.041 -0.721  0.105  0.403 -0.43  -0.04
+  0.05  -0.188 -0.123  0.284  0.29  -0.15  -0.61  -1.533]
+##############        GENERATION 26  ###############
+['Gio', 'Wilbert'] ['46', '7', '7', '* winner: lower']
+fitness value of chromosome 0 :   -4954
+['Gio', 'Wilbert'] ['38', '7', '6', '* winner: lower']
+fitness value of chromosome 1 :   -5062
+['Gio', 'Wilbert'] ['20', '2', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 2 :   -580
+['Gio', 'Wilbert'] ['32', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 3 :   -568
+['Wilbert', 'Gio'] ['31', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 4 :   -869
+['Wilbert', 'Gio'] ['17', '1', '7', '* winner: lower']
+fitness value of chromosome 5 :   5617
+['Wilbert', 'Gio'] ['27', '2', '7', '* winner: lower']
+fitness value of chromosome 6 :   5527
+['Gio', 'Wilbert'] ['29', '7', '2', '* winner: lower']
+fitness value of chromosome 7 :   -5471
+['Gio', 'Wilbert'] ['22', '2', '7', '* winner: upper']
+fitness value of chromosome 8 :   5522
+['Gio', 'Wilbert'] ['31', '7', '5', '* winner: lower']
+fitness value of chromosome 9 :   -5169
+['Wilbert', 'Gio'] ['23', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 10 :   -677
+['Wilbert', 'Gio'] ['23', '4', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 11 :   -777
+['Gio', 'Wilbert'] ['26', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 12 :   -674
+['Gio', 'Wilbert'] ['39', '7', '7', '* winner: lower']
+fitness value of chromosome 13 :   -4961
+['Gio', 'Wilbert'] ['27', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 14 :   -673
+['Gio', 'Wilbert'] ['20', '1', '7', '* winner: upper']
+fitness value of chromosome 15 :   5620
+['Gio', 'Wilbert'] ['42', '7', '6', '* winner: lower']
+fitness value of chromosome 16 :   -5058
+['Gio', 'Wilbert'] ['22', '2', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 17 :   -478
+['Gio', 'Wilbert'] ['29', '6', '7', '* error: invalid action!']
+fitness value of chromosome 18 :   -871
+['Wilbert', 'Gio'] ['22', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 19 :   -678
+['Wilbert', 'Gio'] ['34', '7', '7', '* winner: upper']
+fitness value of chromosome 20 :   -4966
+['Wilbert', 'Gio'] ['13', '0', '7', '* winner: lower']
+fitness value of chromosome 21 :   5713
+['Gio', 'Wilbert'] ['34', '7', '4', '* winner: lower']
+fitness value of chromosome 22 :   -5266
+['Wilbert', 'Gio'] ['31', '5', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 23 :   -869
+['Gio', 'Wilbert'] ['22', '2', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 24 :   -578
+#######  fittest chromosome in generation 26 is having fitness value:   5713
+[ 0.328 -0.08   0.16  -0.91   0.373 -0.18   0.105  0.403 -0.43  -0.04
+ -0.404  0.042 -0.123  0.073  0.29  -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16   0.442  0.373 -0.721  0.105  0.403 -0.43  -0.04
+  0.05   0.042 -0.123  0.073  0.29  -0.15  -0.61  -2.614]
+[ 0.328 -0.08   0.16  -0.91   0.041 -0.721  0.105  0.403 -0.43  -0.04
+  0.05  -0.188 -0.123  0.284  0.29  -0.15  -0.61  -1.533]
+[ 1.248 -0.08   0.16  -0.91   0.041 -0.802  0.105  0.598 -0.43  -0.04
+  0.05  -0.188 -0.123  0.073  0.386 -0.15  -0.61  -1.533]
+[ 0.328 -0.08   0.16  -0.189  0.373 -0.18   0.105  0.598 -0.43  -0.04
+  0.05  -0.188 -0.123  0.284  0.29  -0.15  -0.61  -1.533]
+[ 0.328 -0.08   0.16  -0.91   0.041 -0.04   0.105  0.598 -0.43  -0.04
+  0.05  -0.893 -0.123  0.073  0.29  -0.15   0.058 -1.719]
+##############        GENERATION 27  ###############
+['Wilbert', 'Gio'] ['17', '0', '7', '* winner: lower']
+fitness value of chromosome 0 :   5717
+['Gio', 'Wilbert'] ['17', '3', '7', '* winner: upper']
+fitness value of chromosome 1 :   5417
+['Gio', 'Wilbert'] ['33', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 2 :   -767
+['Gio', 'Wilbert'] ['22', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 3 :   -678
+['Wilbert', 'Gio'] ['24', '5', '7', '* winner: lower']
+fitness value of chromosome 4 :   5224
+['Gio', 'Wilbert'] ['24', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 5 :   -776
+['Wilbert', 'Gio'] ['22', '1', '7', '* winner: lower']
+fitness value of chromosome 6 :   5622
+['Gio', 'Wilbert'] ['18', '3', '7', '* winner: upper']
+fitness value of chromosome 7 :   5418
+['Wilbert', 'Gio'] ['36', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 8 :   -764
+['Wilbert', 'Gio'] ['24', '2', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 9 :   -476
+['Wilbert', 'Gio'] ['39', '7', '8', '* winner: upper']
+fitness value of chromosome 10 :   -4861
+['Wilbert', 'Gio'] ['23', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 11 :   -677
+['Wilbert', 'Gio'] ['43', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 12 :   -857
+['Gio', 'Wilbert'] ['29', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 13 :   -671
+['Gio', 'Wilbert'] ['18', '3', '7', '* winner: upper']
+fitness value of chromosome 14 :   5418
+['Gio', 'Wilbert'] ['33', '7', '6', '* winner: lower']
+fitness value of chromosome 15 :   -5067
+['Gio', 'Wilbert'] ['13', '1', '7', '* winner: upper']
+fitness value of chromosome 16 :   5613
+['Wilbert', 'Gio'] ['20', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 17 :   -680
+['Gio', 'Wilbert'] ['31', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 18 :   -669
+['Wilbert', 'Gio'] ['30', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 19 :   -570
+['Gio', 'Wilbert'] ['23', '2', '7', '* winner: upper']
+fitness value of chromosome 20 :   5523
+['Gio', 'Wilbert'] ['43', '7', '4', '* winner: lower']
+fitness value of chromosome 21 :   -5257
+['Wilbert', 'Gio'] ['34', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 22 :   -666
+['Wilbert', 'Gio'] ['29', '4', '7', '* winner: lower']
+fitness value of chromosome 23 :   5329
+['Wilbert', 'Gio'] ['29', '3', '7', '* winner: lower']
+fitness value of chromosome 24 :   5429
+#######  fittest chromosome in generation 27 is having fitness value:   5717
+[ 0.328 -0.08   0.16  -0.91   0.373 -0.18   0.105  0.403 -0.43  -0.04
+ -0.404  0.042 -0.123  0.073  0.29  -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.91   0.373 -0.18   0.105  0.403 -0.43  -0.04
+  0.05   0.042 -0.123 -0.671  0.29  -0.15  -0.61  -2.614]
+[ 0.328 -0.08   0.16  -1.447  0.373 -0.18   0.105  0.403 -0.43  -0.04
+ -0.404 -0.188 -0.123  0.073  0.386 -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.189  0.373 -0.18   0.105  0.754 -0.43  -0.04
+  0.05   0.042 -0.123  0.073  0.29  -0.15  -0.61  -1.533]
+[ 0.328 -0.08   0.16  -0.91   0.373 -0.18   0.105  0.403 -0.43  -0.04
+  0.05   0.916 -0.123  0.284  0.29  -0.15  -0.61  -1.533]
+[ 0.328 -0.08   0.16  -0.91   0.373 -0.18   0.105  0.598 -0.43  -0.04
+ -0.404 -0.188 -0.123  0.102  0.29  -0.15  -0.61  -1.533]
+##############        GENERATION 28  ###############
+['Gio', 'Wilbert'] ['16', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 0 :   -684
+['Wilbert', 'Gio'] ['29', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 1 :   -771
+['Gio', 'Wilbert'] ['30', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 2 :   -770
+['Wilbert', 'Gio'] ['60', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 3 :   -840
+['Wilbert', 'Gio'] ['33', '7', '2', '* winner: upper']
+fitness value of chromosome 4 :   -5467
+['Gio', 'Wilbert'] ['18', '2', '7', '* winner: upper']
+fitness value of chromosome 5 :   5518
+['Wilbert', 'Gio'] ['41', '7', '5', '* winner: upper']
+fitness value of chromosome 6 :   -5159
+['Wilbert', 'Gio'] ['34', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 7 :   -866
+['Wilbert', 'Gio'] ['31', '7', '3', '* winner: upper']
+fitness value of chromosome 8 :   -5369
+['Gio', 'Wilbert'] ['25', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 9 :   -675
+['Gio', 'Wilbert'] ['18', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 10 :   -682
+['Wilbert', 'Gio'] ['23', '2', '7', '* winner: lower']
+fitness value of chromosome 11 :   5523
+['Wilbert', 'Gio'] ['34', '7', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 12 :   -966
+['Wilbert', 'Gio'] ['27', '5', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 13 :   -873
+['Wilbert', 'Gio'] ['32', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 14 :   -768
+['Gio', 'Wilbert'] ['53', '7', '7', '* winner: lower']
+fitness value of chromosome 15 :   -4947
+['Gio', 'Wilbert'] ['43', '7', '7', '* winner: lower']
+fitness value of chromosome 16 :   -4957
+['Gio', 'Wilbert'] ['48', '7', '7', '* winner: lower']
+fitness value of chromosome 17 :   -4952
+['Wilbert', 'Gio'] ['23', '2', '7', '* winner: lower']
+fitness value of chromosome 18 :   5523
+['Wilbert', 'Gio'] ['23', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 19 :   -577
+['Wilbert', 'Gio'] ['27', '3', '7', '* winner: lower']
+fitness value of chromosome 20 :   5427
+['Gio', 'Wilbert'] ['24', '2', '7', '* winner: upper']
+fitness value of chromosome 21 :   5524
+['Wilbert', 'Gio'] ['28', '7', '1', '* winner: upper']
+fitness value of chromosome 22 :   -5572
+['Wilbert', 'Gio'] ['24', '4', '7', '* winner: lower']
+fitness value of chromosome 23 :   5324
+['Wilbert', 'Gio'] ['30', '7', '2', '* winner: upper']
+fitness value of chromosome 24 :   -5470
+#######  fittest chromosome in generation 28 is having fitness value:   5524
+[ 0.328 -0.08   0.16  -0.189  0.373 -0.18   0.105  0.598 -0.43   0.14
+ -0.404  0.042 -0.123  0.073  0.29  -0.15  -0.61  -1.533]
+[ 0.328 -0.08   0.16  -0.91   0.373 -0.18   0.556  0.403 -0.43  -0.04
+  0.05  -0.188 -0.123  0.073  0.29  -0.15  -0.61  -2.614]
+[ 0.328 -0.08   0.16  -0.91   0.373 -0.18   0.105  0.598 -0.43  -0.108
+  0.05   0.916 -0.123  0.284  0.29  -0.15  -0.61  -1.533]
+[ 0.328 -0.08   0.16  -0.91   0.373 -0.18   0.105  0.598 -0.43  -0.04
+ -0.404 -0.188 -0.123  0.102  0.29  -0.15  -0.61  -1.533]
+[ 0.328 -0.08   0.16  -0.91   0.373 -0.18   0.105  0.403 -0.43  -0.384
+  0.05   0.042 -0.123  0.073  0.29  -0.15  -0.61  -1.533]
+[-0.539 -0.08   0.16  -0.189  0.373 -0.18   0.105  0.754 -0.43  -0.04
+ -0.404  0.042 -0.123  0.073  0.29  -0.15  -0.61  -3.117]
+##############        GENERATION 29  ###############
+['Gio', 'Wilbert'] ['29', '7', '7', '* winner: lower']
+fitness value of chromosome 0 :   -4971
+['Wilbert', 'Gio'] ['15', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 1 :   -685
+['Wilbert', 'Gio'] ['22', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 2 :   -678
+['Gio', 'Wilbert'] ['29', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 3 :   -671
+['Gio', 'Wilbert'] ['17', '2', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 4 :   -583
+['Gio', 'Wilbert'] ['20', '1', '7', '* winner: upper']
+fitness value of chromosome 5 :   5620
+['Wilbert', 'Gio'] ['51', '7', '3', '* winner: upper']
+fitness value of chromosome 6 :   -5349
+['Gio', 'Wilbert'] ['26', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 7 :   -574
+['Wilbert', 'Gio'] ['35', '7', '6', '* winner: upper']
+fitness value of chromosome 8 :   -5065
+['Gio', 'Wilbert'] ['30', '7', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 9 :   -970
+['Gio', 'Wilbert'] ['16', '0', '7', '* winner: upper']
+fitness value of chromosome 10 :   5716
+['Wilbert', 'Gio'] ['34', '7', '1', '* winner: upper']
+fitness value of chromosome 11 :   -5566
+['Gio', 'Wilbert'] ['39', '7', '4', '* winner: lower']
+fitness value of chromosome 12 :   -5261
+['Wilbert', 'Gio'] ['22', '4', '7', '* winner: lower']
+fitness value of chromosome 13 :   5322
+['Gio', 'Wilbert'] ['29', '6', '7', '* winner: upper']
+fitness value of chromosome 14 :   5129
+['Wilbert', 'Gio'] ['20', '2', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 15 :   -580
+['Gio', 'Wilbert'] ['32', '7', '2', '* winner: lower']
+fitness value of chromosome 16 :   -5468
+['Gio', 'Wilbert'] ['24', '1', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 17 :   -376
+['Wilbert', 'Gio'] ['37', '7', '6', '* winner: upper']
+fitness value of chromosome 18 :   -5063
+['Gio', 'Wilbert'] ['30', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 19 :   -570
+['Wilbert', 'Gio'] ['25', '3', '7', '* winner: lower']
+fitness value of chromosome 20 :   5425
+['Wilbert', 'Gio'] ['40', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 21 :   -760
+['Gio', 'Wilbert'] ['35', '7', '7', '* winner: lower']
+fitness value of chromosome 22 :   -4965
+['Gio', 'Wilbert'] ['44', '7', '5', '* winner: lower']
+fitness value of chromosome 23 :   -5156
+['Wilbert', 'Gio'] ['26', '7', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 24 :   -1074
+#######  fittest chromosome in generation 29 is having fitness value:   5716
+[ 0.328 -0.08   0.16  -0.189  0.906 -0.18   0.105  0.598 -0.43  -0.04
+ -0.404  0.042 -0.123  0.073  0.29  -0.15  -0.61  -1.533]
+[-0.539 -0.08   0.16  -0.189  0.373 -0.18   0.105  0.754 -0.43  -0.04
+ -0.404  0.042 -0.123  0.073  0.29  -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.189  0.373 -0.18   0.105  0.598 -0.43  -0.108
+  0.05   0.916  0.175  0.284  0.29  -0.15  -0.61  -3.117]
+[-0.539 -0.08   0.16  -0.189  0.1   -0.18   0.105  0.598 -0.43   0.14
+ -0.404  0.042 -0.123  0.073  0.29  -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.91   0.373 -0.459  0.105  0.598 -0.43  -0.04
+ -0.404 -0.188 -0.123  0.073  0.29  -0.15  -0.61  -1.533]
+[ 0.328 -0.08   0.16  -0.91   0.373 -0.18   0.105  0.598 -0.43  -0.108
+ -0.735  0.916 -0.123  0.284  0.29  -0.15  -0.61  -1.533]
+##############        GENERATION 30  ###############
+['Wilbert', 'Gio'] ['36', '7', '6', '* winner: upper']
+fitness value of chromosome 0 :   -5064
+['Wilbert', 'Gio'] ['38', '7', '5', '* winner: upper']
+fitness value of chromosome 1 :   -5162
+['Gio', 'Wilbert'] ['16', '1', '7', '* winner: upper']
+fitness value of chromosome 2 :   5616
+['Gio', 'Wilbert'] ['16', '1', '7', '* winner: upper']
+fitness value of chromosome 3 :   5616
+['Gio', 'Wilbert'] ['22', '3', '7', '* winner: upper']
+fitness value of chromosome 4 :   5422
+['Gio', 'Wilbert'] ['20', '2', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 5 :   -580
+['Wilbert', 'Gio'] ['27', '3', '7', '* winner: lower']
+fitness value of chromosome 6 :   5427
+['Wilbert', 'Gio'] ['16', '2', '7', '* winner: lower']
+fitness value of chromosome 7 :   5516
+['Wilbert', 'Gio'] ['33', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 8 :   -767
+['Wilbert', 'Gio'] ['26', '3', '7', '* winner: lower']
+fitness value of chromosome 9 :   5426
+['Wilbert', 'Gio'] ['26', '2', '7', '* winner: lower']
+fitness value of chromosome 10 :   5526
+['Gio', 'Wilbert'] ['42', '7', '4', '* winner: lower']
+fitness value of chromosome 11 :   -5258
+['Gio', 'Wilbert'] ['25', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 12 :   -775
+['Wilbert', 'Gio'] ['33', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 13 :   -567
+['Wilbert', 'Gio'] ['31', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 14 :   -769
+['Wilbert', 'Gio'] ['29', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 15 :   -871
+['Gio', 'Wilbert'] ['23', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 16 :   -677
+['Wilbert', 'Gio'] ['28', '2', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 17 :   -472
+['Gio', 'Wilbert'] ['46', '7', '7', '* winner: lower']
+fitness value of chromosome 18 :   -4954
+['Wilbert', 'Gio'] ['31', '7', '4', '* winner: upper']
+fitness value of chromosome 19 :   -5269
+['Gio', 'Wilbert'] ['24', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 20 :   -576
+['Gio', 'Wilbert'] ['29', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 21 :   -571
+['Wilbert', 'Gio'] ['35', '7', '8', '* winner: upper']
+fitness value of chromosome 22 :   -4865
+['Wilbert', 'Gio'] ['32', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 23 :   -868
+['Gio', 'Wilbert'] ['27', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 24 :   -673
+#######  fittest chromosome in generation 30 is having fitness value:   5616
+[ 0.328 -0.08   0.16  -0.189  0.373 -0.18   0.105  0.598 -0.43  -0.108
+  0.05   0.916  0.175  0.284  0.29  -0.15  -0.61  -3.117]
+[-0.539 -0.08   0.16  -0.189  0.1   -0.18   0.105  0.598 -0.43   0.14
+ -0.404  0.042 -0.123  0.073  0.29  -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.91   0.373 -0.459  0.105  0.598 -1.097 -0.04
+ -0.404 -0.188 -0.123  0.073  0.29  -0.15  -0.61  -1.533]
+[ 0.328 -0.08   0.16  -0.91   0.373 -0.459  0.105  0.561 -0.43  -0.04
+ -0.404 -0.188 -0.123  0.073  0.29  -0.15  -0.61  -1.533]
+[ 0.328 -0.08   0.16  -0.91   0.906 -0.18   0.105  0.598 -0.43   0.347
+ -0.735  0.916 -0.123  0.284  0.29  -0.15  -0.61  -1.533]
+[ 0.328 -0.08   0.16  -0.189  0.373 -0.459  0.105  0.598  0.167 -0.04
+ -0.404  0.042 -0.123  0.073  0.29  -0.15  -0.61  -1.533]
+##############        GENERATION 31  ###############
+['Wilbert', 'Gio'] ['25', '2', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 0 :   -475
+['Gio', 'Wilbert'] ['24', '1', '7', '* winner: upper']
+fitness value of chromosome 1 :   5624
+['Wilbert', 'Gio'] ['28', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 2 :   -572
+['Gio', 'Wilbert'] ['34', '7', '3', '* winner: lower']
+fitness value of chromosome 3 :   -5366
+['Gio', 'Wilbert'] ['51', '7', '6', '* winner: lower']
+fitness value of chromosome 4 :   -5049
+['Gio', 'Wilbert'] ['16', '3', '7', '* winner: upper']
+fitness value of chromosome 5 :   5416
+['Wilbert', 'Gio'] ['39', '7', '6', '* winner: upper']
+fitness value of chromosome 6 :   -5061
+['Gio', 'Wilbert'] ['18', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 7 :   -682
+['Wilbert', 'Gio'] ['16', '2', '7', '* winner: lower']
+fitness value of chromosome 8 :   5516
+['Gio', 'Wilbert'] ['36', '7', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 9 :   -1064
+['Gio', 'Wilbert'] ['31', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 10 :   -669
+['Wilbert', 'Gio'] ['46', '7', '2', '* winner: upper']
+fitness value of chromosome 11 :   -5454
+['Gio', 'Wilbert'] ['16', '0', '7', '* winner: upper']
+fitness value of chromosome 12 :   5716
+['Gio', 'Wilbert'] ['37', '7', '6', '* draw: same game state occurred for 3rd time']
+fitness value of chromosome 13 :   -1063
+['Wilbert', 'Gio'] ['34', '7', '6', '* winner: upper']
+fitness value of chromosome 14 :   -5066
+['Wilbert', 'Gio'] ['27', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 15 :   -673
+['Wilbert', 'Gio'] ['49', '7', '7', '* winner: upper']
+fitness value of chromosome 16 :   -4951
+['Gio', 'Wilbert'] ['40', '5', '7', '* winner: upper']
+fitness value of chromosome 17 :   5240
+['Wilbert', 'Gio'] ['42', '7', '5', '* winner: upper']
+fitness value of chromosome 18 :   -5158
+['Gio', 'Wilbert'] ['49', '7', '6', '* winner: lower']
+fitness value of chromosome 19 :   -5051
+['Wilbert', 'Gio'] ['42', '7', '4', '* winner: upper']
+fitness value of chromosome 20 :   -5258
+['Gio', 'Wilbert'] ['46', '7', '7', '* winner: lower']
+fitness value of chromosome 21 :   -4954
+['Wilbert', 'Gio'] ['19', '3', '7', '* winner: lower']
+fitness value of chromosome 22 :   5419
+['Wilbert', 'Gio'] ['24', '2', '7', '* winner: lower']
+fitness value of chromosome 23 :   5524
+['Wilbert', 'Gio'] ['32', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 24 :   -668
+#######  fittest chromosome in generation 31 is having fitness value:   5716
+[ 0.328 -0.08   0.16  -0.189  0.373 -0.459  0.105  0.598  0.167 -0.108
+ -0.404  0.916  0.167  0.284  0.29  -0.15  -0.61  -3.117]
+[-0.539 -0.08   0.16  -0.189  0.1   -0.18   0.105  0.598 -0.43   0.14
+ -0.404  0.042 -0.123  0.073  0.29  -0.15  -0.61  -3.117]
+[-0.539 -0.08   0.16  -0.189 -0.159 -0.459  0.105  0.598 -1.097 -0.04
+ -0.404 -0.188 -0.123  0.073  0.29  -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.91   0.373 -0.18   0.105  0.598 -0.43   0.347
+ -0.404 -0.188  0.152  0.073  0.29  -0.15  -0.61  -1.533]
+[-0.539 -0.08   0.16  -0.91   0.373 -0.18   0.105  0.598 -0.43  -0.31
+ -0.404  0.042 -0.123  0.073  0.29  -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.189  0.373 -0.459  0.105  0.598  0.167 -0.04
+ -0.404  0.042 -0.123  0.073  0.29  -0.15  -0.61  -1.533]
+##############        GENERATION 32  ###############
+['Wilbert', 'Gio'] ['37', '7', '6', '* winner: upper']
+fitness value of chromosome 0 :   -5063
+['Wilbert', 'Gio'] ['26', '7', '6', '* winner: upper']
+fitness value of chromosome 1 :   -5074
+['Gio', 'Wilbert'] ['22', '5', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 2 :   -878
+['Gio', 'Wilbert'] ['29', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 3 :   -771
+['Gio', 'Wilbert'] ['46', '7', '4', '* winner: lower']
+fitness value of chromosome 4 :   -5254
+['Wilbert', 'Gio'] ['21', '1', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 5 :   -379
+['Wilbert', 'Gio'] ['50', '7', '3', '* winner: upper']
+fitness value of chromosome 6 :   -5350
+['Gio', 'Wilbert'] ['25', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 7 :   -675
+['Wilbert', 'Gio'] ['43', '7', '7', '* winner: upper']
+fitness value of chromosome 8 :   -4957
+['Gio', 'Wilbert'] ['19', '2', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 9 :   -581
+['Gio', 'Wilbert'] ['26', '7', '7', '* winner: lower']
+fitness value of chromosome 10 :   -4974
+['Gio', 'Wilbert'] ['14', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 11 :   -686
+['Wilbert', 'Gio'] ['17', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 12 :   -683
+['Gio', 'Wilbert'] ['23', '3', '7', '* winner: upper']
+fitness value of chromosome 13 :   5423
+['Gio', 'Wilbert'] ['26', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 14 :   -674
+['Wilbert', 'Gio'] ['37', '7', '2', '* winner: upper']
+fitness value of chromosome 15 :   -5463
+['Gio', 'Wilbert'] ['25', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 16 :   -775
+['Wilbert', 'Gio'] ['20', '2', '7', '* winner: lower']
+fitness value of chromosome 17 :   5520
+['Gio', 'Wilbert'] ['21', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 18 :   -679
+['Gio', 'Wilbert'] ['34', '7', '7', '* winner: lower']
+fitness value of chromosome 19 :   -4966
+['Gio', 'Wilbert'] ['23', '2', '7', '* winner: upper']
+fitness value of chromosome 20 :   5523
+['Gio', 'Wilbert'] ['34', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 21 :   -866
+['Gio', 'Wilbert'] ['42', '7', '7', '* winner: lower']
+fitness value of chromosome 22 :   -4958
+['Gio', 'Wilbert'] ['32', '7', '6', '* winner: lower']
+fitness value of chromosome 23 :   -5068
+['Wilbert', 'Gio'] ['31', '6', '7', '* winner: upper']
+fitness value of chromosome 24 :   -4869
+#######  fittest chromosome in generation 32 is having fitness value:   5523
+[ 0.328 -0.08   0.16  -0.189  0.373 -0.459 -0.053  0.598  0.167 -0.04
+ -0.404  0.042 -0.123  0.073  0.29  -0.15  -0.61  -1.533]
+[ 0.328 -0.08   0.16  -0.189  0.1   -0.459  0.105  0.598  0.167  0.14
+ -0.404  0.042 -0.123  0.073  0.29  -0.053 -0.61  -3.117]
+[-0.539 -0.08   0.16  -0.189 -0.327 -0.459  0.105  0.598  0.167 -0.108
+ -0.404 -0.188  0.167  0.284  0.29  -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.189  0.373 -0.459  0.105  0.598  0.167 -0.04
+ -0.404  0.042 -0.123  0.073  0.29  -0.15  -0.61  -1.533]
+[ 0.328 -0.08   0.16  -0.189  0.373 -0.459  0.105  0.598  0.167 -0.04
+ -0.404  0.916 -0.123  0.073  0.037 -0.15  -0.61  -3.117]
+[-0.539 -0.08   0.16  -0.189 -0.159 -0.18   0.864  0.598 -1.097 -0.04
+ -0.404  0.042 -0.123  0.073  0.29  -0.15  -0.61  -3.117]
+##############        GENERATION 33  ###############
+['Wilbert', 'Gio'] ['30', '7', '2', '* winner: upper']
+fitness value of chromosome 0 :   -5470
+['Wilbert', 'Gio'] ['22', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 1 :   -578
+['Gio', 'Wilbert'] ['41', '7', '6', '* winner: lower']
+fitness value of chromosome 2 :   -5059
+['Gio', 'Wilbert'] ['37', '7', '7', '* winner: lower']
+fitness value of chromosome 3 :   -4963
+['Gio', 'Wilbert'] ['15', '1', '7', '* winner: upper']
+fitness value of chromosome 4 :   5615
+['Gio', 'Wilbert'] ['28', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 5 :   -672
+['Gio', 'Wilbert'] ['38', '7', '5', '* winner: lower']
+fitness value of chromosome 6 :   -5162
+['Wilbert', 'Gio'] ['31', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 7 :   -769
+['Wilbert', 'Gio'] ['37', '7', '4', '* winner: upper']
+fitness value of chromosome 8 :   -5263
+['Wilbert', 'Gio'] ['38', '7', '3', '* winner: upper']
+fitness value of chromosome 9 :   -5362
+['Wilbert', 'Gio'] ['30', '7', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 10 :   -970
+['Wilbert', 'Gio'] ['26', '4', '7', '* winner: lower']
+fitness value of chromosome 11 :   5326
+['Wilbert', 'Gio'] ['21', '3', '7', '* winner: lower']
+fitness value of chromosome 12 :   5421
+['Wilbert', 'Gio'] ['36', '5', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 13 :   -864
+['Gio', 'Wilbert'] ['33', '7', '4', '* winner: lower']
+fitness value of chromosome 14 :   -5267
+['Wilbert', 'Gio'] ['29', '7', '8', '* winner: upper']
+fitness value of chromosome 15 :   -4871
+['Gio', 'Wilbert'] ['19', '2', '7', '* winner: upper']
+fitness value of chromosome 16 :   5519
+['Gio', 'Wilbert'] ['28', '7', '5', '* winner: lower']
+fitness value of chromosome 17 :   -5172
+['Wilbert', 'Gio'] ['30', '2', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 18 :   -470
+['Wilbert', 'Gio'] ['26', '4', '7', '* winner: lower']
+fitness value of chromosome 19 :   5326
+['Wilbert', 'Gio'] ['28', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 20 :   -672
+['Wilbert', 'Gio'] ['45', '7', '7', '* winner: upper']
+fitness value of chromosome 21 :   -4955
+['Gio', 'Wilbert'] ['17', '2', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 22 :   -483
+['Wilbert', 'Gio'] ['51', '7', '6', '* winner: upper']
+fitness value of chromosome 23 :   -5049
+['Wilbert', 'Gio'] ['24', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 24 :   -676
+#######  fittest chromosome in generation 33 is having fitness value:   5615
+[ 0.328 -0.08   0.16  -0.189  0.373 -0.459  0.105  0.598  0.167 -0.04
+ -0.404  0.916 -0.123  0.073  0.037 -0.15  -0.61  -3.117]
+[ 0.328 -0.135  0.16  -0.189 -0.327 -0.459 -0.053  0.598  0.167 -0.04
+ -0.404 -0.188 -0.123  0.073  0.29  -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16   0.447  0.373 -0.459 -0.053  0.598  0.167 -0.04
+ -0.404  0.916 -0.123  0.073  0.037 -0.15  -0.61  -3.117]
+[-0.539 -0.08   0.16  -0.189  0.1   -0.18   0.864  0.598  0.167  0.111
+ -0.404  0.042 -0.123  0.073  0.29  -0.053 -0.61  -3.117]
+[-0.539 -0.08   0.16  -0.189 -0.159 -0.18   0.864  0.598 -0.622 -0.04
+ -0.404 -0.188 -0.123  0.073  0.29  -0.15  -0.61  -3.117]
+[-0.539 -0.08   0.16  -0.189 -0.327 -0.18   0.864  0.598 -1.097 -0.04
+ -0.404 -0.188  0.167  0.073  0.29  -1.117 -0.61  -3.117]
+##############        GENERATION 34  ###############
+['Gio', 'Wilbert'] ['19', '5', '7', '* winner: upper']
+fitness value of chromosome 0 :   5219
+['Wilbert', 'Gio'] ['32', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 1 :   -568
+['Wilbert', 'Gio'] ['22', '3', '7', '* winner: lower']
+fitness value of chromosome 2 :   5422
+['Gio', 'Wilbert'] ['17', '0', '7', '* winner: upper']
+fitness value of chromosome 3 :   5717
+['Wilbert', 'Gio'] ['28', '4', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 4 :   -772
+['Gio', 'Wilbert'] ['23', '3', '7', '* winner: upper']
+fitness value of chromosome 5 :   5423
+['Wilbert', 'Gio'] ['21', '1', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 6 :   -379
+['Wilbert', 'Gio'] ['20', '1', '7', '* winner: lower']
+fitness value of chromosome 7 :   5620
+['Gio', 'Wilbert'] ['17', '2', '7', '* winner: upper']
+fitness value of chromosome 8 :   5517
+['Gio', 'Wilbert'] ['30', '7', '7', '* winner: lower']
+fitness value of chromosome 9 :   -4970
+['Gio', 'Wilbert'] ['13', '1', '7', '* winner: upper']
+fitness value of chromosome 10 :   5613
+['Gio', 'Wilbert'] ['41', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 11 :   -659
+['Gio', 'Wilbert'] ['44', '7', '7', '* winner: lower']
+fitness value of chromosome 12 :   -4956
+['Wilbert', 'Gio'] ['24', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 13 :   -576
+['Gio', 'Wilbert'] ['26', '2', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 14 :   -474
+['Wilbert', 'Gio'] ['34', '4', '7', '* winner: lower']
+fitness value of chromosome 15 :   5334
+['Wilbert', 'Gio'] ['25', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 16 :   -775
+['Wilbert', 'Gio'] ['19', '1', '7', '* winner: lower']
+fitness value of chromosome 17 :   5619
+['Gio', 'Wilbert'] ['45', '7', '7', '* winner: lower']
+fitness value of chromosome 18 :   -4955
+['Gio', 'Wilbert'] ['29', '5', '7', '* winner: upper']
+fitness value of chromosome 19 :   5229
+['Gio', 'Wilbert'] ['33', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 20 :   -767
+['Gio', 'Wilbert'] ['18', '2', '7', '* winner: upper']
+fitness value of chromosome 21 :   5518
+['Wilbert', 'Gio'] ['21', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 22 :   -679
+['Gio', 'Wilbert'] ['24', '1', '7', '* winner: upper']
+fitness value of chromosome 23 :   5624
+['Wilbert', 'Gio'] ['15', '1', '7', '* winner: lower']
+fitness value of chromosome 24 :   5615
+#######  fittest chromosome in generation 34 is having fitness value:   5717
+[-0.539 -0.08   0.16  -0.189  0.1   -0.18   0.864  0.598  0.167  0.111
+ -0.404  0.042 -0.123  0.073  0.29  -0.053 -0.61  -3.117]
+[-0.539 -0.08   0.16  -1.11   0.1   -0.18   0.864  0.598 -1.097 -0.04
+ -0.404  0.042 -0.123  0.073  0.29  -1.117 -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.189  0.373 -0.459  0.105  0.598  0.167  0.111
+ -0.404  0.916  0.562  0.073  0.29  -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.189  0.373  0.03   0.105  0.598 -0.622 -0.04
+ -0.404  0.916 -0.123  0.073  0.29  -0.15  -0.61  -3.117]
+[-0.539 -0.08   0.16  -0.189 -0.327 -0.18   0.105  0.598  0.167 -0.04
+ -0.404 -0.188  0.167  0.073  0.965 -0.15  -0.61  -3.117]
+[-0.539 -0.135 -0.074 -0.189  0.1   -0.18   0.864  0.598  0.167 -0.04
+ -0.404 -0.188 -0.123  0.073  0.29  -0.053 -0.61  -3.117]
+##############        GENERATION 35  ###############
+['Wilbert', 'Gio'] ['38', '7', '5', '* winner: upper']
+fitness value of chromosome 0 :   -5162
+['Wilbert', 'Gio'] ['24', '4', '7', '* winner: lower']
+fitness value of chromosome 1 :   5324
+['Wilbert', 'Gio'] ['36', '7', '6', '* winner: upper']
+fitness value of chromosome 2 :   -5064
+['Wilbert', 'Gio'] ['17', '1', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 3 :   -383
+['Wilbert', 'Gio'] ['42', '7', '5', '* winner: upper']
+fitness value of chromosome 4 :   -5158
+['Wilbert', 'Gio'] ['31', '7', '6', '* winner: upper']
+fitness value of chromosome 5 :   -5069
+['Gio', 'Wilbert'] ['15', '0', '7', '* winner: upper']
+fitness value of chromosome 6 :   5715
+['Wilbert', 'Gio'] ['23', '2', '7', '* winner: lower']
+fitness value of chromosome 7 :   5523
+['Wilbert', 'Gio'] ['22', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 8 :   -678
+['Gio', 'Wilbert'] ['37', '7', '7', '* winner: lower']
+fitness value of chromosome 9 :   -4963
+['Wilbert', 'Gio'] ['34', '6', '7', '* winner: upper']
+fitness value of chromosome 10 :   -4866
+['Gio', 'Wilbert'] ['31', '7', '8', '* winner: lower']
+fitness value of chromosome 11 :   -4869
+['Wilbert', 'Gio'] ['43', '7', '4', '* winner: upper']
+fitness value of chromosome 12 :   -5257
+['Wilbert', 'Gio'] ['27', '3', '7', '* winner: lower']
+fitness value of chromosome 13 :   5427
+['Wilbert', 'Gio'] ['25', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 14 :   -775
+['Wilbert', 'Gio'] ['41', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 15 :   -659
+['Gio', 'Wilbert'] ['29', '3', '7', '* winner: upper']
+fitness value of chromosome 16 :   5429
+['Gio', 'Wilbert'] ['24', '4', '7', '* winner: upper']
+fitness value of chromosome 17 :   5324
+['Gio', 'Wilbert'] ['25', '3', '7', '* winner: upper']
+fitness value of chromosome 18 :   5425
+['Wilbert', 'Gio'] ['27', '5', '7', '* winner: lower']
+fitness value of chromosome 19 :   5227
+['Wilbert', 'Gio'] ['31', '7', '5', '* winner: upper']
+fitness value of chromosome 20 :   -5169
+['Wilbert', 'Gio'] ['32', '7', '6', '* winner: upper']
+fitness value of chromosome 21 :   -5068
+['Wilbert', 'Gio'] ['46', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 22 :   -854
+['Gio', 'Wilbert'] ['51', '7', '7', '* winner: lower']
+fitness value of chromosome 23 :   -4949
+['Wilbert', 'Gio'] ['26', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 24 :   -574
+#######  fittest chromosome in generation 35 is having fitness value:   5715
+[ 0.328 -0.08   0.16  -0.189  0.1   -0.18   0.864  0.598  0.167  0.111
+ -0.404  0.042 -0.123  1.047  0.29  -0.15  -0.61  -3.117]
+[ 0.328 -0.08  -0.074 -0.189  0.373  0.007  0.864  0.598 -0.622 -0.04
+ -0.404 -0.188 -0.123  0.073  0.29  -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.189  0.1   -0.18   0.864  0.598  0.167  0.111
+ -0.404  0.042  0.562  0.089  0.29  -0.053 -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.189  0.373 -0.459  0.105  0.598 -1.237  0.111
+ -0.404  0.916  0.562  0.073  0.29  -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.189 -0.327 -0.459  0.105  0.598  0.167  0.111
+ -0.404 -0.188  0.167  0.073  0.29  -0.398 -0.61  -3.117]
+[-0.539 -0.08   0.16  -1.11   0.1   -0.18   0.864  0.598 -1.097 -0.04
+ -0.404  0.042 -0.123  0.073  0.29  -1.117 -0.61  -3.117]
+##############        GENERATION 36  ###############
+['Gio', 'Wilbert'] ['44', '7', '6', '* winner: lower']
+fitness value of chromosome 0 :   -5056
+['Gio', 'Wilbert'] ['45', '7', '2', '* winner: lower']
+fitness value of chromosome 1 :   -5455
+['Gio', 'Wilbert'] ['27', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 2 :   -773
+['Gio', 'Wilbert'] ['21', '1', '7', '* winner: upper']
+fitness value of chromosome 3 :   5621
+['Wilbert', 'Gio'] ['18', '2', '7', '* winner: lower']
+fitness value of chromosome 4 :   5518
+['Wilbert', 'Gio'] ['24', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 5 :   -676
+['Wilbert', 'Gio'] ['27', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 6 :   -773
+['Gio', 'Wilbert'] ['39', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 7 :   -661
+['Wilbert', 'Gio'] ['22', '2', '7', '* winner: lower']
+fitness value of chromosome 8 :   5522
+['Gio', 'Wilbert'] ['29', '3', '7', '* winner: upper']
+fitness value of chromosome 9 :   5429
+['Wilbert', 'Gio'] ['29', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 10 :   -571
+['Gio', 'Wilbert'] ['26', '5', '7', '* winner: upper']
+fitness value of chromosome 11 :   5226
+['Gio', 'Wilbert'] ['23', '7', '1', '* winner: lower']
+fitness value of chromosome 12 :   -5577
+['Wilbert', 'Gio'] ['20', '3', '7', '* winner: lower']
+fitness value of chromosome 13 :   5420
+['Gio', 'Wilbert'] ['16', '1', '7', '* winner: upper']
+fitness value of chromosome 14 :   5616
+['Wilbert', 'Gio'] ['33', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 15 :   -767
+['Wilbert', 'Gio'] ['39', '7', '7', '* winner: upper']
+fitness value of chromosome 16 :   -4961
+['Wilbert', 'Gio'] ['32', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 17 :   -868
+['Wilbert', 'Gio'] ['21', '2', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 18 :   -579
+['Gio', 'Wilbert'] ['44', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 19 :   -856
+['Wilbert', 'Gio'] ['49', '7', '6', '* winner: upper']
+fitness value of chromosome 20 :   -5051
+['Wilbert', 'Gio'] ['36', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 21 :   -864
+['Gio', 'Wilbert'] ['14', '0', '7', '* winner: upper']
+fitness value of chromosome 22 :   5714
+['Wilbert', 'Gio'] ['31', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 23 :   -769
+['Gio', 'Wilbert'] ['16', '3', '7', '* winner: upper']
+fitness value of chromosome 24 :   5416
+#######  fittest chromosome in generation 36 is having fitness value:   5714
+[ 0.328 -0.08   0.16  -0.189  0.1   -0.18   0.864  0.598  0.167  0.111
+ -0.404  0.042 -0.123  0.089 -0.472 -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.189  0.373 -0.459  0.105  0.598 -1.237  0.111
+ -0.404  0.916  0.562  0.073  0.29  -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.189  0.055  0.007  0.864  0.598  0.167  0.111
+ -0.404  0.042 -0.123  0.089  0.29  -0.053 -0.61  -3.117]
+[ 0.328 -0.08  -0.074 -0.189  0.373  0.007  0.864 -0.385  0.167  0.111
+ -0.404 -0.188  0.562  0.073  0.29  -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.189 -0.327 -0.459  0.105  0.598  0.167  0.111
+ -0.404 -0.188  0.167  0.073  0.29  -0.398 -0.61  -3.117]
+[ 0.328 -0.08  -0.074 -0.189  0.373 -0.459  0.105  0.598 -0.622 -0.04
+ -0.544 -0.188  0.167  0.073  0.29  -0.15  -0.61  -3.117]
+##############        GENERATION 37  ###############
+['Wilbert', 'Gio'] ['30', '4', '7', '* winner: lower']
+fitness value of chromosome 0 :   5330
+['Wilbert', 'Gio'] ['27', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 1 :   -873
+['Gio', 'Wilbert'] ['17', '2', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 2 :   -583
+['Wilbert', 'Gio'] ['34', '7', '2', '* winner: upper']
+fitness value of chromosome 3 :   -5466
+['Gio', 'Wilbert'] ['19', '0', '7', '* winner: upper']
+fitness value of chromosome 4 :   5719
+['Gio', 'Wilbert'] ['22', '2', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 5 :   -578
+['Gio', 'Wilbert'] ['18', '1', '7', '* winner: upper']
+fitness value of chromosome 6 :   5618
+['Wilbert', 'Gio'] ['17', '2', '7', '* winner: lower']
+fitness value of chromosome 7 :   5517
+['Wilbert', 'Gio'] ['29', '7', '5', '* winner: upper']
+fitness value of chromosome 8 :   -5171
+['Wilbert', 'Gio'] ['36', '7', '6', '* winner: upper']
+fitness value of chromosome 9 :   -5064
+['Wilbert', 'Gio'] ['33', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 10 :   -867
+['Wilbert', 'Gio'] ['34', '7', '7', '* winner: upper']
+fitness value of chromosome 11 :   -4966
+['Gio', 'Wilbert'] ['28', '7', '4', '* winner: lower']
+fitness value of chromosome 12 :   -5272
+['Wilbert', 'Gio'] ['32', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 13 :   -868
+['Wilbert', 'Gio'] ['19', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 14 :   -581
+['Gio', 'Wilbert'] ['24', '7', '7', '* winner: lower']
+fitness value of chromosome 15 :   -4976
+['Gio', 'Wilbert'] ['27', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 16 :   -673
+['Gio', 'Wilbert'] ['24', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 17 :   -576
+['Gio', 'Wilbert'] ['25', '5', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 18 :   -875
+['Gio', 'Wilbert'] ['22', '2', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 19 :   -578
+['Wilbert', 'Gio'] ['26', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 20 :   -674
+['Gio', 'Wilbert'] ['48', '7', '7', '* winner: lower']
+fitness value of chromosome 21 :   -4952
+['Gio', 'Wilbert'] ['32', '7', '5', '* winner: lower']
+fitness value of chromosome 22 :   -5168
+['Wilbert', 'Gio'] ['24', '4', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 23 :   -776
+['Wilbert', 'Gio'] ['25', '3', '7', '* winner: lower']
+fitness value of chromosome 24 :   5425
+#######  fittest chromosome in generation 37 is having fitness value:   5719
+[ 0.328 -0.08   0.16  -0.189 -0.327 -0.459  0.105  0.598  0.167  0.111
+ -0.404 -0.188  0.167  0.073  0.29  -0.398 -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.189  0.373 -0.129  0.864 -0.385  0.167  0.111
+ -0.404 -0.188  0.562  0.089 -0.472 -0.15  -0.61  -3.117]
+[ 0.328 -0.08  -0.074 -0.189  0.373 -0.459  0.105  0.598 -0.695  0.111
+ -0.544  0.916  0.167  0.073  0.29  -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.189  0.1    0.007  0.864  0.598  0.394  0.111
+ -0.404  0.042 -0.123  0.089 -0.472 -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.189  0.1   -0.18   0.864  0.598  0.167  0.111
+ -0.404  0.042 -0.123  0.089 -0.472 -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.736  0.1   -0.18   0.864  0.598 -1.237  0.111
+ -0.404  0.916  0.562  0.073 -0.472 -0.15  -0.61  -3.117]
+##############        GENERATION 38  ###############
+['Wilbert', 'Gio'] ['46', '7', '7', '* winner: upper']
+fitness value of chromosome 0 :   -4954
+['Gio', 'Wilbert'] ['21', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 1 :   -679
+['Gio', 'Wilbert'] ['21', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 2 :   -779
+['Gio', 'Wilbert'] ['27', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 3 :   -573
+['Gio', 'Wilbert'] ['36', '7', '7', '* winner: lower']
+fitness value of chromosome 4 :   -4964
+['Gio', 'Wilbert'] ['19', '1', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 5 :   -381
+['Gio', 'Wilbert'] ['18', '2', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 6 :   -582
+['Wilbert', 'Gio'] ['40', '7', '4', '* winner: upper']
+fitness value of chromosome 7 :   -5260
+['Wilbert', 'Gio'] ['23', '1', '7', '* winner: lower']
+fitness value of chromosome 8 :   5623
+['Gio', 'Wilbert'] ['27', '3', '7', '* winner: upper']
+fitness value of chromosome 9 :   5427
+['Gio', 'Wilbert'] ['24', '3', '7', '* winner: upper']
+fitness value of chromosome 10 :   5424
+['Gio', 'Wilbert'] ['22', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 11 :   -678
+['Gio', 'Wilbert'] ['38', '7', '5', '* winner: lower']
+fitness value of chromosome 12 :   -5162
+['Wilbert', 'Gio'] ['32', '7', '7', '* winner: upper']
+fitness value of chromosome 13 :   -4968
+['Gio', 'Wilbert'] ['16', '2', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 14 :   -484
+['Gio', 'Wilbert'] ['29', '7', '3', '* winner: lower']
+fitness value of chromosome 15 :   -5371
+['Gio', 'Wilbert'] ['41', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 16 :   -659
+['Gio', 'Wilbert'] ['26', '4', '7', '* winner: upper']
+fitness value of chromosome 17 :   5326
+['Gio', 'Wilbert'] ['34', '7', '6', '* winner: lower']
+fitness value of chromosome 18 :   -5066
+['Gio', 'Wilbert'] ['30', '5', '7', '* winner: upper']
+fitness value of chromosome 19 :   5230
+['Gio', 'Wilbert'] ['23', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 20 :   -577
+['Gio', 'Wilbert'] ['33', '7', '5', '* winner: lower']
+fitness value of chromosome 21 :   -5167
+['Wilbert', 'Gio'] ['26', '4', '7', '* winner: lower']
+fitness value of chromosome 22 :   5326
+['Wilbert', 'Gio'] ['16', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 23 :   -684
+['Wilbert', 'Gio'] ['21', '4', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 24 :   -779
+#######  fittest chromosome in generation 38 is having fitness value:   5623
+[ 0.328 -0.08   0.16  -0.736  0.1   -0.459  0.105  0.598 -1.237  1.054
+ -0.404 -0.188  0.167  0.073 -0.472 -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.189  0.1   -0.459  0.864  0.598 -0.765  0.111
+ -0.544  0.916  0.562  0.073  0.29  -0.15  -0.61  -3.117]
+[ 0.328  0.879 -0.074 -0.189  0.373 -0.18   0.864  0.598  0.167  0.111
+ -0.404  0.916  0.167  0.073  0.29  -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.189  0.373 -0.129  0.864 -0.385  0.394  0.111
+ -0.404  0.042 -0.123  0.089 -1.332 -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.189  0.1   -0.18   0.864  0.598 -1.237 -0.613
+ -0.404  0.916 -0.123  0.089 -0.472 -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.736  0.373 -0.18   0.105  0.598 -0.695  0.202
+ -0.544  0.916  0.167  0.073  0.29  -0.15  -0.61  -3.117]
+##############        GENERATION 39  ###############
+['Gio', 'Wilbert'] ['24', '2', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 0 :   -476
+['Wilbert', 'Gio'] ['33', '7', '6', '* winner: upper']
+fitness value of chromosome 1 :   -5067
+['Gio', 'Wilbert'] ['40', '7', '6', '* winner: lower']
+fitness value of chromosome 2 :   -5060
+['Gio', 'Wilbert'] ['22', '4', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 3 :   -778
+['Wilbert', 'Gio'] ['33', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 4 :   -867
+['Wilbert', 'Gio'] ['41', '7', '6', '* winner: upper']
+fitness value of chromosome 5 :   -5059
+['Wilbert', 'Gio'] ['46', '7', '5', '* winner: upper']
+fitness value of chromosome 6 :   -5154
+['Wilbert', 'Gio'] ['29', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 7 :   -871
+['Wilbert', 'Gio'] ['19', '2', '7', '* winner: lower']
+fitness value of chromosome 8 :   5519
+['Gio', 'Wilbert'] ['21', '3', '7', '* winner: upper']
+fitness value of chromosome 9 :   5421
+['Gio', 'Wilbert'] ['47', '7', '1', '* winner: lower']
+fitness value of chromosome 10 :   -5553
+['Gio', 'Wilbert'] ['35', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 11 :   -665
+['Gio', 'Wilbert'] ['30', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 12 :   -670
+['Gio', 'Wilbert'] ['31', '7', '5', '* winner: lower']
+fitness value of chromosome 13 :   -5169
+['Gio', 'Wilbert'] ['32', '7', '2', '* winner: lower']
+fitness value of chromosome 14 :   -5468
+['Gio', 'Wilbert'] ['25', '4', '7', '* winner: upper']
+fitness value of chromosome 15 :   5325
+['Gio', 'Wilbert'] ['26', '3', '7', '* winner: upper']
+fitness value of chromosome 16 :   5426
+['Wilbert', 'Gio'] ['21', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 17 :   -579
+['Wilbert', 'Gio'] ['39', '7', '6', '* winner: upper']
+fitness value of chromosome 18 :   -5061
+['Gio', 'Wilbert'] ['20', '3', '7', '* winner: upper']
+fitness value of chromosome 19 :   5420
+['Gio', 'Wilbert'] ['23', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 20 :   -677
+['Wilbert', 'Gio'] ['27', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 21 :   -673
+['Wilbert', 'Gio'] ['18', '2', '7', '* winner: lower']
+fitness value of chromosome 22 :   5518
+['Wilbert', 'Gio'] ['18', '1', '7', '* winner: lower']
+fitness value of chromosome 23 :   5618
+['Gio', 'Wilbert'] ['23', '3', '7', '* winner: upper']
+fitness value of chromosome 24 :   5423
+#######  fittest chromosome in generation 39 is having fitness value:   5618
+[ 0.328 -0.08   0.16  -0.189  0.1   -0.306  0.864 -0.385  0.394  0.111
+ -0.404  0.042 -0.123  0.089 -0.472 -0.15  -0.61  -3.117]
+[ 1.006 -0.08  -0.074 -0.189  0.1   -0.18   0.864  0.598  0.167 -0.613
+ -0.404  0.916 -0.123  0.089  0.29  -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.189  0.373 -0.459  0.864  0.598 -0.765  0.202
+ -0.544  0.916 -0.82   0.073  0.29  -0.15  -0.61  -3.117]
+[ 0.328  0.879  0.16  -0.189  0.373 -0.18   0.864 -0.385  0.394  0.111
+ -0.404  0.128  0.167  0.073 -1.332 -0.15  -0.61  -3.117]
+[ 0.328 -0.08  -0.074 -0.189  0.1   -0.18   0.864  0.598 -1.237  1.054
+ -0.404  0.916  0.167  0.073 -0.472 -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.736  0.1   -0.459  0.864 -0.351  0.394  0.111
+ -0.404  0.042  0.167  0.089 -1.332 -0.15  -0.61  -3.117]
+##############        GENERATION 40  ###############
+['Gio', 'Wilbert'] ['36', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 0 :   -764
+['Wilbert', 'Gio'] ['31', '7', '6', '* winner: upper']
+fitness value of chromosome 1 :   -5069
+['Wilbert', 'Gio'] ['21', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 2 :   -679
+['Wilbert', 'Gio'] ['21', '2', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 3 :   -579
+['Wilbert', 'Gio'] ['17', '1', '7', '* winner: lower']
+fitness value of chromosome 4 :   5617
+['Gio', 'Wilbert'] ['46', '7', '5', '* winner: lower']
+fitness value of chromosome 5 :   -5154
+['Wilbert', 'Gio'] ['23', '2', '7', '* winner: lower']
+fitness value of chromosome 6 :   5523
+['Gio', 'Wilbert'] ['45', '7', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 7 :   -955
+['Wilbert', 'Gio'] ['25', '5', '7', '* winner: lower']
+fitness value of chromosome 8 :   5225
+['Wilbert', 'Gio'] ['33', '6', '7', '* winner: lower']
+fitness value of chromosome 9 :   5133
+['Wilbert', 'Gio'] ['27', '7', '7', '* winner: upper']
+fitness value of chromosome 10 :   -4973
+['Wilbert', 'Gio'] ['26', '6', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 11 :   -974
+['Gio', 'Wilbert'] ['40', '7', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 12 :   -960
+['Wilbert', 'Gio'] ['43', '7', '4', '* winner: upper']
+fitness value of chromosome 13 :   -5257
+['Gio', 'Wilbert'] ['28', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 14 :   -572
+['Gio', 'Wilbert'] ['31', '4', '7', '* winner: upper']
+fitness value of chromosome 15 :   5331
+['Gio', 'Wilbert'] ['29', '7', '6', '* winner: lower']
+fitness value of chromosome 16 :   -5071
+['Wilbert', 'Gio'] ['27', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 17 :   -773
+['Gio', 'Wilbert'] ['14', '1', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 18 :   -486
+['Wilbert', 'Gio'] ['17', '2', '7', '* winner: lower']
+fitness value of chromosome 19 :   5517
+['Wilbert', 'Gio'] ['26', '5', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 20 :   -874
+['Wilbert', 'Gio'] ['47', '7', '6', '* winner: upper']
+fitness value of chromosome 21 :   -5053
+['Wilbert', 'Gio'] ['43', '7', '4', '* winner: upper']
+fitness value of chromosome 22 :   -5257
+['Gio', 'Wilbert'] ['30', '7', '6', '* winner: lower']
+fitness value of chromosome 23 :   -5070
+['Wilbert', 'Gio'] ['23', '2', '7', '* winner: lower']
+fitness value of chromosome 24 :   5523
+#######  fittest chromosome in generation 40 is having fitness value:   5617
+[ 0.328 -0.08  -0.074 -0.189  0.1   -0.18   0.864  0.598 -1.237  1.054
+ -0.404  0.916  0.167  0.073 -0.472 -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.189  1.294 -0.18   0.864  0.598 -0.765  1.054
+ -0.544  0.916 -0.82   0.073 -0.472 -0.15  -0.61  -3.117]
+[ 0.328 -0.179  0.16  -0.189  0.1   -0.306  0.864 -0.385  0.394  0.111
+ -0.404  0.042  0.167  0.089 -1.332 -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.549  0.1   -0.18   0.864  0.598  0.167 -0.613
+ -0.404  0.916  0.167  0.089  0.29  -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.189  0.373 -0.306  0.864 -0.385 -0.765  0.111
+ -1.413  0.916 -0.123  0.089  0.29  -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.189  0.494 -0.459  0.864 -0.351 -0.765  0.202
+ -0.404  0.916 -0.82   0.089 -1.332 -0.15  -0.61  -3.117]
+##############        GENERATION 41  ###############
+['Wilbert', 'Gio'] ['39', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 0 :   -761
+['Wilbert', 'Gio'] ['39', '7', '6', '* winner: upper']
+fitness value of chromosome 1 :   -5061
+['Wilbert', 'Gio'] ['20', '2', '7', '* winner: lower']
+fitness value of chromosome 2 :   5520
+['Gio', 'Wilbert'] ['33', '7', '4', '* winner: lower']
+fitness value of chromosome 3 :   -5267
+['Wilbert', 'Gio'] ['30', '4', '7', '* winner: lower']
+fitness value of chromosome 4 :   5330
+['Gio', 'Wilbert'] ['38', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 5 :   -862
+['Gio', 'Wilbert'] ['34', '7', '4', '* winner: lower']
+fitness value of chromosome 6 :   -5266
+['Wilbert', 'Gio'] ['27', '2', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 7 :   -473
+['Wilbert', 'Gio'] ['45', '7', '4', '* winner: upper']
+fitness value of chromosome 8 :   -5255
+['Wilbert', 'Gio'] ['49', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 9 :   -551
+['Wilbert', 'Gio'] ['29', '4', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 10 :   -771
+['Gio', 'Wilbert'] ['28', '5', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 11 :   -872
+['Wilbert', 'Gio'] ['17', '4', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 12 :   -783
+['Wilbert', 'Gio'] ['33', '7', '5', '* winner: upper']
+fitness value of chromosome 13 :   -5167
+['Wilbert', 'Gio'] ['32', '4', '7', '* winner: lower']
+fitness value of chromosome 14 :   5332
+['Wilbert', 'Gio'] ['48', '7', '7', '* winner: upper']
+fitness value of chromosome 15 :   -4952
+['Gio', 'Wilbert'] ['38', '7', '5', '* winner: lower']
+fitness value of chromosome 16 :   -5162
+['Gio', 'Wilbert'] ['28', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 17 :   -772
+['Gio', 'Wilbert'] ['22', '3', '7', '* winner: upper']
+fitness value of chromosome 18 :   5422
+['Gio', 'Wilbert'] ['37', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 19 :   -763
+['Wilbert', 'Gio'] ['19', '0', '7', '* winner: lower']
+fitness value of chromosome 20 :   5719
+['Gio', 'Wilbert'] ['19', '2', '7', '* winner: upper']
+fitness value of chromosome 21 :   5519
+['Wilbert', 'Gio'] ['28', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 22 :   -772
+['Wilbert', 'Gio'] ['17', '1', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 23 :   -383
+['Wilbert', 'Gio'] ['27', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 24 :   -773
+#######  fittest chromosome in generation 41 is having fitness value:   5719
+[ 0.328 -0.08  -0.074 -0.189  0.1   -0.18   0.864  0.598 -1.237  1.054
+ -0.404  0.47   0.167  0.089  0.29  -0.15  -0.61  -3.117]
+[ 0.328 -0.179  0.16  -0.189  0.1   -0.306  0.864 -0.385  0.394  0.111
+ -0.404  0.042  0.167  0.089 -1.332 -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.189  1.294 -0.18   0.864  0.598  0.167 -0.613
+ -0.544  0.916  0.131  0.073  0.29  -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.189  0.373 -0.306  0.864  0.598 -0.765  0.111
+ -0.544  0.916 -0.82   0.073  0.29  -0.725 -0.61  -3.117]
+[ 0.658 -0.179  0.16  -0.189  0.494 -0.459  0.864 -0.385  0.394  0.111
+ -0.404  0.916  0.167  0.089 -1.332 -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.189  0.373 -0.306  0.864 -0.385 -0.765  0.111
+ -1.413  0.916 -0.123  0.089  0.29  -0.15  -0.61  -3.117]
+##############        GENERATION 42  ###############
+['Gio', 'Wilbert'] ['30', '7', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 0 :   -970
+['Wilbert', 'Gio'] ['29', '6', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 1 :   -971
+['Wilbert', 'Gio'] ['13', '0', '7', '* winner: lower']
+fitness value of chromosome 2 :   5713
+['Gio', 'Wilbert'] ['37', '7', '4', '* winner: lower']
+fitness value of chromosome 3 :   -5263
+['Wilbert', 'Gio'] ['40', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 4 :   -660
+['Gio', 'Wilbert'] ['31', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 5 :   -869
+['Gio', 'Wilbert'] ['30', '7', '1', '* winner: lower']
+fitness value of chromosome 6 :   -5570
+['Wilbert', 'Gio'] ['24', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 7 :   -676
+['Gio', 'Wilbert'] ['21', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 8 :   -579
+['Wilbert', 'Gio'] ['36', '7', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 9 :   -964
+['Gio', 'Wilbert'] ['33', '4', '7', '* winner: upper']
+fitness value of chromosome 10 :   5333
+['Wilbert', 'Gio'] ['34', '7', '3', '* winner: upper']
+fitness value of chromosome 11 :   -5366
+['Gio', 'Wilbert'] ['23', '2', '7', '* winner: upper']
+fitness value of chromosome 12 :   5523
+['Wilbert', 'Gio'] ['15', '2', '7', '* winner: lower']
+fitness value of chromosome 13 :   5515
+['Gio', 'Wilbert'] ['19', '2', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 14 :   -581
+['Gio', 'Wilbert'] ['37', '7', '5', '* winner: lower']
+fitness value of chromosome 15 :   -5163
+['Wilbert', 'Gio'] ['41', '7', '7', '* winner: upper']
+fitness value of chromosome 16 :   -4959
+['Wilbert', 'Gio'] ['34', '7', '4', '* winner: upper']
+fitness value of chromosome 17 :   -5266
+['Gio', 'Wilbert'] ['38', '7', '6', '* winner: lower']
+fitness value of chromosome 18 :   -5062
+['Wilbert', 'Gio'] ['36', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 19 :   -664
+['Wilbert', 'Gio'] ['21', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 20 :   -579
+['Gio', 'Wilbert'] ['27', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 21 :   -573
+['Wilbert', 'Gio'] ['27', '2', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 22 :   -573
+['Gio', 'Wilbert'] ['24', '7', '7', '* winner: lower']
+fitness value of chromosome 23 :   -4976
+['Wilbert', 'Gio'] ['20', '1', '7', '* winner: lower']
+fitness value of chromosome 24 :   5620
+#######  fittest chromosome in generation 42 is having fitness value:   5713
+[ 0.328 -0.08   0.16  -0.189  1.294 -0.18   0.864  0.598  0.167 -0.613
+ -0.544  0.916  0.131  0.073  0.29  -0.15  -0.61  -3.117]
+[ 0.328 -0.08   1.101 -0.189  1.294 -0.18   0.864  0.598 -0.765 -0.613
+ -1.413  0.916 -0.123  0.073  0.29  -0.15  -0.61  -3.117]
+[ 0.328 -0.179  0.16  -0.189  0.1   -0.306  0.864 -0.385  0.394  0.111
+ -0.544  0.042  0.167  0.073 -1.332 -0.15  -0.61  -3.07 ]
+[ 0.328 -0.08   0.16  -0.189  1.294 -0.18   0.864  0.598 -0.765  0.111
+ -0.544  0.916  0.131  0.073  0.29  -0.15  -0.61  -3.841]
+[ 0.328 -0.08   0.16  -0.189  0.373 -0.459  0.864 -0.385  0.394  0.111
+ -1.413  0.916 -0.123  0.089  0.29  -0.15  -0.61  -2.118]
+[ 0.328 -0.08  -0.074 -0.189  0.373 -0.306  0.864  1.291 -1.237  0.111
+ -0.544  0.47   0.167  0.089  0.29  -0.15  -0.61  -3.117]
+##############        GENERATION 43  ###############
+['Gio', 'Wilbert'] ['34', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 0 :   -766
+['Gio', 'Wilbert'] ['52', '7', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 1 :   -948
+['Gio', 'Wilbert'] ['31', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 2 :   -869
+['Gio', 'Wilbert'] ['19', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 3 :   -681
+['Wilbert', 'Gio'] ['21', '2', '7', '* winner: lower']
+fitness value of chromosome 4 :   5521
+['Gio', 'Wilbert'] ['29', '3', '7', '* winner: upper']
+fitness value of chromosome 5 :   5429
+['Wilbert', 'Gio'] ['34', '7', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 6 :   -966
+['Gio', 'Wilbert'] ['40', '7', '7', '* winner: lower']
+fitness value of chromosome 7 :   -4960
+['Gio', 'Wilbert'] ['27', '6', '7', '* winner: upper']
+fitness value of chromosome 8 :   5127
+['Gio', 'Wilbert'] ['28', '5', '7', '* winner: upper']
+fitness value of chromosome 9 :   5228
+['Wilbert', 'Gio'] ['33', '7', '7', '* winner: upper']
+fitness value of chromosome 10 :   -4967
+['Wilbert', 'Gio'] ['44', '7', '6', '* winner: upper']
+fitness value of chromosome 11 :   -5056
+['Gio', 'Wilbert'] ['16', '0', '7', '* winner: upper']
+fitness value of chromosome 12 :   5716
+['Gio', 'Wilbert'] ['31', '3', '7', '* winner: upper']
+fitness value of chromosome 13 :   5431
+['Gio', 'Wilbert'] ['18', '2', '7', '* winner: upper']
+fitness value of chromosome 14 :   5518
+['Wilbert', 'Gio'] ['26', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 15 :   -774
+['Wilbert', 'Gio'] ['42', '7', '6', '* winner: upper']
+fitness value of chromosome 16 :   -5058
+['Wilbert', 'Gio'] ['17', '0', '7', '* winner: lower']
+fitness value of chromosome 17 :   5717
+['Gio', 'Wilbert'] ['49', '7', '7', '* winner: lower']
+fitness value of chromosome 18 :   -4951
+['Wilbert', 'Gio'] ['26', '7', '1', '* winner: upper']
+fitness value of chromosome 19 :   -5574
+['Wilbert', 'Gio'] ['23', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 20 :   -677
+['Gio', 'Wilbert'] ['27', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 21 :   -673
+['Gio', 'Wilbert'] ['17', '2', '7', '* winner: upper']
+fitness value of chromosome 22 :   5517
+['Gio', 'Wilbert'] ['32', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 23 :   -768
+['Gio', 'Wilbert'] ['46', '7', '7', '* winner: lower']
+fitness value of chromosome 24 :   -4954
+#######  fittest chromosome in generation 43 is having fitness value:   5717
+[ 0.561 -0.08  -0.074 -0.189  1.294 -0.306  0.864  0.598 -1.237 -0.613
+ -0.544  0.916 -0.123  0.073  0.29  -0.15  -0.61  -3.117]
+[ 0.328 -0.179  0.16  -0.189  0.1   -0.18   0.92  -0.385  0.394  0.111
+ -0.544  0.916  0.167  0.073  0.29  -0.15  -0.61  -3.07 ]
+[ 0.328 -0.08   0.16  -0.189  0.373 -0.459  0.864 -0.385  0.394  0.111
+ -1.413  0.916 -0.123  0.089  0.29  -0.15  -0.61  -2.118]
+[ 0.328 -0.08  -0.074 -0.189  0.1    0.468  0.864 -0.385  0.394  0.111
+ -0.544  0.47   0.167  0.073  0.29  -0.15  -0.61  -3.117]
+[ 1.084 -0.08   0.16  -0.189  1.294 -0.459  0.864 -0.385  0.394  0.111
+ -1.413  0.916  0.131  0.073  0.29  -0.15  -0.61  -3.841]
+[ 0.328 -0.08   0.16  -0.189  0.1   -1.291  0.864  0.598 -0.765 -0.613
+ -0.544  0.916 -0.123  0.073 -1.332 -0.15  -0.61  -3.07 ]
+##############        GENERATION 44  ###############
+['Wilbert', 'Gio'] ['26', '4', '7', '* winner: lower']
+fitness value of chromosome 0 :   5326
+['Gio', 'Wilbert'] ['36', '6', '7', '* winner: lower']
+fitness value of chromosome 1 :   -4864
+['Gio', 'Wilbert'] ['22', '2', '7', '* winner: upper']
+fitness value of chromosome 2 :   5522
+['Wilbert', 'Gio'] ['31', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 3 :   -669
+['Wilbert', 'Gio'] ['14', '1', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 4 :   -486
+['Wilbert', 'Gio'] ['33', '6', '7', '* winner: lower']
+fitness value of chromosome 5 :   5133
+['Gio', 'Wilbert'] ['19', '2', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 6 :   -481
+['Gio', 'Wilbert'] ['19', '4', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 7 :   -781
+['Gio', 'Wilbert'] ['38', '7', '4', '* winner: lower']
+fitness value of chromosome 8 :   -5262
+['Gio', 'Wilbert'] ['30', '7', '4', '* winner: lower']
+fitness value of chromosome 9 :   -5270
+['Gio', 'Wilbert'] ['28', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 10 :   -872
+['Wilbert', 'Gio'] ['28', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 11 :   -672
+['Gio', 'Wilbert'] ['52', '7', '7', '* winner: lower']
+fitness value of chromosome 12 :   -4948
+['Gio', 'Wilbert'] ['26', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 13 :   -574
+['Wilbert', 'Gio'] ['35', '7', '7', '* winner: upper']
+fitness value of chromosome 14 :   -4965
+['Wilbert', 'Gio'] ['20', '2', '7', '* winner: lower']
+fitness value of chromosome 15 :   5520
+['Wilbert', 'Gio'] ['26', '7', '7', '* winner: upper']
+fitness value of chromosome 16 :   -4974
+['Wilbert', 'Gio'] ['25', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 17 :   -575
+['Gio', 'Wilbert'] ['50', '7', '7', '* winner: lower']
+fitness value of chromosome 18 :   -4950
+['Wilbert', 'Gio'] ['26', '2', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 19 :   -474
+['Wilbert', 'Gio'] ['51', '7', '5', '* winner: upper']
+fitness value of chromosome 20 :   -5149
+['Gio', 'Wilbert'] ['30', '7', '2', '* winner: lower']
+fitness value of chromosome 21 :   -5470
+['Wilbert', 'Gio'] ['19', '1', '7', '* winner: lower']
+fitness value of chromosome 22 :   5619
+['Gio', 'Wilbert'] ['30', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 23 :   -770
+['Wilbert', 'Gio'] ['14', '0', '7', '* winner: lower']
+fitness value of chromosome 24 :   5714
+#######  fittest chromosome in generation 44 is having fitness value:   5714
+[ 0.561 -0.08  -0.074 -0.189  1.294 -0.459  0.864 -0.103  0.394 -0.613
+ -0.544  0.916 -0.123  0.089  0.29  -0.15  -0.61  -3.117]
+[ 1.084 -0.08   0.16  -0.189  1.294 -0.18   0.92  -0.385  0.394  0.111
+ -0.544  0.916  0.167  0.073  0.29  -0.15  -0.25  -3.841]
+[ 0.328 -0.08   0.16  -0.189  0.373 -0.459  0.864 -0.385  0.394  0.111
+ -1.413  0.916 -0.123  0.089  0.29  -0.15  -0.61  -2.118]
+[ 0.328  0.731  0.16  -0.189  0.373 -0.459  0.864 -0.385  0.394  0.111
+ -1.413  0.916 -0.123  0.073  0.29  -0.15  -0.61  -2.118]
+[ 0.561 -0.08  -0.074 -0.189  1.294 -0.306  0.864  0.598 -1.237 -0.613
+ -0.544  0.916 -0.123  0.073  0.29  -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.189  0.1   -1.291  0.864  0.598 -0.765 -0.613
+ -0.544  0.916 -0.123  0.073 -1.332 -0.15  -0.61  -3.07 ]
+##############        GENERATION 45  ###############
+['Wilbert', 'Gio'] ['31', '7', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 0 :   -969
+['Wilbert', 'Gio'] ['25', '4', '7', '* winner: lower']
+fitness value of chromosome 1 :   5325
+['Wilbert', 'Gio'] ['22', '3', '7', '* winner: lower']
+fitness value of chromosome 2 :   5422
+['Wilbert', 'Gio'] ['19', '1', '7', '* winner: lower']
+fitness value of chromosome 3 :   5619
+['Gio', 'Wilbert'] ['18', '1', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 4 :   -382
+['Gio', 'Wilbert'] ['39', '7', '3', '* winner: lower']
+fitness value of chromosome 5 :   -5361
+['Wilbert', 'Gio'] ['37', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 6 :   -763
+['Wilbert', 'Gio'] ['19', '2', '7', '* winner: lower']
+fitness value of chromosome 7 :   5519
+['Gio', 'Wilbert'] ['38', '7', '7', '* winner: lower']
+fitness value of chromosome 8 :   -4962
+['Wilbert', 'Gio'] ['19', '2', '7', '* winner: lower']
+fitness value of chromosome 9 :   5519
+['Gio', 'Wilbert'] ['21', '2', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 10 :   -579
+['Wilbert', 'Gio'] ['32', '4', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 11 :   -768
+['Gio', 'Wilbert'] ['37', '7', '6', '* winner: lower']
+fitness value of chromosome 12 :   -5063
+['Gio', 'Wilbert'] ['24', '2', '7', '* winner: upper']
+fitness value of chromosome 13 :   5524
+['Wilbert', 'Gio'] ['32', '7', '2', '* winner: upper']
+fitness value of chromosome 14 :   -5468
+['Wilbert', 'Gio'] ['45', '7', '5', '* winner: upper']
+fitness value of chromosome 15 :   -5155
+['Gio', 'Wilbert'] ['31', '7', '8', '* winner: lower']
+fitness value of chromosome 16 :   -4869
+['Wilbert', 'Gio'] ['31', '5', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 17 :   -869
+['Wilbert', 'Gio'] ['19', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 18 :   -681
+['Wilbert', 'Gio'] ['40', '7', '6', '* winner: upper']
+fitness value of chromosome 19 :   -5060
+['Gio', 'Wilbert'] ['22', '3', '7', '* winner: upper']
+fitness value of chromosome 20 :   5422
+['Gio', 'Wilbert'] ['25', '4', '7', '* winner: upper']
+fitness value of chromosome 21 :   5325
+['Gio', 'Wilbert'] ['44', '7', '7', '* winner: lower']
+fitness value of chromosome 22 :   -4956
+['Wilbert', 'Gio'] ['55', '7', '7', '* winner: upper']
+fitness value of chromosome 23 :   -4945
+['Wilbert', 'Gio'] ['42', '7', '6', '* winner: upper']
+fitness value of chromosome 24 :   -5058
+#######  fittest chromosome in generation 45 is having fitness value:   5619
+[ 0.328  0.731  0.16  -0.189  0.373 -0.459  0.864 -0.385  0.394  0.111
+ -1.413  0.916 -0.123  0.073  0.29  -0.15  -0.61  -2.118]
+[ 0.328 -0.08   0.16  -0.189  0.1   -1.291  0.864 -0.385 -0.765  0.111
+ -0.544  0.916  0.167  0.073 -1.358 -0.15  -0.61  -3.07 ]
+[ 0.561 -0.08   0.16  -0.189  1.294  0.034  0.864 -0.385 -1.237  0.111
+ -1.413  0.916 -0.123  0.073  0.29  -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.189  0.1   -0.18   0.864  0.598 -0.765 -0.613
+ -0.544  0.633  0.167  0.073  0.29  -0.15  -0.25  -3.07 ]
+[ 0.328 -0.08   0.16  -0.189  0.373 -0.459  0.864 -0.385  0.394  0.111
+ -1.413  0.916 -0.123  0.089  0.29  -0.15  -0.61  -2.118]
+[ 0.561 -0.08   0.16  -0.189  1.294 -0.459  0.864 -0.103  0.394  0.529
+ -0.544  0.916  0.167  0.073  0.29  -0.15  -0.25  -3.117]
+##############        GENERATION 46  ###############
+['Gio', 'Wilbert'] ['27', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 0 :   -773
+['Wilbert', 'Gio'] ['43', '7', '7', '* winner: upper']
+fitness value of chromosome 1 :   -4957
+['Wilbert', 'Gio'] ['24', '5', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 2 :   -876
+['Gio', 'Wilbert'] ['26', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 3 :   -874
+['Gio', 'Wilbert'] ['28', '3', '7', '* winner: upper']
+fitness value of chromosome 4 :   5428
+['Gio', 'Wilbert'] ['36', '7', '4', '* winner: lower']
+fitness value of chromosome 5 :   -5264
+['Wilbert', 'Gio'] ['32', '7', '5', '* winner: upper']
+fitness value of chromosome 6 :   -5168
+['Wilbert', 'Gio'] ['26', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 7 :   -774
+['Wilbert', 'Gio'] ['21', '5', '7', '* winner: lower']
+fitness value of chromosome 8 :   5221
+['Gio', 'Wilbert'] ['29', '7', '6', '* winner: lower']
+fitness value of chromosome 9 :   -5071
+['Gio', 'Wilbert'] ['34', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 10 :   -866
+['Wilbert', 'Gio'] ['36', '7', '7', '* winner: upper']
+fitness value of chromosome 11 :   -4964
+['Gio', 'Wilbert'] ['41', '7', '8', '* winner: lower']
+fitness value of chromosome 12 :   -4859
+['Wilbert', 'Gio'] ['20', '1', '7', '* winner: lower']
+fitness value of chromosome 13 :   5620
+['Gio', 'Wilbert'] ['39', '7', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 14 :   -961
+['Wilbert', 'Gio'] ['18', '0', '7', '* winner: lower']
+fitness value of chromosome 15 :   5718
+['Gio', 'Wilbert'] ['26', '2', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 16 :   -574
+['Gio', 'Wilbert'] ['21', '1', '7', '* winner: upper']
+fitness value of chromosome 17 :   5621
+['Wilbert', 'Gio'] ['20', '2', '7', '* winner: lower']
+fitness value of chromosome 18 :   5520
+['Wilbert', 'Gio'] ['38', '7', '7', '* winner: upper']
+fitness value of chromosome 19 :   -4962
+['Gio', 'Wilbert'] ['32', '7', '5', '* winner: lower']
+fitness value of chromosome 20 :   -5168
+['Wilbert', 'Gio'] ['33', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 21 :   -667
+['Wilbert', 'Gio'] ['28', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 22 :   -772
+['Gio', 'Wilbert'] ['52', '7', '6', '* winner: lower']
+fitness value of chromosome 23 :   -5048
+['Wilbert', 'Gio'] ['28', '3', '7', '* winner: lower']
+fitness value of chromosome 24 :   5428
+#######  fittest chromosome in generation 46 is having fitness value:   5718
+[ 0.561 -0.08   0.16  -0.189  0.1    0.034  0.864  0.598 -1.237  0.111
+ -0.544  0.633 -0.123 -0.769  0.29  -0.15  -0.61  -3.117]
+[ 0.561 -0.08   0.16  -0.189  0.1   -1.291  0.864 -0.385  0.394  0.111
+ -0.096  0.916  0.167  0.073 -1.358 -0.15  -0.25  -3.117]
+[ 0.561 -0.08   0.16  -0.189  0.373 -0.459  0.864 -0.385  0.394  0.111
+ -1.413  0.916  0.167  0.089  0.204 -0.15  -0.25  -3.117]
+[ 0.328  0.731  0.16  -0.189  0.373 -0.459  0.864 -0.385  0.394  0.111
+ -1.413  0.916 -0.123  0.089  1.235 -0.15  -0.61  -2.118]
+[ 0.328 -0.08   0.16  -0.189  0.373 -0.459  0.864 -0.385  0.394  0.111
+ -1.413  0.916 -0.123  0.089  0.29  -0.15  -0.61  -2.118]
+[ 0.561 -0.08   0.16  -0.189  1.294 -0.459  0.864 -0.385  0.394  0.111
+ -1.413  0.916 -0.123  0.073 -0.405 -0.15  -0.61  -3.117]
+##############        GENERATION 47  ###############
+['Gio', 'Wilbert'] ['22', '3', '7', '* winner: upper']
+fitness value of chromosome 0 :   5422
+['Gio', 'Wilbert'] ['33', '4', '7', '* winner: upper']
+fitness value of chromosome 1 :   5333
+['Gio', 'Wilbert'] ['33', '7', '5', '* winner: lower']
+fitness value of chromosome 2 :   -5167
+['Wilbert', 'Gio'] ['62', '7', '7', '* winner: upper']
+fitness value of chromosome 3 :   -4938
+['Gio', 'Wilbert'] ['15', '0', '7', '* winner: upper']
+fitness value of chromosome 4 :   5715
+['Wilbert', 'Gio'] ['27', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 5 :   -673
+['Gio', 'Wilbert'] ['39', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 6 :   -861
+['Wilbert', 'Gio'] ['38', '7', '5', '* winner: upper']
+fitness value of chromosome 7 :   -5162
+['Gio', 'Wilbert'] ['42', '7', '7', '* winner: lower']
+fitness value of chromosome 8 :   -4958
+['Gio', 'Wilbert'] ['25', '4', '7', '* winner: upper']
+fitness value of chromosome 9 :   5325
+['Wilbert', 'Gio'] ['18', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 10 :   -582
+['Gio', 'Wilbert'] ['45', '7', '3', '* winner: lower']
+fitness value of chromosome 11 :   -5355
+['Wilbert', 'Gio'] ['43', '7', '7', '* winner: upper']
+fitness value of chromosome 12 :   -4957
+['Gio', 'Wilbert'] ['21', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 13 :   -779
+['Wilbert', 'Gio'] ['26', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 14 :   -574
+['Gio', 'Wilbert'] ['39', '7', '4', '* winner: lower']
+fitness value of chromosome 15 :   -5261
+['Gio', 'Wilbert'] ['24', '2', '7', '* winner: upper']
+fitness value of chromosome 16 :   5524
+['Wilbert', 'Gio'] ['26', '4', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 17 :   -774
+['Gio', 'Wilbert'] ['22', '2', '7', '* winner: upper']
+fitness value of chromosome 18 :   5522
+['Gio', 'Wilbert'] ['27', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 19 :   -773
+['Gio', 'Wilbert'] ['35', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 20 :   -765
+['Gio', 'Wilbert'] ['21', '5', '7', '* winner: upper']
+fitness value of chromosome 21 :   5221
+['Gio', 'Wilbert'] ['24', '3', '7', '* winner: upper']
+fitness value of chromosome 22 :   5424
+['Gio', 'Wilbert'] ['32', '7', '4', '* winner: lower']
+fitness value of chromosome 23 :   -5268
+['Gio', 'Wilbert'] ['33', '7', '4', '* winner: lower']
+fitness value of chromosome 24 :   -5267
+#######  fittest chromosome in generation 47 is having fitness value:   5715
+[ 0.328 -0.08   0.16  -0.189  0.373 -0.459  0.864 -0.385  0.394  0.111
+ -1.413  0.916 -0.123  0.089  0.29  -0.15  -0.61  -2.118]
+[ 0.561 -0.08   0.16  -0.189  1.294 -0.129  0.864  0.598 -1.237  0.111
+ -1.413  0.633 -0.123 -0.769 -0.405 -0.15  -0.61  -3.117]
+[ 0.561 -0.08   0.16  -0.189  0.1   -1.291  0.864  0.598  0.394  0.478
+ -0.544  0.916  0.167 -0.769  0.29  -0.15  -0.61  -3.117]
+[ 0.561 -0.08   0.16  -0.189  0.373 -1.291  0.864  0.144  0.394  0.111
+ -1.413  0.916 -0.123  0.089  0.29  -0.15  -0.61  -2.118]
+[ 0.561 -0.08   0.16  -0.189  0.1    0.034  0.864  0.598 -1.237  0.111
+ -0.544  0.633 -0.123 -0.769  0.29  -0.15  -0.61  -3.117]
+[ 0.561 -0.08   0.16  -0.189  0.1   -1.291  0.864 -0.385  0.394  0.111
+ -0.096  0.916  0.167  0.073 -1.358 -0.15  -0.25  -3.117]
+##############        GENERATION 48  ###############
+['Gio', 'Wilbert'] ['25', '3', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 0 :   -675
+['Gio', 'Wilbert'] ['44', '7', '7', '* winner: lower']
+fitness value of chromosome 1 :   -4956
+['Wilbert', 'Gio'] ['45', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 2 :   -755
+['Gio', 'Wilbert'] ['46', '7', '5', '* winner: lower']
+fitness value of chromosome 3 :   -5154
+['Wilbert', 'Gio'] ['46', '7', '6', '* winner: upper']
+fitness value of chromosome 4 :   -5054
+['Gio', 'Wilbert'] ['45', '7', '5', '* winner: lower']
+fitness value of chromosome 5 :   -5155
+['Gio', 'Wilbert'] ['31', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 6 :   -669
+['Gio', 'Wilbert'] ['54', '7', '8', '* winner: lower']
+fitness value of chromosome 7 :   -4846
+['Gio', 'Wilbert'] ['20', '4', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 8 :   -780
+['Wilbert', 'Gio'] ['25', '2', '7', '* winner: lower']
+fitness value of chromosome 9 :   5525
+['Wilbert', 'Gio'] ['25', '3', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 10 :   -575
+['Gio', 'Wilbert'] ['27', '7', '6', '* winner: lower']
+fitness value of chromosome 11 :   -5073
+['Wilbert', 'Gio'] ['29', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 12 :   -771
+['Wilbert', 'Gio'] ['22', '2', '7', '* winner: lower']
+fitness value of chromosome 13 :   5522
+['Wilbert', 'Gio'] ['38', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 14 :   -762
+['Wilbert', 'Gio'] ['37', '7', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 15 :   -963
+['Wilbert', 'Gio'] ['25', '5', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 16 :   -875
+['Wilbert', 'Gio'] ['37', '7', '5', '* winner: upper']
+fitness value of chromosome 17 :   -5163
+['Wilbert', 'Gio'] ['43', '7', '7', '* winner: upper']
+fitness value of chromosome 18 :   -4957
+['Wilbert', 'Gio'] ['42', '7', '7', '* winner: upper']
+fitness value of chromosome 19 :   -4958
+['Gio', 'Wilbert'] ['35', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 20 :   -865
+['Wilbert', 'Gio'] ['18', '1', '7', '* winner: lower']
+fitness value of chromosome 21 :   5618
+['Gio', 'Wilbert'] ['29', '1', '7', '* winner: upper']
+fitness value of chromosome 22 :   5629
+['Wilbert', 'Gio'] ['33', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 23 :   -667
+['Gio', 'Wilbert'] ['35', '7', '6', '* winner: lower']
+fitness value of chromosome 24 :   -5065
+#######  fittest chromosome in generation 48 is having fitness value:   5629
+[ 0.561 -0.08   0.16  -0.189  0.1    0.034  0.864  0.598  0.394  0.111
+ -1.413  0.633 -0.123 -0.769 -0.658 -0.15  -0.61  -2.118]
+[ 0.328 -0.08   0.16  -0.189  0.373 -0.459  0.864 -0.385  0.394  0.111
+ -0.544  0.633 -0.123  0.089  1.217 -0.15  -0.61  -3.117]
+[ 0.561 -0.08   0.16  -0.189  0.807 -0.129  0.864  0.598  0.394  0.478
+ -0.544  0.633 -0.123 -0.769  0.29  -0.15  -0.61  -3.117]
+[ 0.561 -0.08   0.16  -0.189  0.1    0.034  0.864  0.598 -1.237  0.111
+ -1.413  0.916 -0.123  0.127  0.29  -0.15  -0.61  -2.118]
+[-0.4   -0.08   0.16  -0.189  0.373 -0.459  0.864 -0.385  0.394  0.478
+ -1.413  0.916 -0.123  0.089  0.29  -0.15  -0.61  -3.117]
+[ 0.561 -0.08   0.16  -0.189  0.1   -1.291  1.829  0.144  0.394  0.111
+ -0.544  0.916 -0.123  0.089  0.29  -0.15  -0.61  -2.118]
+##############        GENERATION 49  ###############
+['Wilbert', 'Gio'] ['37', '7', '5', '* winner: upper']
+fitness value of chromosome 0 :   -5163
+['Wilbert', 'Gio'] ['14', '1', '7', '* winner: lower']
+fitness value of chromosome 1 :   5614
+['Gio', 'Wilbert'] ['14', '0', '7', '* winner: upper']
+fitness value of chromosome 2 :   5714
+['Gio', 'Wilbert'] ['23', '4', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 3 :   -777
+['Wilbert', 'Gio'] ['33', '7', '4', '* winner: upper']
+fitness value of chromosome 4 :   -5267
+['Wilbert', 'Gio'] ['34', '7', '7', '* winner: upper']
+fitness value of chromosome 5 :   -4966
+['Gio', 'Wilbert'] ['24', '7', '2', '* winner: lower']
+fitness value of chromosome 6 :   -5476
+['Gio', 'Wilbert'] ['16', '4', '7', '* winner: upper']
+fitness value of chromosome 7 :   5316
+['Wilbert', 'Gio'] ['32', '7', '8', '* winner: upper']
+fitness value of chromosome 8 :   -4868
+['Gio', 'Wilbert'] ['29', '6', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 9 :   -871
+['Gio', 'Wilbert'] ['22', '1', '7', '* winner: upper']
+fitness value of chromosome 10 :   5622
+['Wilbert', 'Gio'] ['18', '2', '7', '* winner: lower']
+fitness value of chromosome 11 :   5518
+['Wilbert', 'Gio'] ['40', '7', '7', '* winner: upper']
+fitness value of chromosome 12 :   -4960
+['Gio', 'Wilbert'] ['38', '7', '7', '* winner: lower']
+fitness value of chromosome 13 :   -4962
+['Gio', 'Wilbert'] ['42', '7', '7', '* winner: lower']
+fitness value of chromosome 14 :   -4958
+['Wilbert', 'Gio'] ['38', '7', '7', '* winner: upper']
+fitness value of chromosome 15 :   -4962
+['Gio', 'Wilbert'] ['34', '7', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 16 :   -966
+['Gio', 'Wilbert'] ['32', '7', '5', '* winner: lower']
+fitness value of chromosome 17 :   -5168
+['Gio', 'Wilbert'] ['36', '7', '5', '* winner: lower']
+fitness value of chromosome 18 :   -5164
+['Wilbert', 'Gio'] ['21', '5', '6', '* draw: both players have an invincible token']
+fitness value of chromosome 19 :   -879
+['Gio', 'Wilbert'] ['30', '4', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 20 :   -670
+['Gio', 'Wilbert'] ['25', '4', '7', '* error: invalid action!']
+fitness value of chromosome 21 :   -675
+['Wilbert', 'Gio'] ['27', '5', '7', '* draw: both players have an invincible token']
+fitness value of chromosome 22 :   -773
+['Gio', 'Wilbert'] ['21', '1', '7', '* winner: upper']
+fitness value of chromosome 23 :   5621
+['Gio', 'Wilbert'] ['26', '6', '7', '* winner: upper']
+fitness value of chromosome 24 :   5126
+#######  fittest chromosome in generation 49 is having fitness value:   5714
+[ 0.561 -0.08   0.16  -0.189  0.807 -0.129  0.864  0.598  0.394  0.478
+ -0.544  0.633 -0.123 -0.769  0.29  -0.15  -0.61  -3.117]
+[ 0.328 -0.08   0.16  -0.189  0.373 -0.459  0.864 -0.385  0.394  0.111
+ -0.544  0.633 -0.123  0.089  0.29  -0.35  -0.61  -3.117]
+[ 0.561 -0.08   0.16  -0.189  0.182 -0.459  0.864 -0.385  0.394  0.111
+ -1.413  0.916 -0.123  0.089  0.29  -0.15  -0.61  -2.118]
+[ 0.328 -0.08   0.16  -0.189  0.373 -0.459  0.864 -0.385  0.394  0.111
+ -0.544  0.633 -0.123  0.089  1.217 -0.15  -0.61  -3.117]
+[ 0.561 -0.08   0.16  -0.189  0.1    0.034  0.864  0.598  0.394  0.478
+ -1.413  0.633 -0.123  0.127  0.316 -0.15  -0.61  -2.118]
+[ 0.561 -0.08   0.16  -0.189  0.373 -0.459  0.864  0.571 -1.237  0.111
+ -0.544  0.633 -0.123  0.127  0.29  -0.15  -0.61  -2.118]
