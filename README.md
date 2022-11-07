@@ -1,5 +1,5 @@
 # unimelb-programming-projects
-A compilation of all the programming assignments and tasks I did across my Computer Science degree at the University of Melbourne
+A compilation of all the programming assignments and tasks I did across my Software Engineering degree at the University of Melbourne
 
 ### Subjects Included
 - COMP10001 (Foundations of Computing)
@@ -11,5 +11,7 @@ A compilation of all the programming assignments and tasks I did across my Compu
 - COMP30024 (Artificial Intelligence)
 - SWEN30006 (Software Modelling & Design)
 - INFO30005 (Web Information Technologies)
+- SWEN90004 (Modelling Complex Software Systems)
+- SWEN90007 (Software Design & Architecture)
 
-note: only specification, mark-schemes, test/input files, and programming components are included in this repository. Non-programming parts of the assignments have not been included.
+note: only specifications, mark-schemes, test/input files, and programming components are included in this repository. Non-programming parts of the assignments (such as reports and reflections) have not been included. Some assignments (specifically for project-based subjects) may have their own repositories, and so won't be included here (please checkout the rest of my GitHub profile to find these).
